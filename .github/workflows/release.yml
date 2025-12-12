@@ -58,7 +58,7 @@ jobs:
             ! -path "./.github/*" \
             ! -name ".gitignore" \
             ! -name "$JAR_NAME" \
-            -print0 | xargs -0 jar cfm "$JAR_NAME" META-INF/MANIFEST.MF
+            -print0 | xargs -0 jar cf "$JAR_NAME"
 
       - name: Create GitHub release and attach JAR
         env:
