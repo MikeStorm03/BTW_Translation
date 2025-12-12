@@ -20,26 +20,40 @@ jobs:
       - name: Set environment variables
         run: |
           set -euo pipefail
-          SHORT_SHA="${GITHUB_SHA:0:7}"
-          echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
-          
-          VERSION="v-$(date -u +%Y%m%d%H%M%S)-${SHORT_SHA}"
-          echo "INJECTED_VERSION=$VERSION" >> $GITHUB_ENV
-          
-          # Update JAR name to include the version
-          JAR_NAME="btw-translations-$VERSION.jar"
+          # Always use the same JAR name
+          JAR_NAME="btw-translation.jar"
           echo "JAR_NAME=$JAR_NAME" >> $GITHUB_ENV
+
+          # Human-readable nightly release title
+          NIGHTLY_DATE=$(date -u +"%b %dth %Y")
+          RELEASE_TITLE="BTW Translations Nightly $NIGHTLY_DATE"
+          echo "RELEASE_TITLE=$RELEASE_TITLE" >> $GITHUB_ENV
 
       - name: Inject version into fabric.mod.json
         run: |
           set -euo pipefail
+          # Read current version from fabric.mod.json
+          CURRENT_VERSION=$(jq -r '.version' fabric.mod.json)
+          echo "Current version: $CURRENT_VERSION"
+
+          # Extract major and minor parts (e.g., 1.0 from 1.0.0-dev)
+          MAJOR_MINOR=$(echo "$CURRENT_VERSION" | sed -E 's/^([0-9]+\.[0-9]+).*/\1/')
+          
+          # Use GitHub run number as patch
+          PATCH="$GITHUB_RUN_NUMBER"
+
+          # Construct new version: 1.0.X
+          INJECTED_VERSION="${MAJOR_MINOR}.${PATCH}"
+          echo "INJECTED_VERSION=$INJECTED_VERSION" >> $GITHUB_ENV
+
+          # Update fabric.mod.json with new version
           jq --arg v "$INJECTED_VERSION" '.version = $v' fabric.mod.json > fabric.mod.json.tmp
           mv fabric.mod.json.tmp fabric.mod.json
 
       - name: Create JAR of repository
         run: |
           set -euo pipefail
-          # Build JAR safely, excluding .git, .github, and .gitignore
+          # Build JAR excluding .git, .github, and .gitignore
           find . -type f \
             ! -path "./.git/*" \
             ! -path "./.github/*" \
@@ -53,8 +67,8 @@ jobs:
         run: |
           set -euo pipefail
           TAG="$INJECTED_VERSION"
-          TITLE="BTW CE Translations $TAG"
-          NOTES="Automated release for commit ${GITHUB_SHA} on branch ${GITHUB_REF#refs/heads/}"
+          TITLE="$RELEASE_TITLE"
+          NOTES="Automated nightly release for commit ${GITHUB_SHA} on branch ${GITHUB_REF#refs/heads/}"
 
           gh release create "$TAG" "$JAR_NAME" \
             -t "$TITLE" \

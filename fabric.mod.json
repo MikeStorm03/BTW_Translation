@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "translation",
-  "version": "3.0.0",
+  "version": "1.0.0-dev",
   "name": "Translation Addon",
   "description": "BTW CE Fan Translations",
   "authors": [
