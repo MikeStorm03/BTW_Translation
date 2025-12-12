@@ -1,0 +1,1092 @@
+# BTW Blocks
+
+tile.fcBlockArcaneVessel.name=龙之容器
+tile.fcBlockScrewPump.name=螺杆泵
+tile.FCBlockFarmlandFertilized.name=肥沃农田
+tile.fcBlockWoolSlab.name=羊毛台阶
+tile.fcBlockGroth.name=生长的地狱孢子
+tile.fcBlockInfernalEnchanter.name=炼狱附魔台
+tile.fcBlockSoulforgedSteel.name=熔魂钢块
+tile.fcBlockDetectorLogicGlowing.name=发光检测逻辑方块
+tile.fcBlockBloodWoodLeaves.name=血木树叶
+tile.fcBlockBloodWood.name=血木原木
+tile.fcBlockMiningCharge.name=矿用炸药
+tile.fcBlockBuddyBlock.name=方块更新检测器
+tile.fcBlockKiln.name=砖窑
+tile.fcBlockAnvil.name=熔魂钢砧
+tile.fcBlockLightBlock.name=发光灯
+tile.fcBlockHibachi.name=火盆
+tile.fcBlockHopper.name=漏斗
+tile.fcBlockSaw.name=螺杆锯
+tile.fcBlockPlatform.name=升降台
+tile.fcBlockCement.name=水泥
+tile.fcBlockPulley.name=滑车
+tile.fcBlockWoodOakMoulding.name=木半板
+tile.fcBlockWoodOakMoulding.moulding.name=木条
+tile.fcBlockCorner.name=木边角
+tile.fcBlockBlockDispenser.name=方块发射器
+tile.fcBlockCauldron.name=釜锅
+tile.fcBlockDetectorBlock.name=探测器
+tile.fcBlockDetectorLogic.name=探测逻辑块
+tile.fcBlockLens.name=聚光器
+tile.fcBlockHemp.name=麻
+tile.fcBlockHandCrank.name=手摇曲柄
+tile.fcBlockMillStone.name=磨石
+tile.fcBlockAnchor.name=滑车锚
+tile.fcBlockRope.name=麻绳
+tile.fcBlockOmniSlab.name=半板
+tile.fcBlockAxle.name=传动轴
+tile.fcBlockAxlePowerSource.name=充能的传动轴
+tile.fcBlockGearBox.name=齿轮箱
+tile.fcBlockTurntable.name=螺杆旋转台
+tile.fcBlockBellows.name=风箱
+tile.fcBlockStokedFire.name=烈火
+tile.fcBlockUnfiredPottery.name=生坯
+tile.fcBlockCrucible.name=坩埚
+tile.fcBlockPlanter.name=种植盆
+tile.fcBlockVase.name=花瓶
+tile.fcBlockDetectorRailWood.name=空载探测铁轨
+tile.fcBlockDetectorRailSoulforgedSteel.name=重载探测铁轨
+tile.fcBlockRottenFlesh.name=腐肉块
+tile.fcBlockSoulforgeDormant.name=未激活的熔魂钢砧
+tile.fcBlockSmoothstoneStairs.name=石楼梯
+tile.fcBlockRottenFleshSlab.name=腐肉台阶
+tile.fcBlockBoneSlab.name=骨台阶
+tile.fcBlockPumpkinFresh.name=南瓜
+tile.fcBlockWoodBloodStairs.name=血木楼梯
+tile.fcBlockLogDamaged.name=砍伐过的原木
+tile.fcBlockDirtLoose.name=松散泥土
+tile.fcBlockDirtLooseSlab.name=松散泥土台阶
+tile.fcBlockCampfire.name=篝火
+tile.fcBlockUnfiredBrick.name=粗制砖坯
+tile.fcBlockCookedBrick.name=红砖
+tile.fcBlockBrickLoose.name=松散红砖块
+tile.fcBlockBrickLooseSlab.name=松散红砖台阶
+tile.fcBlockCobblestoneLoose.name=松散圆石
+tile.fcBlockCobblestoneLooseSlab.name=松散圆石台阶
+tile.fcBlockLooseFurnaceBrick.name=松散砖炉
+tile.fcBlockTorchFiniteIdle.name=熄灭的粗制火把
+tile.fcBlockTorchFiniteBurning.name=燃烧的粗制火把
+tile.fcBlockStoneRough.name=粗糙石头
+tile.fcBlockWorkStump.name=树墩工作台
+tile.fcBlockBasketWicker.name=小篮子
+tile.fcBlockLogSpike.name=原木尖桩
+tile.fcBlockTorchIdle.name=熄灭的火把
+tile.fcBlockUnfiredClay.name=粘土块
+tile.fcBlockMyceliumSlab.name=菌丝台阶
+tile.fcBlockBrickLooseStairs.name=松散红砖楼梯
+tile.fcBlockCobblestoneLooseStairs.name=松散圆石楼梯
+tile.fcBlockLogSmouldering.name=阴燃的原木
+tile.fcBlockWoodCinders.name=烧焦的原木
+tile.fcBlockStumpCharred.name=烧焦的树桩
+tile.fcBlockAshGroundCover.name=灰烬
+tile.fcBlockSnowLoose.name=松散雪块
+tile.fcBlockSnowLooseSlab.name=松散雪台阶
+tile.fcBlockSnowSolid.name=雪块
+tile.fcBlockSnowSolidSlab.name=雪台阶
+tile.fcBlockLadder.name=梯子
+tile.fcBlockLadderOnFire.name=燃烧的梯子
+tile.fcBlockShovel.name=活塞铲
+tile.fcBlockHamper.name=大篮子
+tile.fcBlockCreeperOysters.name=苦力怕酶腺块
+tile.fcBlockCreeperOystersSlab.name=苦力怕酶腺台阶
+tile.fcBlockTorchNetherBurning.name=燃烧的火把
+tile.fcBlockRedstoneClutch.name=红石离合器
+tile.fcBlockSpikeIron.name=铁饰杆
+tile.fcBlockLightningRod.name=避雷针
+tile.fcBlockStoneBrickLoose.name=松散石砖
+tile.fcBlockStoneBrickLooseSlab.name=松散石砖台阶
+tile.fcBlockStoneBrickLooseStairs.name=松散石砖楼梯
+tile.fcBlockNetherBrickLoose.name=松散地狱砖
+tile.fcBlockNetherBrickLooseSlab.name=松散地狱砖台阶
+tile.fcBlockNetherBrickLooseStairs.name=松散地狱砖楼梯
+tile.fcBlockNetherrackFalling.name=下落中的地狱岩
+tile.fcBlockLavaPillow.name=表面冷却的岩浆
+tile.fcBlockChunkOreStorageIron.name=粗铁块
+tile.fcBlockChunkOreStorageGold.name=粗金块
+tile.fcBlockWicker.name=筚板块
+tile.fcBlockWickerSlab.name=筚板台阶
+tile.fcBlockWickerPane.name=筚板
+tile.fcBlockGrate.name=网格板
+tile.fcBlockSlats.name=板条
+tile.fcBlockFarmlandNew.name=耕地
+tile.fcBlockPlanterSoil.name=泥土种植盆
+tile.fcBlockSilverfishStone.name=虫蚀石头
+tile.fcBlockSilverfishStone2.name=虫蚀深板岩
+tile.fcBlockSilverfishStone3.name=虫蚀黑石
+tile.fcBlockSilverfishCobblestone.name=虫蚀圆石
+tile.fcBlockSilverfishStoneBrick.name=虫蚀石砖
+tile.fcBlockSilverfishStoneBrickMossy.name=虫蚀苔石砖
+tile.fcBlockSilverfishStoneCracked.name=虫蚀裂石砖
+tile.fcBlockSilverfishStoneChiseled.name=虫蚀錾制石砖
+tile.fcBlockClay.name=粘土矿
+tile.fcBlockGrassSlab.name=草台阶
+tile.fcBlockBedroll.name=地铺
+tile.fcBlockSpiderEye.name=蜘蛛眼块
+tile.fcBlockSpiderEyeSlab.name=蜘蛛眼台阶
+tile.fcBlockSaplingOak.name=橡树幼苗
+tile.fcBlockSaplingOak.mature.name=成熟橡树苗
+tile.fcBlockSaplingSpruce.name=云杉幼苗
+tile.fcBlockSaplingSpruce.mature.name=成熟云杉树苗
+tile.fcBlockSaplingBirch.name=白桦幼苗
+tile.fcBlockSaplingBirch.mature.name=成熟白桦树苗
+tile.fcBlockSaplingJungle.name=丛林幼苗
+tile.fcBlockSaplingJungle.mature.name=成熟丛林树苗
+tile.fcBlockMushroomCap.name=蘑菇块
+tile.fcBlockLoom.name=织布机
+
+# BTW Complex Blocks
+
+tile.fcBlockCompanionCube.cube.name=挚友方块
+tile.fcBlockCompanionCube.slab.name=挚友台阶
+tile.fcBlockAestheticOpaque.name=被地狱孢子寄生的地狱岩
+tile.fcBlockAestheticOpaque.wicker.name=旧筚板块
+tile.fcBlockAestheticOpaque.dung.name=旧粪块
+tile.fcBlockAestheticOpaque.steel.name=熔魂钢块
+tile.fcBlockAestheticOpaque.hellfire.name=浓缩地狱火块
+tile.fcBlockAestheticOpaque.padding.name=衬垫块
+tile.fcBlockAestheticOpaque.soap.name=肥皂块
+tile.fcBlockAestheticOpaque.rope.name=麻绳圈
+tile.fcBlockAestheticOpaque.flint.name=燧石块
+tile.fcBlockAestheticOpaque.whitestone.name=白石
+tile.fcBlockAestheticOpaque.whitecobble.name=白石圆石
+tile.fcBlockAestheticOpaque.barrel.name=木桶
+tile.fcBlockAestheticOpaque.choppingblock.name=劈砍台
+tile.fcBlockAestheticOpaque.enderblock.name=末影块
+tile.fcBlockAestheticOpaque.bone.name=骨块
+tile.fcBlockAestheticNonOpaque.name=藤蔓陷阱
+tile.fcBlockAestheticNonOpaque.urn.name=瓮
+tile.fcBlockAestheticNonOpaque.column.name=旧柱子
+tile.fcBlockAestheticNonOpaque.pedestal.name=旧基座
+tile.fcBlockAestheticNonOpaque.table.name=旧桌子
+tile.fcBlockAestheticNonOpaque.wickerslab.name=旧筚板台阶
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=白石圆石台阶
+tile.fcBlockAestheticNonOpaque.lightningrod.name=旧熔魂钢避雷针
+tile.fcBlockAestheticVegetation.name=藤蔓陷阱
+tile.fcBlockAestheticVegetation.vinetrap.name=藤蔓陷阱
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=血木树苗
+tile.fcBlockAestheticVegetation.bloodleaves.name=血木树叶
+
+tile.fcWoodSpruceSiding.oak.name=橡木半板
+tile.fcWoodSpruceSiding.spruce.name=云杉木半板
+tile.fcWoodSpruceSiding.birch.name=白桦木半板
+tile.fcWoodSpruceSiding.jungle.name=丛林木半板
+tile.fcWoodSpruceSiding.blood.name=血木半板
+
+tile.fcWoodSpruceMoulding.oak.name=橡木条
+tile.fcWoodSpruceMoulding.spruce.name=云杉木条
+tile.fcWoodSpruceMoulding.birch.name=白桦木条
+tile.fcWoodSpruceMoulding.jungle.name=丛林木条
+tile.fcWoodSpruceMoulding.blood.name=血木条
+
+tile.fcWoodBirchSiding.oak.name=橡木边角
+tile.fcWoodBirchSiding.spruce.name=云杉木边角
+tile.fcWoodBirchSiding.birch.name=白桦木边角
+tile.fcWoodBirchSiding.jungle.name=丛林木边角
+tile.fcWoodBirchSiding.blood.name=血木边角
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=橡木基座
+tile.fcWoodBirchMoulding.spruce.pedestal.name=云杉木基座
+tile.fcWoodBirchMoulding.birch.pedestal.name=白桦木基座
+tile.fcWoodBirchMoulding.jungle.pedestal.name=丛林木基座
+tile.fcWoodBirchMoulding.blood.pedestal.name=血木基座
+
+tile.fcWoodBirchMoulding.oak.column.name=橡木柱子
+tile.fcWoodBirchMoulding.spruce.column.name=云杉木柱子
+tile.fcWoodBirchMoulding.birch.column.name=白桦木柱子
+tile.fcWoodBirchMoulding.jungle.column.name=丛林木柱子
+tile.fcWoodBirchMoulding.blood.column.name=血木柱子
+
+tile.fcWoodBirchMoulding.oak.table.name=橡木桌子
+tile.fcWoodBirchMoulding.spruce.table.name=云杉木桌子
+tile.fcWoodBirchMoulding.birch.table.name=白桦木桌子
+tile.fcWoodBirchMoulding.jungle.table.name=丛林木桌子
+tile.fcWoodBirchMoulding.blood.table.name=血木桌子
+
+tile.fcWoodJungleSiding.oak.bench.name=橡木凳子
+tile.fcWoodJungleSiding.spruce.bench.name=云杉木凳子
+tile.fcWoodJungleSiding.birch.bench.name=白桦木凳子
+tile.fcWoodJungleSiding.jungle.bench.name=丛林木凳子
+tile.fcWoodJungleSiding.blood.bench.name=血木凳子
+
+tile.fcWoodJungleSiding.oak.fence.name=橡木栅栏
+tile.fcWoodJungleSiding.spruce.fence.name=云杉木栅栏
+tile.fcWoodJungleSiding.birch.fence.name=白桦木栅栏
+tile.fcWoodJungleSiding.jungle.fence.name=丛林木栅栏
+tile.fcWoodJungleSiding.blood.fence.name=血木栅栏
+
+tile.fcBlockSidingBlackStone.name=半板和边角
+tile.fcBlockSidingBlackStone.siding.name=黑石半板
+tile.fcBlockSidingBlackStone.corner.name=黑石边角
+tile.fcBlockSidingBlackStone.bench.name=黑石凳子
+tile.fcBlockSidingBlackStone.fence.name=黑石栅栏
+tile.fcBlockMouldingBlackStone.name=造型和装饰
+tile.fcBlockMouldingBlackStone.moulding.name=黑石条
+tile.fcBlockMouldingBlackStone.column.name=黑石柱子
+tile.fcBlockMouldingBlackStone.pedestal.name=黑石基座
+tile.fcBlockMouldingBlackStone.table.name=黑石桌子
+
+tile.fcStoneBrickSiding.name=半板和边角
+tile.fcStoneBrickSiding.siding.name=石砖半板
+tile.fcStoneBrickSiding.corner.name=石砖边角
+tile.fcStoneBrickSiding.bench.name=石砖凳子
+tile.fcStoneBrickSiding.fence.name=石砖栅栏
+tile.fcStoneBrickMoulding.name=造型和装饰
+tile.fcStoneBrickMoulding.moulding.name=石砖条
+tile.fcStoneBrickMoulding.column.name=石砖柱
+tile.fcStoneBrickMoulding.pedestal.name=石砖基座
+tile.fcStoneBrickMoulding.table.name=石砖桌子
+
+tile.fcWhiteStoneSiding.name=半板和边角
+tile.fcWhiteStoneSiding.siding.name=白石半板
+tile.fcWhiteStoneSiding.corner.name=白石边角
+tile.fcWhiteStoneSiding.bench.name=白石凳子
+tile.fcWhiteStoneSiding.fence.name=白石围栏
+tile.fcWhiteStoneMoulding.name=造型和装饰
+tile.fcWhiteStoneMoulding.moulding.name=白石条
+tile.fcWhiteStoneMoulding.column.name=白石柱子
+tile.fcWhiteStoneMoulding.pedestal.name=白石基座
+tile.fcWhiteStoneMoulding.table.name=白石桌
+
+tile.fcBlockWhiteStoneStairs.smooth.name=白石楼梯
+tile.fcBlockWhiteStoneStairs.cobble.name=白色圆石楼梯
+
+tile.fcNetherBrickSiding.name=半板和边角
+tile.fcNetherBrickSiding.siding.name=地狱砖半板
+tile.fcNetherBrickSiding.corner.name=地狱砖边角
+tile.fcNetherBrickSiding.bench.name=地狱砖凳
+tile.fcNetherBrickSiding.fence.name=地狱砖栅栏
+tile.fcNetherBrickMoulding.name=造型和装饰
+tile.fcNetherBrickMoulding.moulding.name=地狱砖装饰条
+tile.fcNetherBrickMoulding.column.name=地狱砖柱
+tile.fcNetherBrickMoulding.pedestal.name=地狱砖基座
+tile.fcNetherBrickMoulding.table.name=地狱砖桌子
+
+tile.fcBrickSiding.name=半板和墙角
+tile.fcBrickSiding.siding.name=砖半板
+tile.fcBrickSiding.corner.name=砖墙角
+tile.fcBrickSiding.bench.name=砖凳子
+tile.fcBrickSiding.fence.name=砖栅栏
+tile.fcBrickMoulding.name=造型和装饰
+tile.fcBrickMoulding.moulding.name=砖条
+tile.fcBrickMoulding.column.name=砖柱
+tile.fcBrickMoulding.pedestal.name=砖基座
+tile.fcBrickMoulding.table.name=砖桌
+
+tile.fcStoneSiding.name=半板和墙角
+tile.fcStoneSiding.siding.name=石材半板
+tile.fcStoneSiding.corner.name=石质边角
+tile.fcStoneSiding.bench.name=石质凳子
+tile.fcStoneSiding.fence.name=石质栅栏
+tile.fcStoneMoulding.name=造型和装饰
+tile.fcStoneMoulding.moulding.name=石质条
+tile.fcStoneMoulding.column.name=石质柱子
+tile.fcStoneMoulding.pedestal.name=石质基座
+tile.fcStoneMoulding.table.name=石质桌
+
+tile.fcSandstoneSiding.name=半板和边角
+tile.fcSandstoneSiding.siding.name=沙石半板
+tile.fcSandstoneSiding.corner.name=沙石边角
+tile.fcSandstoneSiding.bench.name=沙石凳子
+tile.fcSandstoneSiding.fence.name=沙石栅栏
+tile.fcSandstoneMoulding.name=造型和装饰
+tile.fcSandstoneMoulding.moulding.name=沙石条
+tile.fcSandstoneMoulding.column.name=沙石柱
+tile.fcSandstoneMoulding.pedestal.name=沙石基座
+tile.fcSandstoneMoulding.table.name=沙石桌子
+
+tile.fcBlockAestheticOpaqueEarth.name=凋零壤
+tile.fcBlockAestheticOpaqueEarth.blight.name=枯萎病方块
+tile.fcBlockAestheticOpaqueEarth.blight3.name=成熟枯萎病方块
+tile.fcBlockAestheticOpaqueEarth.packed.name=压实土块
+tile.fcBlockAestheticOpaqueEarth.dung.name=粪块
+tile.fcBlockSlabDirt.name=泥土台阶
+tile.fcBlockSlabDirt.grass.name=旧草台阶
+tile.fcBlockSlabDirt.packed.name=压实土台阶
+tile.fcBlockSlabFalling.name=沙砾台阶
+tile.fcBlockSlabFalling.sand.name=沙子台阶
+
+# Vanilla Blocks Renamed
+
+tile.tnt.name=炸药桶
+tile.mushroom.name=旧蘑菇
+tile.anvil.intact.name=废铁砧
+tile.anvil.slightlyDamaged.name=废铁砧
+tile.anvil.veryDamaged.name=废铁砧
+tile.stairsQuartz.name=石英楼梯
+tile.stoneSlab.quartz.name=石英台阶
+tile.quartzBlock.default.name=石英块
+tile.quartzBlock.chiseled.name=錾制石英
+tile.quartzBlock.lines.name=石英柱
+tile.pumpkin.name=雕刻南瓜
+tile.wood.blood.name=血木木板
+tile.woodSlab.blood.name=血木台阶
+
+tile.torch.name=旧火把
+
+tile.stone.name=石头
+
+tile.sapling.oak.name=旧橡树幼苗
+tile.sapling.spruce.name=旧云杉幼苗
+tile.sapling.birch.name=旧白桦幼苗
+tile.sapling.jungle.name=旧丛林幼苗
+
+tile.sapling.oakMature.name=旧成熟橡树苗
+tile.sapling.spruceMature.name=旧成熟云杉树苗
+tile.sapling.birchMature.name=旧成熟白桦树苗
+tile.sapling.jungleMature.name=旧成熟丛林树苗
+
+# BTW Items
+
+item.fcItemBucketCement.name=水泥桶
+item.fcItemWolfChopRaw.name=生狼肉
+item.fcItemWolfChopCooked.name=熟狼肉
+item.fcItemNethercoal.name=地狱煤
+item.fcItemSeedsHemp.name=麻种子
+item.fcItemHemp.name=麻
+item.fcItemGear.name=齿轮
+item.fcItemFlour.name=面粉
+item.fcItemFibersHemp.name=麻纤维
+item.fcItemLeatherScoured.name=光滑皮革
+item.fcItemDonut.name=甜甜圈
+item.fcItemRope.name=麻绳
+item.fcItemSlats.name=旧板条
+item.fcItemDung.name=粪便
+item.fcItemWaterWheel.name=水车
+item.fcItemBladeWindMill.name=风车叶片
+item.fcItemWindMill.name=风车
+item.fcItempFabric.name=麻布
+item.fcItemGrate.name=旧网格板
+item.fcItemWicker.name=旧筚板
+item.fcItemLeatherTanned.name=鞣制皮革
+item.fcItemStrap.name=皮带
+item.fcItemBelt.name=传动带
+item.fcItemFoulFood.name=腐坏食物
+item.fcItemBladeWood.name=木浆叶
+item.fcItemGlue.name=皮胶
+item.fcItemTallow.name=动物油脂
+item.fcItemHaft.name=手柄
+item.fcItemIngotSteel.name=熔魂钢锭
+item.fcItemPickAxeRefined.name=熔魂钢镐
+item.fcItemShovelRefined.name=熔魂钢铲
+item.fcItemHoeRefined.name=熔魂钢锄
+item.fcItemAxeBattle.name=熔魂钢战斧
+item.fcItemSwordRefined.name=熔魂钢剑
+item.fcItemNetherrackGround.name=地狱岩粉
+item.fcItemDustHellfire.name=地狱火尘
+item.fcItemConcentratedHellfire.name=浓缩地狱火
+item.fcItemArmorPlate.name=熔魂钢护甲板
+item.fcItemHelmetPlate.name=熔魂钢头盔
+item.fcItemChestplatePlate.name=熔魂钢胸甲
+item.fcItemLeggingsPlate.name=熔魂钢护腿
+item.fcItemBootsPlate.name=熔魂钢靴子
+item.fcItemBowComposite.name=复合弓
+item.fcItemArrowheadBroadhead.name=宽头箭头
+item.fcItemArrowBroadhead.name=宽头箭
+item.fcItemDustCoal.name=煤粉
+item.fcItemPadding.name=衬垫
+item.fcItemFilament.name=灯丝
+item.fcItemRedstoneEye.name=红石之眼
+item.fcItemUrn.name=瓮
+item.fcItemUrnSoul.name=灵魂瓮
+item.fcItemEggPoached.name=水煮鸡蛋
+item.fcItemPotash.name=木灰
+item.fcItemSoap.name=肥皂
+item.fcItemDustSaw.name=木屑
+item.fcItemGimpHelm.name=苦力面具
+item.fcItemGimpChest.name=苦力背心
+item.fcItemGimpLeggings.name=苦力护腿
+item.fcItemGimpBoots.name=苦力靴子
+item.fcItemDynamite.name=炸药
+item.fcItemHarnessBreeding.name=育种套
+item.fcItemDustSoul.name=灵魂木尘
+item.fcItemMattock.name=熔魂钢鹤嘴锄
+item.fcItemHatchetRefined.name=熔魂钢斧
+item.fcItemNetherSludge.name=地狱泥
+item.fcItemBrickNether.name=地狱砖
+item.fcItemTuningFork.name=音叉
+item.fcItemScrollArcane.name=奥术卷轴
+item.fcItemCandle.name=蜡烛
+item.fcItemSporesNetherGroth.name=地狱孢子
+item.fcItemMould.name=模具
+item.fcItemCanvas.name=油画
+item.fcItemKibble.name=狗粮
+item.fcItemEggRaw.name=生鸡蛋
+item.fcItemEggFried.name=煎鸡蛋
+item.fcItemScrew.name=阿基米德螺旋
+item.fcItemArrowRotten.name=腐烂箭
+item.fcItemOcularOfEnder.name=末影镜片
+item.fcItemEnderSpectacles.name=末影眼镜
+item.fcItemStake.name=标线桩
+item.fcItemBrimstone.name=硫磺
+item.fcItemNitre.name=硝石
+item.fcItemElement.name=加热元件
+item.fcItemFuse.name=导火线
+item.fcItemBlastingOil.name=爆炸油
+item.fcItemWindMillVertical.name=竖轴风车
+item.fcItemPotatoBoiled.name=水煮马铃薯
+item.fcItemMuttonRaw.name=生羊肉
+item.fcItemMuttonCooked.name=熟羊肉
+item.fcItemWitchWart.name=女巫疣
+item.fcItemCarrotCooked.name=熟胡萝卜
+item.fcItemSandwichTasty.name=美味三明治
+item.fcItemSteakAndPotatoes.name=牛排薯角
+item.fcItemHamAndEggs.name=火腿坤蛋
+item.fcItemDinnerSteak.name=牛排大餐
+item.fcItemDinnerPork.name=猪肉大餐
+item.fcItemDinnerWolf.name=狼肉大餐
+item.fcItemKebabRaw.name=生羊肉串
+item.fcItemKebabCooked.name=烤羊肉串
+item.fcItemSoupChicken.name=鸡肉汤
+item.fcItemChowder.name=奶油鱼汤
+item.fcItemStewHearty.name=丰盛炖菜
+item.fcItemMushroomRed.name=红蘑菇
+item.fcItemMushroomBrown.name=棕蘑菇
+item.fcItemNuggetIron.name=铁粒
+item.fcItemMail.name=锁链环
+item.fcItemMysteryMeatRaw.name=生神秘肉
+item.fcItemMysteryMeatCooked.name=熟神秘肉
+item.fcItemMushroomOmletRaw.name=生蘑菇煎蛋卷
+item.fcItemMushroomOmletCooked.name=熟蘑菇煎蛋卷
+item.fcItemEggScrambledRaw.name=生炒蛋
+item.fcItemEggScrambledCooked.name=熟炒蛋
+item.fcItemCreeperOysters.name=苦力怕酶腺
+item.fcItemWoolHelm.name=羊毛帽子
+item.fcItemWoolChest.name=羊毛外套
+item.fcItemWoolLeggings.name=羊毛裤子
+item.fcItemWoolBoots.name=羊毛鞋子
+item.fcItemPaddedHelm.name=衬垫帽子
+item.fcItemPaddedChest.name=衬垫外套
+item.fcItemPaddedLeggings.name=衬垫裤子
+item.fcItemPaddedBoots.name=衬垫鞋子
+item.fcItemTannedHelm.name=鞣革帽子
+item.fcItemTannedChest.name=鞣革外套
+item.fcItemTannedLeggings.name=鞣革裤子
+item.fcItemTannedBoots.name=鞣革靴子
+item.fcItemIngotDiamond.name=钻石锭
+item.fcItemLeatherCut.name=切割皮革
+item.fcItemLeatherTannedCut.name=切割鞣革
+item.fcItemLeatherScouredCut.name=切割光滑皮革
+item.fcItemFishingRodBaited.name=带饵钓竿
+item.fcItemPileDirt.name=小堆泥土
+item.fcItemPileSand.name=小堆沙子
+item.fcItemPileGravel.name=小堆沙砾
+item.fcItemBatWing.name=蝙蝠翅膀
+item.fcItemDungGolden.name=黄金粪便
+item.fcItemPileSoulSand.name=小堆灵魂沙
+item.fcItemRedstoneLatch.name=红石闩
+item.fcItemNuggetSteel.name=熔魂钢粒
+item.fcItemWool.name=羊毛
+item.fcItemCocoaBeans.name=可可豆
+item.fcItemChocolate.name=巧克力
+item.fcItemBucketChocolateMilk.name=巧克力牛奶桶
+item.fcItemSoulFlux.name=熔魂剂
+item.fcItemEnderSlag.name=末影渣
+item.fcItemPastryUncookedCake.name=蛋糕胚
+item.fcItemPastryUncookedCookies.name=生曲奇
+item.fcItemPastryUncookedPumpkinPie.name=生南瓜派
+item.fcItemMysteriousGland.name=神秘腺体
+item.fcItemBeastLiverRaw.name=生野兽肝
+item.fcItemBeastLiverCooked.name=熟野兽肝
+item.fcItemAncientProphecy.name=预言碎片
+item.fcItemStumpRemover.name=树墩移除器
+item.fcItemChiselWood.name=尖木棍
+item.fcItemStone.name=石子
+item.fcItemChiselStone.name=尖石子
+item.fcItemClub.name=木棒槌
+item.fcItemFireStarterSticks.name=火犁
+item.fcItemFireStarterBow.name=弓钻
+item.fcItemChunkIronOre.name=粗铁矿
+item.fcItemPileIronOre.name=粗铁粉
+item.fcItemChiselIron.name=铁凿子
+item.fcItemChunkGoldOre.name=粗金矿
+item.fcItemPileGoldOre.name=粗金粉
+item.fcItemWickerPiece.name=筚板
+item.fcItemKnittingNeedles.name=编织针
+item.fcItemKnitting.name=编织中的羊毛毡
+item.fcItemWoolKnit.name=羊毛毡
+item.fcItemClubBone.name=骨棒槌
+item.fcItemMeatCured.name=腌肉
+item.fcItemMetalFragment.name=金属碎片
+item.fcItemPileClay.name=小堆粘土
+item.fcItemMeatBurned.name=焦肉
+item.fcItemChickenFeed.name=鸡饲料
+item.fcItemFishHookBone.name=骨鱼钩
+item.fcItemCarvingBone.name=制作中的骨鱼钩
+item.fcItemBrickStone.name=石砖
+item.fcItemWickerWeaving.name=编织中的筚板
+item.fcItemWheat.name=小麦
+item.fcItemWheatSeeds.name=小麦种子
+item.fcItemBreadDough.name=生面团
+item.fcItemStraw.name=稻草
+item.fcItemBrickUnfired.name=砖坯
+item.fcItemBrickNetherUnfired.name=地狱砖坯
+item.fcItemChiselDiamond.name=钻石凿子
+item.fcItemShearsDiamond.name=钻石剪刀
+item.fcItemReedRoots.name=甘蔗根
+item.fcItemCarrot.name=胡萝卜
+item.fcItemCarrotSeeds.name=胡萝卜种子
+item.fcItemDiamondPlate.name=钻石护甲板
+item.fcItemMelonMashed.name=西瓜泥
+item.fcItemBedroll.name=地铺
+item.fcItemCorpseEye.name=死尸之眼
+item.fcItemTangledWeb.name=缠结蛛网
+item.fcItemWebUntangling.name=解缠中的蛛网
+item.fcItemSinew.name=筋
+item.fcItemSinewExtractingBeef.name=提取中的牛肉筋
+item.fcItemSinewExtractingWolf.name=提取中的狼肉筋
+
+# BTW Complex Items
+
+item.fcItemBark.name=树皮
+item.fcItemBark.oak.name=橡树皮
+item.fcItemBark.spruce.name=云杉树皮
+item.fcItemBark.birch.name=白桦树皮
+item.fcItemBark.jungle.name=丛林树皮
+item.fcItemBark.bloodwood.name=血木树皮
+
+# Vanilla Items Renamed
+
+item.cauldron.name=蓄水池
+item.mushroomStew.name=蘑菇奶油
+item.enchantedBook.name=古代手稿
+item.fireworks.name=烟花
+item.stick.name=木棍
+item.fermentedSpiderEye.name=毒囊
+item.dyePowder.brown.name=可可粉
+item.skull.wither.name=凋零骷髅头颅
+item.skull.infused.name=注魔头颅
+item.wheat.name=旧小麦
+item.seeds.name=旧种子
+item.carrots.name=旧胡萝卜
+
+# Potions
+
+potion.fcFortune=时运
+potion.fcLooting=抢夺
+potion.fcTrueSight=慧眼
+potion.hunger=食物中毒
+
+# Container
+
+container.fcFurnaceBrick=砖炉
+container.fcHamper=篮子
+container.fcMillStone=磨石
+
+# Entities
+
+entity.fcJungleSpider.name=丛林蜘蛛
+entity.WitherSkeleton.name=凋零骷髅
+entity.addonVillagerFarmer.name=农民
+entity.addonVillagerBlacksmith.name=铁匠
+entity.addonVillagerButcher.name=屠夫
+entity.addonVillagerLibrarian.name=图书管理员
+entity.addonVillagerPriest.name=牧师
+
+# KeyBindings
+
+key.special=替代使用
+
+# Chat Messages
+
+item.fcItemWaterWheel.placementObstructed=水车放置被某物或你自己挡住了
+item.fcItemWaterWheel.notEnoughRoom=没有足够的空间放置水车
+message.windMill.placementObstructed=风车放置被某物或你自己挡住了
+message.windMill.notEnoughRoom=没有足够的空间放置风车（它们真的很大！）
+item.fcItemWindMillVertical.tooFewAxles=此处垂直轴数量太少，无法放置风车
+tile.beacon.playerBound=你已绑定到这个信标
+tile.beacon.invalid=你的重生点无效
+tile.beacon.notPresent=你绑定的信标已不存在
+tile.beacon.tooFar=你绑定的信标太远了
+tile.beacon.obstructed=你绑定的信标被挡住了
+tile.beacon.unknown=你的重生因未知原因失败了
+tile.bed.sleepImpossible=你心烦意乱，无法在此处休息
+tile.fcBlockHandCrank.playerExhausted=你太累了，无法进行体力劳动
+item.enchantedBook.languageUnfamiliar=你不熟悉这段文字的语言
+message.death.newSpawn=你被抛向了风中……
+message.death.oldSpawn=这个地方感觉很熟悉……
+
+# Death Messages
+
+death.attack.fcSaw=%1$s 粉身碎骨
+death.attack.fcChoppingBlock=%1$s 被送上了劈砍台
+death.attack.fcGroth=%1$s 成为了地狱孢子中的一员
+death.attack.fcGrothSpores=%1$s 屈服于地狱孢子
+death.attack.fcMelon=%1$s 变成了一滩西瓜泥
+death.attack.fcPumpkin=%1$s 试图戴上坠落的南瓜
+death.attack.fcGloom=%1$s 被黑暗吞噬
+
+# Difficulty modes
+
+difficulty.standard.name=标准
+difficulty.standard.description=标准体验。
+difficulty.standard.description2=推荐给寻求适度挑战的玩家。
+difficulty.standard.description3=或那些寻求挑战的人。
+
+difficulty.relaxed.name=轻松
+difficulty.relaxed.description=更轻松的体验。
+difficulty.relaxed.description2=推荐给寻求低压力生存的玩家。
+difficulty.relaxed.description3=寻求较低压力的生存方式。
+
+# Status effects
+
+status.invalid=无效
+
+status.gloom.gloom=忧郁
+status.gloom.dread=害怕
+status.gloom.terror=恐惧
+
+status.hunger.peckish=有点饿
+status.hunger.hungry=饥饿
+status.hunger.famished=饿坏了
+status.hunger.emaciated=消瘦不堪
+status.hunger.starving=饥荒
+
+status.health.hurt=疼痛
+status.health.injured=受伤
+status.health.wounded=重伤
+status.health.crippled=残废
+status.health.dying=濒死
+
+status.fat.plump=微胖
+status.fat.chubby=胖乎乎
+status.fat.fat=臃肿
+status.fat.obese=肥笨
+
+# Commands
+
+commands.difficulty.usage=/difficulty [新难度]
+commands.difficulty.unknown=未识别的难度模式
+commands.difficulty.current=当前难度模式是
+commands.difficulty.set=将难度模式设置为
+
+# Menu strings
+
+selectWorld.difficulty=难度
+selectWorld.gameMode=模式:
+selectWorld.gameMode.survival=硬核生存
+selectWorld.gameMode.hardcore=永久死亡
+
+deathScreen.respawn=随机重生
+deathScreen.respawnNearby=就近重生
+
+# Colored items
+
+wool.black.name=黑色羊毛
+wool.red.name=红色羊毛
+wool.green.name=绿色羊毛
+wool.brown.name=棕色羊毛
+wool.blue.name=蓝色羊毛
+wool.purple.name=紫色羊毛
+wool.cyan.name=青色羊毛
+wool.lightGray.name=淡灰色羊毛
+wool.gray.name=灰色羊毛
+wool.pink.name=粉色羊毛
+wool.lime.name=黄绿色羊毛
+wool.yellow.name=黄色羊毛
+wool.lightBlue.name=淡蓝色羊毛
+wool.magenta.name=品红色羊毛
+wool.orange.name=橙色羊毛
+wool.white.name=白色羊毛
+
+woolKnit.black.name=黑色羊毛毡
+woolKnit.red.name=红色羊毛毡
+woolKnit.green.name=绿色羊毛毡
+woolKnit.brown.name=棕色羊毛毡
+woolKnit.blue.name=蓝色羊毛毡
+woolKnit.purple.name=紫色羊毛毡
+woolKnit.cyan.name=青色羊毛毡
+woolKnit.lightGray.name=淡灰色羊毛毡
+woolKnit.gray.name=灰色羊毛毡
+woolKnit.pink.name=粉色羊毛毡
+woolKnit.lime.name=黄绿色羊毛毡
+woolKnit.yellow.name=黄色羊毛毡
+woolKnit.lightBlue.name=淡蓝色羊毛毡
+woolKnit.magenta.name=品红色羊毛毡
+woolKnit.orange.name=橙色羊毛毡
+woolKnit.white.name=白色羊毛毡
+
+candle.black.name=黑色蜡烛
+candle.red.name=红色蜡烛
+candle.green.name=绿色蜡烛
+candle.brown.name=棕色蜡烛
+candle.blue.name=蓝色蜡烛
+candle.purple.name=紫色蜡烛
+candle.cyan.name=青色蜡烛
+candle.lightGray.name=淡灰色蜡烛
+candle.gray.name=灰色蜡烛
+candle.pink.name=粉色蜡烛
+candle.lime.name=黄绿色蜡烛
+candle.yellow.name=黄色蜡烛
+candle.lightBlue.name=淡蓝色蜡烛
+candle.magenta.name=品红色蜡烛
+candle.orange.name=橙色蜡烛
+candle.white.name=白色蜡烛
+# EMI
+
+key.keyboard.control="Ctrl"
+key.keyboard.alt="Alt"
+key.keyboard.shift="Shift"
+
+key.emi.toggle_visibility="切换可见性"
+key.emi.focus_search="聚焦搜索栏"
+key.emi.clear_search="清除搜索"
+key.emi.view_recipes="查看合成配方"
+key.emi.view_uses="查看用途"
+key.emi.favorite="收藏"
+key.emi.set_default="设为默认"
+key.emi.default_stack="默认物品堆"
+key.emi.view_stack_tree="查看堆叠树"
+key.emi.view_tree="查看配方树"
+key.emi.back="返回"
+key.emi.craft_one="合成一个"
+key.emi.craft_all="全部合成"
+key.emi.craft_one_to_inventory="合成一个到背包"
+key.emi.craft_all_to_inventory="全部合成到背包"
+key.emi.craft_one_to_cursor="合成一个到光标"
+key.emi.show_craft="显示合成"
+key.emi.cheat_one_to_inventory="给予一个到背包"
+key.emi.cheat_stack_to_inventory="给予一组到背包"
+key.emi.cheat_one_to_cursor="给予一个到光标"
+key.emi.cheat_stack_to_cursor="给予一组到光标"
+key.emi.delete_cursor_stack="删除光标物品堆"
+key.emi.hide_stack="隐藏物品堆"
+key.emi.hide_stack_by_id="按ID隐藏物品堆"
+
+emi.help_level.verbose="详细"
+emi.help_level.normal="普通"
+emi.help_level.none="无"
+emi.align.horizontal.left="左对齐"
+emi.align.horizontal.center="居中"
+emi.align.horizontal.right="右对齐"
+emi.align.vertical.top="顶部"
+emi.align.vertical.center="居中"
+emi.align.vertical.bottom="底部"
+emi.sidebar.type.none="无"
+emi.sidebar.type.index="索引"
+emi.sidebar.type.craftables="可合成"
+emi.sidebar.type.favorites="收藏"
+emi.sidebar.type.lookup_history="查找历史"
+emi.sidebar.type.craft_history="合成历史"
+emi.sidebar.type.chess="国际象棋"
+emi.sidebar.theme.transparent="透明"
+emi.sidebar.theme.vanilla="原版"
+emi.sidebar.theme.modern="现代"
+emi.header.visible="可见"
+emi.header.invisible="不可见"
+emi.sidebar.size.columns="列"
+emi.sidebar.size.rows="行"
+emi.sidebar.margins.top="上边距"
+emi.sidebar.margins.right="右边距"
+emi.sidebar.margins.bottom="下边距"
+emi.sidebar.margins.left="左边距"
+emi.sidebar.none="无"
+emi.sidebar.left="左侧"
+emi.sidebar.right="右侧"
+emi.sidebar.top="顶部"
+emi.sidebar.bottom="底部"
+emi.effect_location.top="顶部"
+emi.effect_location.left_compressed="左侧（紧凑）"
+emi.effect_location.right_compressed="右侧（紧凑）"
+emi.effect_location.left="左侧"
+emi.effect_location.right="右侧"
+emi.recipe_book_action.default="默认"
+emi.recipe_book_action.toggle_craftables="切换可合成"
+emi.recipe_book_action.toggle_visibility="切换可见性"
+
+config.emi.group.general="常规"
+config.emi.group.general.search="搜索"
+config.emi.group.ui="界面"
+config.emi.group.ui.mod_id="Mod ID"
+config.emi.group.ui.recipe_screen="配方界面"
+config.emi.group.ui.recipe_buttons="配方按钮"
+config.emi.group.ui.left_sidebar="左侧边栏"
+config.emi.group.ui.right_sidebar="右侧边栏"
+config.emi.group.ui.top_sidebar="顶部边栏"
+config.emi.group.ui.bottom_sidebar="底部边栏"
+config.emi.group.binds="按键绑定"
+config.emi.group.dev="开发"
+
+config.emi.group.binds.crafts="合成"
+config.emi.group.binds.cheats="作弊"
+
+config.emi.general.enabled="已启用"
+config.emi.general.cheat_mode="作弊模式"
+config.emi.general.help_level="帮助级别"
+config.emi.general.search_tooltip_by_default="默认搜索提示"
+config.emi.general.search_mod_name_by_default="默认搜索模组名"
+config.emi.general.search_tags_by_default="默认搜索标签"
+
+config.emi.general.simulate_nei_lag="[复古EMI] 模拟 NEI 延迟"
+
+config.emi.ui.effect_location="效果位置"
+config.emi.ui.center_search_bar="居中搜索栏"
+config.emi.ui.show_hover_overlay="显示悬浮叠加层"
+config.emi.ui.append_mod_id="附加 Mod ID"
+config.emi.ui.append_item_mod_id="附加物品 Mod ID"
+config.emi.ui.recipe_book_action="配方书操作"
+config.emi.ui.search_sidebar_focus="侧栏搜索聚焦"
+config.emi.ui.empty_search_sidebar_focus="空搜索栏聚焦"
+
+config.emi.ui.left_sidebar_pages="页面"
+config.emi.ui.left_sidebar_subpanels="子面板"
+config.emi.ui.left_sidebar_size="大小"
+config.emi.ui.left_sidebar_margins="边距"
+config.emi.ui.left_sidebar_align="对齐"
+config.emi.ui.left_sidebar_header="标题"
+config.emi.ui.left_sidebar_theme="主题"
+
+config.emi.ui.right_sidebar_pages="页面"
+config.emi.ui.right_sidebar_subpanels="子面板"
+config.emi.ui.right_sidebar_size="大小"
+config.emi.ui.right_sidebar_margins="边距"
+config.emi.ui.right_sidebar_align="对齐"
+config.emi.ui.right_sidebar_header="标题"
+config.emi.ui.right_sidebar_theme="主题"
+
+config.emi.ui.top_sidebar_pages="页面"
+config.emi.ui.top_sidebar_subpanels="子面板"
+config.emi.ui.top_sidebar_size="大小"
+config.emi.ui.top_sidebar_margins="边距"
+config.emi.ui.top_sidebar_align="对齐"
+config.emi.ui.top_sidebar_header="标题"
+config.emi.ui.top_sidebar_theme="主题"
+
+config.emi.ui.bottom_sidebar_pages="页面"
+config.emi.ui.bottom_sidebar_subpanels="子面板"
+config.emi.ui.bottom_sidebar_size="大小"
+config.emi.ui.bottom_sidebar_margins="边距"
+config.emi.ui.bottom_sidebar_align="对齐"
+config.emi.ui.bottom_sidebar_header="标题"
+config.emi.ui.bottom_sidebar_theme="主题"
+
+config.emi.ui.vertical_margin="垂直边距"
+config.emi.ui.minimum_recipe_screen_width="配方界面最小宽度"
+config.emi.ui.workstation_location="工作台位置"
+config.emi.ui.miscraft_prevention="防误合成"
+config.emi.ui.fluid_unit="流体单位"
+config.emi.ui.show_cost_per_batch="显示每批成本"
+config.emi.ui.recipe_default_button="配方默认按钮"
+config.emi.ui.recipe_tree_button="配方树按钮"
+config.emi.ui.recipe_fill_button="配方填充按钮"
+config.emi.ui.recipe_screenshot_button="配方截图按钮"
+config.emi.ui.recipe_screenshot_scale="配方截图缩放"
+config.emi.ui.use_batched_renderer="使用批量渲染"
+
+config.emi.dev.dev_mode="开发者模式"
+config.emi.dev.edit_mode="编辑模式"
+config.emi.dev.log_untranslated_tags="记录未翻译标签"
+config.emi.dev.log_non_tag_ingredients="记录非标签成分"
+config.emi.dev.show_recipe_ids="显示配方ID"
+config.emi.dev.highlight_defaulted="高亮默认项"
+config.emi.dev.highlight_exclusion_areas="高亮排除区"
+
+config.emi.presets.sidebars="侧边栏"
+config.emi.presets.binds="按键绑定"
+config.emi.presets.restore="恢复"
+
+config.emi.presets.empty_search_craftable="空搜索可合成"
+config.emi.presets.recipe_book_plus="配方书增强"
+
+config.emi.presets.author_binds="作者绑定"
+
+config.emi.presets.backup="恢复备份"
+config.emi.presets.defaults="恢复默认"
+
+emi.unit.liters="升"
+emi.unit.millibuckets="毫桶"
+emi.unit.droplets="滴"
+emi.fluid.amount.liters="%s 升"
+emi.fluid.amount.millibuckets="%s mB"
+emi.fluid.amount.droplets="%s 滴"
+
+emi.disabled="EMI 已禁用！可用快捷键切换"
+emi.reloading="EMI 正在重载..."
+emi.reloading.waiting="EMI 正在等待服务器配方数据..."
+emi.reloading.error="§cEMI 重载时发生严重异常，请检查日志"
+emi.reloading.worry="§c加载延迟，一切还好吗？"
+emi.search="搜索 EMI..."
+emi.search_config="搜索配置..."
+emi.delete_stack="§c删除持有物品堆"
+emi.inapplicable="当前工作台不支持该配方"
+emi.not_enough_ingredients="材料不足，无法合成"
+emi.too_small="合成栏太小，无法放下配方"
+emi.favorite_recipe="按 %s 收藏该配方"
+emi.resolve.resolve="按 %s 应用于此配方树"
+emi.resolve.default="按 %s 设为全部树默认"
+emi.page="第 %s 页，共 %s 页"
+emi.page.short="%s/%s"
+emi.total_cost="总成本"
+emi.cost_per="每批成本:"
+emi.leftovers="剩余物"
+emi.view_all_recipes="点击查看所有配方"
+emi.tree_welcome="欢迎来到 %s"
+emi.no_tree="你还没有设置要查看的配方树..."
+emi.random_tree="也许你想看一个随机的？"
+emi.random_tree_input="按 §6[ctrl + r]"
+emi.edit_mode.hide_one="按 %s 隐藏物品堆"
+emi.edit_mode.hide_all="按 %s 按ID隐藏物品堆"
+tooltip.emi.chance.consume="消耗概率: %s%%"
+tooltip.emi.chance.produce="产出概率: %s%%"
+tooltip.emi.accepts="可接受："
+tooltip.emi.fill_recipe="填充配方"
+tooltip.emi.fill_recipe_no_server="服务器未安装EMI，无法填充配方"
+tooltip.emi.set_default="设为默认配方"
+tooltip.emi.current_defaults="当前为以下物品的默认配方："
+tooltip.emi.unset_default="移除默认配方"
+tooltip.emi.set_default_stack="在输出物上按 %s 以设为该物品的默认配方"
+tooltip.emi.view_tree="查看配方树"
+tooltip.emi.recipe_screenshot="配方截图"
+tooltip.emi.resolution="解析原料配方树中"
+tooltip.emi.select_resolution="点击 §6配方输出§r 分配给 §d此§r 配方树"
+tooltip.emi.default_resolution="点击 §6配方默认按钮§r 分配给 §a所有§r 配方树"
+tooltip.emi.clear_resolution="点击 §6这里§r §c清除§r 分配"
+
+tooltip.emi.config="%s 配置"
+tooltip.emi.recipe_tree="配方树"
+
+tooltip.emi.config.global="切换所有游戏实例共用 EMI 配置，或各自独立"
+
+tooltip.emi.synfav.uncraftable="无法合成§c任何§r批次"
+tooltip.emi.synfav.partially_craftable="可合成§d部分§r批次"
+tooltip.emi.synfav.fully_craftable="可合成§a全部 %s§r 批次"
+tooltip.emi.synfav.craft_some="按 %s 合成尽可能多"
+tooltip.emi.synfav.craft_all="按 %s 合成全部§9%s§r批次"
+
+tooltip.emi.bom.batch_size="批次大小: %s/n滚轮调整/n按住 §6[shift]§r 每次调整16"
+tooltip.emi.bom.batch_size.ideal="按 %s 获得最少剩余"
+tooltip.emi.bom.mode.view="§6查看§r配方树"
+tooltip.emi.bom.mode.craft="§6合成§r配方树/n进度将在配方树中显示/n§b虚拟收藏§r已加入侧边栏"
+tooltip.emi.bom.help="配方树展示了配方流程和基础成本/n界面可拖动与缩放/n/n左键点击节点选择配方/n按住 §6[shift]§r 自动根据背包选择/n/n右键点击配方节点可临时折叠/n按住 §6[shift]§r 清除配方/n/n树的初始状态由默认配方控制/n配方旁的按钮可设定默认偏好/n/n可按总成本排序帮助合成/n合成材料会显示/n§b虚拟收藏§r会加入收藏栏，可用来合成"
+
+tooltip.emi.fluid_interaction.basalt.soul_soil="下方为岩浆"
+tooltip.emi.fluid_interaction.basalt.blue_ice="邻近岩浆"
+
+screen.emi.recipe="配方"
+screen.emi.config="配置"
+screen.emi.presets="配置预设"
+
+screen.emi.config.reset="撤销 %s 项更改"
+
+emi.error.recipe.initialize="配方初始化出错"
+emi.error.recipe.render="配方渲染出错"
+
+emi.chess.piece.white_pawn="白兵"
+emi.chess.piece.white_rook="白车"
+emi.chess.piece.white_knight="白马"
+emi.chess.piece.white_bishop="白象"
+emi.chess.piece.white_queen="白后"
+emi.chess.piece.white_king="白王"
+emi.chess.piece.black_pawn="黑兵"
+emi.chess.piece.black_rook="黑车"
+emi.chess.piece.black_knight="黑马"
+emi.chess.piece.black_bishop="黑象"
+emi.chess.piece.black_queen="黑后"
+emi.chess.piece.black_king="黑王"
+emi.chess.tooltip.invite="邀请搜索栏内玩家下棋"
+emi.chess.tooltip.accept="接受 %s 的棋局邀请"
+emi.chess.tooltip.decline="右键拒绝 %s 的棋局邀请"
+emi.chess.tooltip.restart="右键重开棋局"
+emi.chess.multiplayer.invited="%s 邀请你下棋"
+emi.chess.multiplayer.accepted="%s 接受了你的棋局邀请"
+emi.chess.multiplayer.cancelled="%s 取消了本次棋局"
+emi.chess.multiplayer.unavailable="%s 无法下棋"
+
+emi.cooking.experience="%s 经验"
+emi.cooking.time="%s 秒"
+emi.grinding.experience="%s - %s 经验"
+emi.fuel_time.items="可烧炼 %s 个物品"
+emi.btw.bulk.stoked="需要烧着烈火的火盆"
+
+emi.category.minecraft.crafting="合成"
+emi.category.minecraft.brewing="酿造"
+emi.category.emi.world_interaction="世界交互"
+emi.category.emi.fuel="燃料"
+emi.category.emi.info="信息"
+emi.category.btw.soulforge="熔魂钢砧"
+emi.category.btw.cauldron="釜锅"
+emi.category.btw.crucible="坩埚"
+emi.category.btw.hopper="漏斗"
+emi.category.btw.kiln="砖窑"
+emi.category.btw.millstone="磨石"
+emi.category.btw.piston="活塞压制"
+emi.category.btw.saw="锯切"
+emi.category.btw.turntable="旋转台"
+emi.category.btw.campfire="篝火"
+
+btw.soul_urn.info="测试信息，请替换 :P"
+
+emi.category.emi.tag="标签"
+emi.category.emi.ingredient="原料"
+
+alias.emi.workbench="工作台"
+
+tag.wildcard.Arcane Scroll.22479="奥术卷轴"
+tag.wildcard.Black Stone Siding.178="黑石部件"
+tag.wildcard.Black item.fcItemCandle.22602="蜡烛"
+tag.wildcard.Black item.fcItemWool.2551="羊毛"
+tag.wildcard.Black item.fcItemWoolKnit.22579="羊毛毡"
+tag.wildcard.Blight.180="枯萎病 "
+tag.wildcard.Brick Siding.186="砖块部件"
+tag.wildcard.Carpet.171="地毯"
+tag.wildcard.Chewed Log.1010="砍伐过的原木"
+tag.wildcard.Coal.263="煤炭"
+tag.wildcard.Cobblestone Slab.1123="圆石台阶"
+tag.wildcard.Cobblestone Wall.139="圆石墙"
+tag.wildcard.Cobblestone.4="圆石"
+tag.wildcard.Companion Cube.237="挚友方块"
+tag.wildcard.Dirt Slab.206="泥土台阶"
+tag.wildcard.Golden Apple.322="金苹果"
+tag.wildcard.Gravel Slab.175="沙砾台阶"
+tag.wildcard.Ink Sac.351="染料"
+tag.wildcard.Loose Cobblestone Slab.1022="松散圆石台阶"
+tag.wildcard.Loose Cobblestone.1021="松散圆石"
+tag.wildcard.Loose Stone Brick Slab.1071="松散石砖台阶"
+tag.wildcard.Loose Stone Brick.1070="松散石砖"
+tag.wildcard.Loose Stone.22566="石子"
+tag.wildcard.Moss Stone.48="苔圆石"
+tag.wildcard.Nether Brick Siding.188="地狱砖部件"
+tag.wildcard.Oak Bark.22547="树皮"
+tag.wildcard.Oak Leaves.18="树叶"
+tag.wildcard.Oak Sapling.6="树苗"
+tag.wildcard.Oak Wood Bench.200="木部件1"
+tag.wildcard.Oak Wood Corner.198="木部件2"
+tag.wildcard.Oak Wood Planks.5="橡木板"
+tag.wildcard.Oak Wood Siding.196="木部件3"
+tag.wildcard.Oak Wood Slab.126="木台阶"
+tag.wildcard.Oak Wood.17="原木"
+tag.wildcard.Obsidian.49="黑曜石"
+tag.wildcard.Old Black item.fcItemCandle.22480="旧蜡烛"
+tag.wildcard.Old Block of Wicker.215="旧筚板块"
+tag.wildcard.Planter.254="种植盆"
+tag.wildcard.Sandstone Siding.182="沙石部件"
+tag.wildcard.Sandstone.24="沙石"
+tag.wildcard.Shrub.31="灌木"
+tag.wildcard.Skeleton Skull.397="骷髅头颅"
+tag.wildcard.Smooth Stone.1="平滑石头"
+tag.wildcard.Spawn.383="刷怪蛋"
+tag.wildcard.Stone Brick Siding.1139="石砖部件1"
+tag.wildcard.Stone Brick Siding.1143="石砖部件2"
+tag.wildcard.Stone Brick Siding.202="石砖部件3"
+tag.wildcard.Stone Brick.22588="石砖1"
+tag.wildcard.Stone Bricks Slab.1125="石砖台阶"
+tag.wildcard.Stone Bricks.98="石砖2"
+tag.wildcard.Stone Monster Egg.97="虫蚀石头"
+tag.wildcard.Stone Siding.1141="石部件1"
+tag.wildcard.Stone Siding.1145="石部件2"
+tag.wildcard.Stone Siding.185="石部件3"
+tag.wildcard.Stone Slab.1127="石台阶1"
+tag.wildcard.Stone Slab.44="石台阶2"
+tag.wildcard.Unfired Pottery.252="生坯"
+tag.wildcard.Vine Trap.213="藤蔓陷阱"
+tag.wildcard.Water Bottle.373="药水"
+tag.wildcard.White Stained Clay.159="染色黏土"
+tag.wildcard.White Stone Siding.191="白石部件"
+tag.wildcard.Wool Slab.220="羊毛台阶"
+tag.wildcard.Wool.35="羊毛块"
+tag.wildcard.tile.fcBlockLogDamagedBirch.name.3207="损坏的白桦"
+tag.wildcard.tile.fcBlockLogDamagedJungle.name.3208="损坏的丛林木"
+tag.wildcard.tile.fcBlockLogDamagedSpruce.name.3206="损坏的云杉"
+tag.wildcard.tile.fcBlockWoodOakSiding.siding.name.184="橡木部件2"
+tag.wildcard.tile.fcWoodBloodSiding.siding.name.1007="橡木部件3"
+tag.wildcard.tile.null.default.name.155="无"

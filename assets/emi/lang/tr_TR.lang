@@ -1,0 +1,569 @@
+# EMI
+
+key.keyboard.control=Ctrl
+key.keyboard.alt=Alt
+key.keyboard.shift=Shift
+
+key.emi.toggle_visibility=Görünürlüğü Aç/Kapa
+key.emi.focus_search=Odaklı Ara
+key.emi.clear_search=Arananları Temizle
+key.emi.view_recipes=Tarifleri Gör
+key.emi.view_uses=Kullanımları Gör
+key.emi.favorite=Favori
+key.emi.set_default=Varsayılan Ayarla
+key.emi.default_stack=Varsayılan Stek Ayarla
+key.emi.view_stack_tree=Stek Ağacını Gör
+key.emi.view_tree=Ağacı Gör
+key.emi.back=Geri
+key.emi.forward=İleri
+key.emi.craft_one=Bir Tane Üret
+key.emi.craft_all=Hepsini Üret
+key.emi.craft_one_to_inventory=Envantere Bir Tane Üret
+key.emi.craft_all_to_inventory=Envantere Hepsini Üret
+key.emi.craft_one_to_cursor=İmlece Bir Tane Üret
+key.emi.show_craft=Üretimi Gör
+key.emi.cheat_one_to_inventory=Envantere Bir Tane Hilele
+key.emi.cheat_stack_to_inventory=Envantere Bir Stek Hilele
+key.emi.cheat_one_to_cursor=İmlece Bir Tane Hilele
+key.emi.cheat_stack_to_cursor=İmlece Bir Stek Hilele
+key.emi.delete_cursor_stack=İmleçten Bir Stek Sil
+key.emi.hide_stack=Steki Gizle
+key.emi.hide_stack_by_id=Steki ID'ye göre Gizle
+
+emi.help_level.verbose=Ayrıntılı
+emi.help_level.normal=Normal
+emi.help_level.none=Hiç
+emi.align.horizontal.left=Sol
+emi.align.horizontal.center=Merkez
+emi.align.horizontal.right=Sağ
+emi.align.vertical.top=Üst
+emi.align.vertical.center=Merkez
+emi.align.vertical.bottom=Alt
+emi.sidebar.type.none=Hiç
+emi.sidebar.type.index=Dizin
+emi.sidebar.type.craftables=Üretilebilenler
+emi.sidebar.type.favorites=Favoriler
+emi.sidebar.type.lookup_history=Arama Geçmişi
+emi.sidebar.type.craft_history=Üretim Geçmişi
+emi.sidebar.type.chess=Satranç
+emi.sidebar.theme.transparent=Saydam
+emi.sidebar.theme.vanilla=Vanilla
+emi.sidebar.theme.modern=Modern
+emi.header.visible=Görünür
+emi.header.invisible=Görünmez
+emi.sidebar.size.columns=Sütunlar
+emi.sidebar.size.rows=Sıralar
+emi.sidebar.margins.top=Üst
+emi.sidebar.margins.right=Sağ
+emi.sidebar.margins.bottom=Alt
+emi.sidebar.margins.left=Sol
+emi.sidebar.none=Hiç
+emi.sidebar.left=Sol
+emi.sidebar.right=Sağ
+emi.sidebar.top=Üst
+emi.sidebar.bottom=Alt
+emi.effect_location.top=Üst
+emi.effect_location.left_compressed=Sol (Sıkıştırılmış)
+emi.effect_location.right_compressed=Sağ (Sıkıştırılmış)
+emi.effect_location.left=Sol
+emi.effect_location.right=Sağ
+emi.recipe_book_action.default=Varsayılan
+emi.recipe_book_action.toggle_craftables=Üretilebilirleri Değiştir
+emi.recipe_book_action.toggle_visibility=Görünürlüğü Değiştir
+
+config.emi.group.general=Genel
+config.emi.group.general.search=Arama
+config.emi.group.ui=Arayüz
+config.emi.group.ui.mod_id=Mod ID
+config.emi.group.ui.recipe_screen=Tarif Ekranı
+config.emi.group.ui.recipe_buttons=Tarif Düğmeleri
+config.emi.group.ui.left_sidebar=Sol Araç Çubuğu
+config.emi.group.ui.right_sidebar=Sağ Araç Çubuğu
+config.emi.group.ui.top_sidebar=Üst Araç Çubuğu
+config.emi.group.ui.bottom_sidebar=Alt Araç Çubuğu
+config.emi.group.binds=Atamalar
+config.emi.group.dev=Geliştirici
+
+config.emi.group.binds.crafts=Üretimler
+config.emi.group.binds.cheats=Üretimler
+
+config.emi.general.enabled=Etkin
+config.emi.general.cheat_mode=Hile Modu
+config.emi.general.help_level=Yardım Düzeyi
+config.emi.general.search_tooltip_by_default=Varsayılan Bilgi Çubuğuyla Ara
+config.emi.general.search_mod_name_by_default=Varsayılan Mod İsmiyle Ara
+config.emi.general.search_tags_by_default=Varsayılan Etiketlerle Ara
+config.emi.general.search_id_by_default=Varsayılan ID'lerle Ara
+config.emi.general.simulate_nei_lag=[retroEMI] NEI Gecikme Simülasyonu
+
+config.emi.ui.effect_location=Efekt Konumu
+config.emi.ui.center_search_bar=Arama Çubuğunu Merkezle
+config.emi.ui.show_hover_overlay=Üzerine Gelinen Yerleşimi Göster
+config.emi.ui.append_mod_id=Mod ID Ekle
+config.emi.ui.append_item_mod_id=Mod Eşya ID'si Ekle
+config.emi.ui.recipe_book_action=Tarif Kitabı Eylemi
+config.emi.ui.search_sidebar_focus=Arama Kenar Çubuğu Odağı
+config.emi.ui.empty_search_sidebar_focus=Arama Kenar Çubuğu Odağı Temizle
+
+config.emi.ui.left_sidebar_pages=Sayfalar
+config.emi.ui.left_sidebar_subpanels=Alt Paneller
+config.emi.ui.left_sidebar_size=Boyut
+config.emi.ui.left_sidebar_margins=Kenar Boşlukları
+config.emi.ui.left_sidebar_align=Hizalama
+config.emi.ui.left_sidebar_header=Başlık
+config.emi.ui.left_sidebar_theme=Tema
+
+config.emi.ui.right_sidebar_pages=Sayfalar
+config.emi.ui.right_sidebar_subpanels=Alt Paneller
+config.emi.ui.right_sidebar_size=Boyut
+config.emi.ui.right_sidebar_margins=Kenar Boşlukları
+config.emi.ui.right_sidebar_align=Hizalama
+config.emi.ui.right_sidebar_header=Başlık
+config.emi.ui.right_sidebar_theme=Tema
+
+config.emi.ui.top_sidebar_pages=Sayfalar
+config.emi.ui.top_sidebar_subpanels=Alt Paneller
+config.emi.ui.top_sidebar_size=Boyut
+config.emi.ui.top_sidebar_margins=Kenar Boşlukları
+config.emi.ui.top_sidebar_align=Hizalama
+config.emi.ui.top_sidebar_header=Başlık
+config.emi.ui.top_sidebar_theme=Tema
+
+config.emi.ui.bottom_sidebar_pages=Sayfalar
+config.emi.ui.bottom_sidebar_subpanels=Alt Paneller
+config.emi.ui.bottom_sidebar_size=Boyut
+config.emi.ui.bottom_sidebar_margins=Kenar Boşlukları
+config.emi.ui.bottom_sidebar_align=Hizalama
+config.emi.ui.bottom_sidebar_header=Başlık
+config.emi.ui.bottom_sidebar_theme=Tema
+
+config.emi.ui.vertical_margin=Dikey Kenar Boşluğu
+config.emi.ui.minimum_recipe_screen_width=Minimum Tarif Ekranı Genişliği
+config.emi.ui.workstation_location=Çalışma Masası Konumu
+config.emi.ui.miscraft_prevention=Yanlış Üretim Önleme
+config.emi.ui.fluid_unit=Sıvı Ünitesi
+config.emi.ui.show_cost_per_batch=Grup Başına Maliyeti Göster
+config.emi.ui.recipe_default_button=Varsayılan Tarif Düğmesi
+config.emi.ui.recipe_tree_button=Tarif Ağacı Düğmesi
+config.emi.ui.recipe_fill_button=Tarif Doldurma Düğmesi
+config.emi.ui.recipe_screenshot_button=Tarif Ekran Görüntüsü Düğmesi
+config.emi.ui.recipe_screenshot_scale=Tarif Ekran Görüntüsü Boyutu
+config.emi.ui.use_batched_renderer=Batched Renderlama Kullan
+
+config.emi.dev.dev_mode=Geliştirici Modu
+config.emi.dev.edit_mode=Düzenleme Modu
+config.emi.dev.log_untranslated_tags=Çevrilmemiş Etiketleri Günlükle
+config.emi.dev.log_non_tag_ingredients=Etiketsiz Bileşenleri Günlükle
+config.emi.dev.show_recipe_ids=Tarif ID'lerini Göster
+config.emi.dev.highlight_defaulted=Varsayılanları Vurgula
+config.emi.dev.highlight_exclusion_areas=Hariç Tutulan Alanları Vurgula
+
+config.emi.presets.sidebars=Kenar Çubuğu
+config.emi.presets.binds=Atamalar
+config.emi.presets.restore=Geri Yükle
+
+config.emi.presets.productive=Üretken
+config.emi.presets.recipe_book_plus=Tarif Kitabı+
+
+config.emi.presets.author_binds=Yazar Atamaları
+
+config.emi.presets.backup=Yedeği Geri Yükle
+config.emi.presets.defaults=Varsayılanları Geri Yükle
+
+config.emi.presets.empty_search_craftable=Boş Üretim Arama
+
+emi.unit.liters=Litre
+emi.unit.millibuckets=Milikova
+emi.unit.droplets=Damla
+emi.fluid.amount.liters=%s L
+emi.fluid.amount.millibuckets=%smB
+emi.fluid.amount.droplets=%s d
+
+emi.disabled=EMI devre dışı! Göstermek için:
+emi.reloading=EMI Yeniden Yükleniyor...
+emi.reloading.waiting=EMI sunucudan tarif verisi bekliyor...
+emi.reloading.error=§cEMI, kontrol günlüğünü yeniden yüklerken kritik bir istisna yaşadı
+emi.reloading.worry=§cGecikme yaşanıyor her şey yolunda mı?
+emi.search=EMI'da Ara...
+emi.search_config=Yapılandırma Ara...
+emi.delete_stack=§cTutulan stacki sil
+emi.inapplicable=Mevcut çalışma masası tarifi desteklemiyor
+emi.not_enough_ingredients=Üretim için yeterli malzeme yok
+emi.too_small=Üretim menüsü malzemeleri sığdırmak için çok küçük
+emi.favorite_recipe=Tarifi favorilemek için %s tuşuna basın
+emi.resolve.resolve=Bu tarif ağacını kullanmak için %s tuşuna basın
+emi.resolve.default=Tüm ağaçlar için varsayılan yapmak için %s tuşuna basın
+emi.page=Sayfa %s/%s
+emi.page.short=%s/%s
+emi.total_cost=Toplam Maliyet
+emi.cost_per=Üretim başına maliyet:
+emi.leftovers=Arta Kalanlar
+emi.view_all_recipes=Tüm tarifleri görmek için tıklayın
+emi.tree_welcome=%s Ağacına Hoş Geldiniz
+emi.no_tree=Görüntülemek için henüz bir tarif ağacı seçmediniz...
+emi.random_tree=Belki rastgele birini görmek istersiniz?
+emi.random_tree_input=§6[ctrl + r] tuşlarına basın
+emi.edit_mode.hide_one=Steki gizlemek için %s tuşuna basın
+emi.edit_mode.hide_all=Steki ID'ye göre gizlemek için %s tuşuna basın
+tooltip.emi.chance.consume=Tüketim şansı: %s%%
+tooltip.emi.chance.produce=Üretim şansı: %s%%
+tooltip.emi.accepts=Alınan:
+tooltip.emi.fill_recipe=Tarifi Doldur
+tooltip.emi.fill_recipe_no_server=Sunucuda EMI olmadan Tarif Doldurulamıyor
+tooltip.emi.set_default=Varsayılan tarif olarak ayarla
+tooltip.emi.current_defaults=Şu an için varsayılan tarif:
+tooltip.emi.unset_default=Varsayılan tarif olarak kaldır
+tooltip.emi.set_default_stack=Bu stekin varsayılan tarifini ayarlamak için bir çıktı üzerinde %s tuşuna basın
+tooltip.emi.view_tree=Tarif Ağacını Gör
+tooltip.emi.recipe_screenshot=Tarif Ekran Görüntüsü Alın
+tooltip.emi.resolution=Bileşen için tarif ağacını çözme
+tooltip.emi.select_resolution=Bu tarif ağacına atamak için bir §6tarifin çıktı§r'sına tıklayın
+tooltip.emi.default_resolution=§aTüm §rtarif ağaçlarına atamak için §6varsayılan tarif düğmesine§ tıklayın
+tooltip.emi.clear_resolution=Çözümü §ctemizlemek§r için §6buraya§r tıklayın
+
+tooltip.emi.config=%s Yapılandırma
+tooltip.emi.recipe_tree=Tarif Ağacı
+
+
+tooltip.emi.config.global=Oyun örneği başına ayrı bir yapılandırma yerine tüm oyun örnekleri arasında genel bir EMI yapılandırması kullanmayı değiştirin./n§cHenüz Uygulanmadı§r
+
+tooltip.emi.synfav.uncraftable=§cHiçbir§r tarif üretilemiyor
+tooltip.emi.synfav.partially_craftable=§dBazı§r tarifler üretilebilir
+tooltip.emi.synfav.fully_craftable=§aBütün %s§r tarifler üretilebilir
+tooltip.emi.synfav.craft_some=Mümkün olduğunca çok üretmek için %s tuşuna basın
+tooltip.emi.synfav.craft_all=Tüm §9%s§r tarifleri üretmek için %s tuşuna basın
+
+tooltip.emi.recipe_remainder=Ek olarak:
+
+tooltip.emi.bom.batch_size=Toplam iş: %s/nAyarlamak için fareyle kaydırın/n16 ile ayarlamak için §6[shift]§r tuşuna basılı tutun
+tooltip.emi.bom.batch_size.ideal=En az arta kalanı almak için %s tuşuna basın
+tooltip.emi.bom.mode.view=Tarif ağacı §6görüntüleniyor§r
+tooltip.emi.bom.mode.craft=Tarif ağacı §6üretiliyor§r/nİlerleme tarif ağacında gösterilecek/n§bYapay favoriler§r kenar çubuğuna eklendi
+tooltip.emi.bom.help=Tarif ağacı, bir tarifin sürecini ve temel maliyetini gösterir/nGörüntü kaydırılabilir ve yakınlaştırılabilir/n/nBir tarifi seçmek için farenin sol tuşuyla tıklayın/nEnvanterinize göre otomatik olarak seçmek için §6[shift]§r tuşunu basılı tutun/n/Geçici olarak katlamak için bir tarif düğümüne sağ tıklayın/nTarifi temizlemek için §6[shift]§r tuşunu basılı tutun/n/nİlk ağaç durumu varsayılan tarifler tarafından kontrol edilir/nTariflerin yanındaki bir düğme varsayılan tarif tercihlerini ayarlayabilir/n/nToplam maliyete göre geçiş, bir tarif ağacı üretmeye yardımcı olmak için kullanılabilir/nToplanması gereken üretim malzemeleri görüntülenirken/n§bYapay favoriler§r, tamamlanmamış adımları gösterecek ve üretim yapmak için kullanılabilecek favoriler kenar çubuğuna eklenecektir
+
+screen.emi.recipe=Tarif
+screen.emi.config=Yapılandırma
+screen.emi.presets=Yapılandırma Ön Ayarı
+
+screen.emi.config.reset=%s değişikl(iği/eri) geri döndür
+
+emi.error.recipe.initialize=Başlatma Hatası
+emi.error.recipe.render=Render Hatası
+
+# EMI Chess
+
+emi.chess.piece.white_pawn=Beyaz Piyon
+emi.chess.piece.white_rook=Beyaz Kale
+emi.chess.piece.white_knight=Beyaz At
+emi.chess.piece.white_bishop=Beyaz Fil
+emi.chess.piece.white_queen=Beyaz Vezir
+emi.chess.piece.white_king=Beyaz Şah
+emi.chess.piece.black_pawn=Siyah Piyon
+emi.chess.piece.black_rook=Siyah Kale
+emi.chess.piece.black_knight=Siyah At
+emi.chess.piece.black_bishop=Siyah Fil
+emi.chess.piece.black_queen=Siyah Vezir
+emi.chess.piece.black_king=Siyah Şah
+emi.chess.tooltip.invite=Arama çubuğunuzdaki oyuncuyu satranç oynamaya davet edin
+emi.chess.tooltip.accept=%s oyuncusunun satranç davetini kabul et
+emi.chess.tooltip.decline=%s oyuncusunun satranç davetini reddetmek için sağ tıklayın
+emi.chess.tooltip.restart=Yeniden başlatmak için sağ tıklayın
+emi.chess.multiplayer.invited=%s seni satranç oynamaya davet etti
+emi.chess.multiplayer.accepted=%s satranç davetinizi kabul etti
+emi.chess.multiplayer.cancelled=%s satranç oyununu reddetti
+emi.chess.multiplayer.unavailable=%s satranç oynayamaz
+
+emi.cooking.time=%s Saniye
+emi.fuel_time.items=%s boyunca yanar
+emi.btw.bulk.stoked=Harlanmış Hibaçi Gerektirir
+emi.btw.turntable.turns=%d kez döndürülmelidir
+emi.btw.turntable.ejected_items=Üretim tamamlandığında fırlatılır
+emi.btw.progressive.time=Sağ tıka basılı tut
+
+emi.trade.BlacksmithVillagerEntity=%d Seviye Demirci Gerektirir
+emi.trade.PriestVillagerEntity=%d Seviye Rahip Gerektirir
+emi.trade.LibrarianVillagerEntity=%d Seviye Kütüphaneci Gerektirir
+emi.trade.FarmerVillagerEntity=%d Seviye Çiftçi Gerektirir
+emi.trade.ButcherVillagerEntity=%d Seviye Kasap Gerektirir
+emi.trade.level_up=Seviye %d'den/ten %d'(y)e yükseltir
+emi.trade.enchanted=Büyüler Rastgeledir
+
+emi.world_interaction.btw.crafting_stump=§6Ağaç köküne uygulanmalıdır. Birkaç vuruş gerektirir!
+emi.world_interaction.btw.brick_sundrying=§6Tüm gün boyunca güneşte bekletin!
+emi.world_interaction.btw.bark_from_chiseling=§6Birinci kırış
+emi.world_interaction.btw.shaft_from_chiseling=§6İkinci ve dördüncü kırış
+emi.world_interaction.btw.sawdust_from_chiseling=§6Üçüncü ve beşinci kırış			  
+
+# EMI Commands
+
+commands.emi.usage=Tariflerin, tarif ağacının görüntülenmesine, bir ağaç hedefi eklenmesine ve bir ağaç özeti eklenmesine izin verir. Henüz uygulanmadı.
+commands.emi.nyi=Bu komut henüz uygulanmamıştır
+commands.emi.id=Bir tarif ID'si gerektirir.
+
+# EMI Categories
+
+emi.category.minecraft.crafting=Üretim
+emi.category.minecraft.brewing=İksir Yapımı
+emi.category.minecraft.smelting=Tuğla Fırında Pişirme
+emi.category.emi.world_interaction=Dünya Etkileşimi
+emi.category.emi.fuel=Yakıt
+emi.category.emi.info=Bilgi
+emi.category.btw.soulforge=Ruh Dövme Çelik Örs
+emi.category.btw.cauldron=Kazan
+emi.category.btw.crucible=Metal Kazanı
+emi.category.btw.hopper=Huni
+emi.category.btw.kiln=Seramik Fırını
+emi.category.btw.millstone=Değirmen Taşı
+emi.category.btw.piston=Piston Paketleme
+emi.category.btw.saw=Testereyle Kesme
+emi.category.btw.turntable=Döner Masayla Döndürme
+emi.category.btw.campfire=Kamp Ateşi
+emi.category.btw.trading=Takas Yapma
+emi.category.btw.progressive=Aşamalı Üretim
+
+emi.category.emi.tag=Etiketler
+emi.category.emi.ingredient=Malzemeler
+emi.category.btw.food=Yiyecekler
+
+alias.emi.workbench=Çalışma Tezgahı
+alias.emi.crafting_table=Çalışma Masası
+alias.emi.stick=Çubuk
+alias.emi.tnt=TNT
+alias.emi.cauldron=Kazan
+
+# EMI Tags
+
+tag.wildcard.Arcane Scroll.22479=Gizemli Parşomenler
+tag.wildcard.Black Stone Siding.178=Kara Taş Parçalar
+tag.wildcard.candle.black.22602=Mumlar
+tag.wildcard.Blight.180=Küf
+tag.wildcard.Brick Siding.186=Tuğla Parçalar
+tag.wildcard.Carpet.171=Halılar
+tag.wildcard.Chewed Log.1010=Hırpalanmış Odunlar
+tag.wildcard.Coal.263=Kömürler
+tag.wildcard.Cobblestone Slab.1123=Kırık Taş Basamaklar
+tag.wildcard.Cobblestone Wall.139=Kırık Taş Duvarlar
+tag.wildcard.Cobblestone.4=Kırık Taşlar
+tag.wildcard.Companion Cube.237=Arkadaş Küp
+tag.wildcard.Dirt Slab.206=Toprak Basamak
+tag.wildcard.Golden Apple.322=Altın Elmalar
+tag.wildcard.Gravel Slab.175=Çakıl Basamak
+tag.wildcard.Ink Sac.351=Renkler
+tag.wildcard.Loose Cobblestone Slab.1022=Dağınık Kırık Taş Basamaklar
+tag.wildcard.Loose Cobblestone.1021=Dağınık Kırık Taş
+tag.wildcard.Loose Stone Brick Slab.1071=Dağınık Taş Tuğla Basamaklar
+tag.wildcard.Loose Stone Brick.1070=Dağınık Taş Tuğla
+tag.wildcard.Loose Stone.22566=Dağınık Taş
+tag.wildcard.Moss Stone.48=Yosunlu Taş
+tag.wildcard.Nether Brick Siding.188=Nether Tuğlası Parçalar
+tag.wildcard.Oak Bark.22547=Odun Kabukları
+tag.wildcard.Oak Leaves.18=Yapraklar
+tag.wildcard.Birch Sapling.1160=Huş Fidanlar
+tag.wildcard.Jungle Sapling.1161=Orman Ağacı Fidanlar
+tag.wildcard.Oak Sapling.1158=Meşe Fidanlar
+tag.wildcard.Old Oak Sapling.6=Eski Meşe Fidanlar
+tag.wildcard.Spruce Sapling.1159=Ladin Fidanlar
+tag.wildcard.Oak Wood Bench.200=Tahta Dekorasyon
+tag.wildcard.Oak Wood Bench.199=Tahta Dekorasyon
+tag.wildcard.Oak Wood Corner.198=Tahta Köşeler
+tag.wildcard.Oak Wood Moulding.197=Tahta Pervaz
+tag.wildcard.Oak Wood Siding.196=Tahta Cephe
+tag.wildcard.Oak Wood Planks.5=Tahtalar
+tag.wildcard.Oak Wood Slab.126=Tahta Basamaklar
+tag.wildcard.Oak Wood.17=Tahta
+tag.wildcard.Obsidian.49=Obsidyen
+tag.wildcard.Old Black item.fcItemCandle.22480=Eski Mumlar
+tag.wildcard.Old Block of Wicker.215=Sıkıştırılmış Bloklar
+tag.wildcard.Planter.254=Saksılar
+tag.wildcard.Sandstone Siding.182=Kum Taşı Parçalar
+tag.wildcard.Sandstone.24=Kum Taşları
+tag.wildcard.Shrub.31=Çalılar
+tag.wildcard.Skeleton Skull.397=Kafalar
+tag.wildcard.Smooth Stone.1=Düz Taşlar
+tag.wildcard.Spawn.383=Çağırma Yumurtaları
+tag.wildcard.Stone Brick Siding.1139=Taş Tuğla Parçalar 1
+tag.wildcard.Stone Brick Siding.1143=Taş Tuğla Parçalar 2
+tag.wildcard.Stone Brick Siding.202=Taş Tuğla Parçalar 3
+tag.wildcard.Stone Brick.22588=Taş Tuğlalar 1
+tag.wildcard.Stone Bricks Slab.1125=Taş Tuğla Basamaklar
+tag.wildcard.Stone Bricks.98=Taş Tuğlalar 2
+tag.wildcard.Stone Monster Egg.97=Enfekte Taş
+tag.wildcard.Stone Siding.1141=Taş Parçalar 1
+tag.wildcard.Stone Siding.1145=Taş Parçalar 2
+tag.wildcard.Stone Siding.185=Taş Parçalar 3
+tag.wildcard.Stone Slab.1127=Taş Basamaklar 1
+tag.wildcard.Stone Slab.44=Taş Basamaklar 2
+tag.wildcard.Unfired Pottery.252=Pişmemiş Çömlek
+tag.wildcard.Vine Trap.213=Sarmaşık Tuzak
+tag.wildcard.Water Bottle.373=İksirler
+tag.wildcard.White Stained Clay.159=Boyalı Killer
+tag.wildcard.White Stone Siding.191=Taş Cepheler
+tag.wildcard.Wool Slab.220=Yün Basamaklar
+tag.wildcard.Wool.35=Yün Bloklar
+tag.wildcard.tile.fcBlockLogDamagedBirch.name.3207=Hasarlı Huş
+tag.wildcard.tile.fcBlockLogDamagedJungle.name.3208=Hasarlı Orman Ağacı
+tag.wildcard.tile.fcBlockLogDamagedSpruce.name.3206=Hasarlı Ladin
+tag.wildcard.tile.fcBlockWoodOakSiding.siding.name.184=Tahta Cepheler 1 (Çevrilmemiş)
+tag.wildcard.tile.fcStoneBrickSiding.blackstone.siding.name.1143=Kara Taş Cepheler (Çevrilmemiş)
+tag.wildcard.tile.fcWoodBloodSiding.siding.name.1007=Tahta Cepheler 2 (Çevrilmemiş)
+tag.wildcard.tile.fcStoneBrickSiding.deepslate.siding.name.1139=Kayrak Taş Cepheler (Çevrilmemiş)
+tag.wildcard.tile.null.default.name.155=Nether Kuvars Blokları
+tag.wildcard.Black Candle.22602=Mumlar
+tag.wildcard.Black Wool.2551=Yumak Yünler
+tag.wildcard.Black Wool Knit.22579=Örgü Yünler
+tag.wildcard.Blackstone Siding.1145=Kara Taş Cepheler
+tag.wildcard.Deepslate Siding.1141=Kayrak Taş Cepheler
+tag.wildcard.Loose Stone Bricks.1070=Dağınık Taş Tuğlalar
+tag.wildcard.Mossy Cobblestone.48=Yosunlu Kırık Taşlar
+tag.wildcard.Stone Brick Slab.1125=Taş Tuğla Basamaklar
+tag.wildcard.Stone.1=Taşlar
+tag.wildcard.Loose Rock.22566=Dağınık Taş Parçaları
+tag.wildcard.Gold Ore.14=Altın Cevherler
+tag.wildcard.Iron Ore.15=Demir Cevherler
+tag.wildcard.Coal Ore.16=Kömür Cevherler
+tag.wildcard.Lapis Lazuli Ore.21=Lapis Lazuli Cevherler
+tag.wildcard.Diamond Ore.56=Elmas Cevherler
+tag.wildcard.Redstone Ore.73=Kızıl Taş Cevherler
+tag.wildcard.Redstone Ore.74=Kızıl Taş Cevherler
+tag.wildcard.Emerald Ore.129=Zümrüt Cevherler
+tag.wildcard.Quartz Block.155=Kuvars Bloklar
+tag.wildcard.Quartz Siding.178=Kuvars Cepheler
+tag.wildcard.Quartz Moulding.179=Kuvars Pervazlar
+tag.wildcard.Sandstone Moulding.183=Kum Taşı Pervazlar
+tag.wildcard.Brick Moulding.187=Tuğla Pervazlar
+tag.wildcard.Nether Brick Moulding.189=Nether Tuğlası Pervazlar
+tag.wildcard.White Stone Moulding.192=Beyaz Taş Pervazlar
+tag.wildcard.Oak Wood Column.199=Tahta Dekorasyon
+tag.wildcard.tile.fcWoodJungleMoulding.moulding.name.201=Kullanım Dışı
+tag.wildcard.Stone Brick Moulding.203=Taş Tuğla Pervazlar
+tag.wildcard.Stone Moulding.214=Taş Pervazlar
+tag.wildcard.Old Moulding.231=Kullanım Dışı
+tag.wildcard.Vase.255=Vazolar
+tag.wildcard.tile.fcWoodBloodMoulding.moulding.name.1008=Kullanım Dışı
+tag.wildcard.Deepslate Brick Siding.1139=Kayrak Taş Tuğla Cepheler
+tag.wildcard.Deepslate Brick Moulding.1140=Kayrak Taş Tuğla Pervazlar
+tag.wildcard.Deepslate Moulding.1142=Kayrak Taş Pervazlar
+tag.wildcard.Blackstone Brick Siding.1143=Kara Taş Tuğla Cepheler
+tag.wildcard.Blackstone Brick Moulding.1144=Kara Taş Tuğla Pervazlar
+tag.wildcard.Blackstone Moulding.1146=Kara Taş Pervazlar
+
+# EMI recipe info
+
+emi.info.piston_crushing_input=Eşyalar yeryüzünde katı yüzeylerle çevrili
+emi.info.piston_crushing_output=Çıkışta blok olarak yerleştirildi
+
+emi.info.hopper_urn=Huninin altına yerleştirin
+
+# EMI Item Info
+
+btw.stone.info=Taş, Dağınık Kırık Taş veya Dağınık Taş Tuğlalar yerleştirilerek ve bloğun üzerine lav akıtılarak ardından katılaşması için su verilerek yapılabilir.
+btw.deepslate.info=Kayrak Taş, Dağınık Kayrak Taş veya Dağınık Kayrak Taş Tuğlalar yerleştirilerek ve bloğun üzerine lav akıtılarak ardından katılaşması için su verilerek yapılabilir.
+btw.blackstone.info=Kara Taş, Dağınık Kırık Kara Taş veya Dağınık Kara Taş Tuğlalar yerleştirilerek ve bloğun üzerine lav akıtılarak ardından katılaşması için su verilerek yapılabilir.
+
+btw.mossy_cobblestone.info=Kırık Taş veya Dağınık Kırık Taş, Canavar Cağırıcıyı merkez alınarak 9x9x9 alan etrafında yer alıyorsa zamanla Yosunlu Kırık Taşa dönüşür.
+btw.mossy_cobbled_deepslate.info=Kırık Kayrak Taş veya Dağınık Kırık Kayrak Taş, Canavar Cağırıcıyı merkez alınarak 9x9x9 alan etrafında yer alıyorsa zamanla Yosunlu Kırık Kayrak Taşa dönüşür.
+btw.mossy_cobbled_blackstone.info=Kırık Kara Taş veya Dağınık Kırık Kara Taş, Canavar Cağırıcıyı merkez alınarak 9x9x9 alan etrafında yer alıyorsa zamanla Yosunlu Kırık Kara Taşa dönüşür.
+
+btw.mossy_stone_brick.info=Taş Tuğla üzerinden akan su zamanla onu Yosunlu Taş Tuğlaya dönüştürecektir.
+btw.mossy_deepslate_brick.info=Kayrak Taş Tuğla üzerinden akan su zamanla onu Yosunlu Kayrak Taş Tuğlaya dönüştürecektir.
+btw.mossy_blackstone_brick.info=Kara Taş Tuğla üzerinden akan su zamanla onu Yosunlu Kara Taş Tuğlaya dönüştürecektir.
+
+btw.cracked_stone_brick.info=Taş Tuğla üzerinden akan lav zamanla onu Çatlak Taş Tuğlaya dönüştürecektir.
+btw.cracked_deepslate_brick.info=Kayrak Taş Tuğla üzerinden akan lav zamanla onu Çatlak Kayrak Taş Tuğlaya dönüştürecektir.
+btw.cracked_blackstone_brick.info=Kara Taş Tuğla üzerinden akan lav zamanla onu Çatlak Kara Taş Tuğlaya dönüştürecektir.
+
+btw.anvil.info=Örs, herhangi bir yere yerleştirilebilen bir çalışma masası olarak kullanılabilir. Örslerin geri alınamayacağını ve bunun yerine demiri geri kazanmak için bir Metal Kazan içinde eritmek dışında işe yaramayan Metal Parçası düşüreceğini unutmayın.
+btw.bonemeal.info=Bitkilerin belli bir blokta büyümesini hızlandırmak için tarım arazilerine veya saksılara kemik tozu uygulayın. Bitki büyümesini tamamladığında kemik tozu tüketilir.
+btw.campfire.info=Sivri Çubuk ile kamp ateşine sağ tıklayarak onu şiş olarak ekleyin, ardından pişirilecek yiyeceği yerleştirin. Kamp ateşinde pişirmenin tamamlanması birkaç dakika sürer ve alev orta seviyede tutulmalıdır, düşük alev pişirmeyi duraklatırken yüksek alev yiyeceği yakacaktır. Kamp ateşleri köz halinde yanarken yeniden yakılabilir, ancak tamamen söndürüldüğünde yakılamaz. Nether Taşı gibi sonsuz yanan bir blok üzerinde yakılan bir kamp ateşi tam bir Ateş Bloğu yerleştirir ve Obsidiyen portal çerçevesi içine yerleştirilen bir kamp ateşi yakıldığında bir Nether Portalı oluşturur.
+btw.chisel.info=İskarpelalar, 3x3 üretime erişmek için bir Çalışma Kütüğü yapmak üzere bir kütük üzerinde kullanılabilir. Ayrıca Taş Tuğlalar elde etmek için Taş üzerinde kullanılabilir hatta ve hatta Kızıltaş ve Elmas bile toplayabilir.
+btw.cobweb.info=Örümcekler hedeflerini yavaşlatmak için onlara Örümcek Ağları fırlatır. Örümcek Ağları, İp elde etmek için keskin bir taşla veya daha sonra daha fazla İpe dönüştürülebilen ağı bozulmadan toplamak için Makasla toplanabilir.
+btw.fishing_rod.info=Balık tutmak için yem, yeterli alan ve günün doğru zamanı gerekir. Yemi uygulamak için oltayı herhangi bir yem eşyasıyla (Çürük Et, Creeper İstiridyesi, Örümcek Gözü veya Yarasa Kanadı gibi) birlikte tutarken sağ tıklayın. Uygun bir balık tutma noktası gökyüzünü görebilmeli ve en az 3 blok derinlikte olmalıdır. Geçerli olması halinde olta ucunda etrafında kabarcıklar belirecektir. Dolunay veya yağmur yağarken gün doğumu ve gün batımı, balık tutmak için en verimli zamanlardır.
+btw.netherrack.info=Nether Taşı sonsuza dek ateşe verilebilir, ancak bunu yapmak için bir kamp ateşi veya bir ateş topu gerekir. Ayrıca yeryüzündeyken yerçekimi nedeniyle düşer ve ateşe verilirse düştüğünde bile yanmaya devam eder.
+btw.oven.info=Tuğla Fırınlar yiyecekleri kamp ateşlerinden çok daha verimli bir şekilde pişirmek ve cevherleri eritmek için kullanılabilir. Üst kısımda tek bir eşya, alt kısımda ise yakıt tutabilirler. Yakıtı yerleştirmek için sağ tıkladığınızda, kaplama mevcut yakıt miktarını gösterecek şekilde güncellenecektir. Fırını yakmak için Ateş Başlatıcı veya yanan bir Meşale gibi bir ateşleyici kullanılabilir.
+btw.string.info=Örümcekler hedeflerini yavaşlatmak için onlara Örümcek Ağları fırlatır. Örümcek Ağları, İp elde etmek için keskin bir taşla veya daha sonra daha fazla İpe dönüştürülebilen ağı bozulmadan toplamak için Makasla toplanabilir. Örümcekler kesildiğinde de İp düşürür tabii Örümcek Ağı fırlatmamışsa.
+btw.torch.info=Kömürden yapılan meşaleler bir kez yakıldığında bir gün (20 dakika) ile sınırlı bir ömre sahiptir. Oyuncunun envanterinde olsalar bile suya batırıldıklarında veya yağmur yağdığında sönerler. Bir kez söndürüldükten sonra tekrar yakılamazlar. Yanan Meşaleler, Fırınlar veya diğer Meşaleler gibi başka şeyleri ateşe tutuşturmak için de kullanılabilir.
+btw.fire_plough.info=Sürtme Çubukları, sağ tıka basılı tutarak Meşaleler, Kamp Ateşleri ve Fırınlar gibi bloklarda ateş başlatabilir. Yeterli süre geçtikten sonra Çubuklar ateş yakmaya yetecek kadar ısınacaktır. Sağ tık bırakılırsa ilerleme sıfırlanacaktır. Bunun açık ateş başlatamayacağını ve geçerli bir hedef bloğuna sahip olması gerektiğini unutmayın. Yükseltilmiş ateş başlatıcılar için Yay Matkabı, Çakmak Taşı ve Çelik ve Ateş Topuna bakın.
+btw.bow_drill.info=Yay Matkabı, sağ tıka basılı tutarak Meşaleler, Kamp Ateşleri ve Fırınlar gibi bloklarda Sürtme Çubuklardan çok daha hızlı ateş başlatabilir. Yeterli süre geçtikten sonra, Yay Matkabı bir ateş başlatacak kadar ısınacaktır. Sağ tık bırakılırsa ilerleme sıfırlanacaktır. Bunun açık ateş başlatamayacağını ve geçerli bir hedef bloğuna sahip olması gerektiğini unutmayın. Yükseltilmiş ateş başlatıcılar için Çakmak Taşı ve Çelik ve Ateş Topuna bakın.
+btw.flint_and_steel.info=Çakmak Taşı ve Çelik; Sürtme Çubuklar ve Yay Matkabının aksine sağ tıka basılı tutma gerektirmez, Meşaleler, Kamp Ateşleri ve Fırınlar gibi bloklarda yangın başlatabilir. Her kullanıldığında başarılı bir şekilde ateş başlatma şansı vardır. Bunun açık ateşleri başlatamayacağını ve geçerli bir hedef bloğuna sahip olması gerektiğini unutmayın. Açık ateş başlatabilmek için Ateş Topu bölümüne bakın.
+btw.fire_charge.info=Ateş Topları, diğer ateş başlatıcılardan farklı olarak herhangi bir yanıcı bloğu yakabilen ve açık ateşler oluşturabilen tüketilebilir malzemeleridir.																										
+
+btw.mortar.info=Kil, Balçık Topları ve Nether Kili, Dağınık Kırık Taş veya Dağınık Tuğla gibi blokların yerçekimine direnmelerini sağlamak için kullanılabilir. Bu olayı fırlatıcılar otomatik olarak da uygulayabilir.
+btw.mortar_blocks.info=Dağınık bloklar Kil, Balçık Topları veya Nether Kili ile sıvanabilir. Dağınık bloklar sıvalı bloklara kısa süreliğine yapışır ve sıva eşyaları kullanarak yerine yapıştırmak için zaman kazandırır. Fırlatıcılar da otomatik olarak sıva uygulayabilir.
+
+btw.axle.info=Akslar mekanik gücü iletmek için kullanılabilir. Akslar, devam etmek için bir dişli kutusu gerektirmeden önce üç blok uzunluğunda olabilir.
+btw.gearbox.info=Mekanik gücü iletmek için dişli kutuları kullanılabilir. Okların olduğu taraf giriştir ve Akslar diğer tarafa çıkış olarak eklenebilir. Bitişik Dişli Kutularının birbirlerine güç iletemeyeceğini, her Dişli Kutusu arasında en az bir Aks gerektiğini unutmayın.
+btw.redstone_clutch.info=Kızıl Taş Kilitleri, kızıl taş gücü ile devre dışı bırakılabilen özel bir Dişli Kutusu türüdür.
+btw.vertical_windmill.info=Dikey Yel Değirmeni, bir dizi dikey Aks üzerine yerleştirildiğinde güç üreten mekanik bir güç kaynağıdır. Dikey Yel Değirmeni, yeryüzündeki standart Yel Değirmeni ile aynı kısıtlamalara tabidir, ancak Nether'deyken çalışan tek mekanik güç kaynağıdır.
+btw.water_wheel.info=Su Çarkı, akan su bulunan bir Aks üzerine yerleştirildiğinde güç üreten mekanik bir güç kaynağıdır. Su Çarkı aynı zamanda su kaynaklarının serbestçe yerleştirilebildiği End'de çalışan tek güç kaynağıdır.
+btw.windmill.info=Yel Değirmeni, gökyüzünü görebilen bir aks üzerine yerleştirildiğinde güç üreten mekanik bir güç kaynağıdır. Yel değirmenleri oldukça büyüktür, bu nedenle yeterli alan olduğundan emin olmak önemlidir. Ayrıca fırtınalardan etkilenirler ve bir Kızıl Taş Kilidi kullanılarak devre dışı bırakılmadıkları sürece fırtına sırasında bağlı oldukları mekanik cihazlara zarar verirler.
+
+btw.bellows.info=Körükler, önündeki 3x3'lük hibaçileri körüklemek için kullanılabilir. Bunun için körüğün genişleyip daralarak önündeki havayı itmesi için mekanik gücün açılıp kapatılması gerekir ve genellikle zamanlama için bir döner masa kullanılır. Körükler, üflendiğinde farklı ağırlıktaki eşyaları farklı mesafelere iterek eşyaları sıralamak için de kullanılabilir.
+btw.cauldron.info=Kazanlar yiyecek gibi maddeleri yakıt kullanmadan işlemek için kullanılabilir, altlarında sadece ateş gerektirir. Kamp ateşleri veya normal ateş onlara güç sağlayabilir ve kazanın altında 3x3'e kadar daha fazla ateş, işleme hızı artacaktır. Harlanmış Hibaçiler daha fazla ısı gerektiren farklı tariflerin kilidini açmak için kullanılabilir. Kazanı devirmek ve içindekileri dökmek için mekanik güç uygulanabilir.
+btw.crucible.info=Metal Kazanı, çalışmak için harlanmış ateş gerektirmeleri dışında tıpkı Kazanlar gibi çalışır. Kazanlar ve Seramik Fırınlar gibi, 3x3'e kadar daha fazla ateşle tarifleri daha hızlı işlerler. Metal Kazanı devirmek ve içindekileri dökmek için mekanik güç uygulanabilir.
+btw.dormant_soulforge.info=Her nether kalesinde tek bir Pasif Ruh Dövme Örs bulunabilir. Aktif bir ruhla dövülmüş örsle daha fazlası üretilebilir, ancak ilki bir kalede bulunmalıdır.
+btw.dragon_vessel.info=Ejderha Çömleği büyük miktarlarda tecrübe puanı depolamak için kullanılabilir. Bu çömlek, mekanik güç uygulanıp devrilerek depolanan tüm tecrübe puanlarını dökerek dışarı atabilir. Ejderha Çömleği yalnızca Yağmur Ormanı Tapınaklarında bulunabilir.
+btw.dynamite.info=Dinamit, araç çubuğu üzerinde Çakmak Taşı ve Çelik ile veya Fırlatıcı ya da Blok Fırlatıcı ile fırlatılarak yakılabilen bir patlayıcıdır. Suya atıldığında, Dinamit bir kerede çok sayıda balık elde etmek için balıkçılıkta kullanılabilir.
+btw.hand_crank.info=Döndürme Kolu, her çekişte büyük miktarda açlık bedeline rağmen yanındaki bazı basit makinelere mekanik güç sağlamak için kullanılabilir. Değirmen Taşı ve Körükler bu şekilde çalıştırılabilir; Kazanlar, Metal Kazanları ve Ejderha Çömlekleri, içindekileri dışarı atmak için yatabilir.
+btw.hibachi.info=Hibaçiler kızıl taş gücü aldığında ateş yakabilir ki bu ateş yakması için yeterli kararlılığa ulaşmasını sağlar. Tek bir Körük tarafından 3x3'lük bir alanda 9 adede kadar hibaçinini ateşi harlanabilir.
+btw.kiln.info=Tuğla bloklar çömlek pişirmek ve daha iyi eritmek için bir fırın haline getirilebilir. Harlanmış bir Hibaçinin üzerine bir tuğla blok yerleştirin, ardından ilk tuğla bloğun üzerindeki hava bloğunu çevreleyen üç tane daha yerleştirin. Tam diziliş önemli değildir. Seramik Fırınlar 3x3'lük bir düzende dokuz adede kadar Hibaçi ile çalıştırılabilir, daha fazla Hibaçi ile hız artar.
+btw.millstone.info=Değirmen Taşları, malzemeleri öğütme yoluyla işlemek için kullanılabilir. Değirmen Taşı bir Döndürme Kolunu yanına, üstüne veya altına koyarak çalıştırılabilir. Yalnızca tek bir eşya tutabilir, bu nedenle daha fazla eşyayı otomatik olarak yerleştirmek için üzerinde güçlendirilmiş bir huni gerekir. İşleme tamamlandığında, sonuç etrafına rastgele fırlatılır, bu nedenle Değirmen Taşının her tarafında engel bulunmamalıdır.
+btw.piston_shovel.info=Piston Küreği, bir Piston ile bloğun içine iterek yumuşak veya dağınık blokları toplamak için kullanılabilir. Bu, bloğu ipeksi dokunuşla olduğu gibi sağlam bir şekilde alır, örneğin çimen bloğu toplamak için kullanılabilir.
+btw.planter.info=Saksılar, yabani otlar olmadan mahsül yetiştirmek için kullanılabilir. Tarlalar gibi saksıların da sulanması gerekir ancak biraz farklı çalışırlar. Saksılar sadece komşu bloklarında veya altlarında hatta üstlerinde su varsa düzgün sulanabilirler.
+btw.saw.info=Testere, mekanik güç sağlandığında tahta blokları kesmek için kullanılabilir. Ayrıca ön yüzüyle temas eden tüm varlıklara zarar vermek için de kullanılabilir ve mob farmları için öldürme mekanizması olarak çok etkilidir. Bu verimlilik, testereye bir Doğrama Bloğu itilerek artırılabilir, bu da hasarı ve kafaların düşme oranını artırır.
+btw.screw_pump.info=Vidalı Pompalar su seviyesini bir blok yükseltmek için kullanılabilir. Mekanik olarak çalıştırıldığında, Vidalı Pompalar ön yüze akan suyu üstten dışarı atarak bir blok yukarı taşıyacaktır.
+btw.soul_urn.info=Ruh filtreleme tarifleri bir kavanoz olmadan da gerçekleştirilebilir, ancak bunu yapmak ruhları çevreye bırakacaktır. Bir Ruh Kavanozu fırlatmak da içerdiği ruhları serbest bırakacaktır. Sonradan bu, Nether Filizi veya Kan Ağacı gibi ruh tabanlı bitkilere besin sağlayabilir, ayrıca zombileşmiş bir Köylüye ruhunu geri verebilir. Bununla birlikte, ruhlara maruz kalmak birçok pasif canlının yanı sıra ahtapotların da üzerinde olumsuz bir etkiye sahip olabilir.
+btw.soulforge.info=Ruh Dövme Örs özellikle gelişmiş üretim tarifleri için kullanılır ve 4x4 üretim menüsüne erişim sağlar. Ruh Dövme Örs, her nether kalesinde bir tane bulunabilen bir Pasif Ruh Dövme Örsten oluşturulmalıdır. Aktif bir ruhla dövülmüş örsle daha fazlası üretilebilir, ancak ilki bir kalede bulunmalıdır.
+btw.turntable.info=Döner Masa, üzerindeki iki bloğu ve meşaleler gibi bu bloklara bağlı olan her şeyi döndürür. Döner masalar kızıl taş meşalelerle zamanlayıcı olarak veya karmaşık diziler için kullanılabilir ayrıca kil bloklarını çömlek haline getirmek için de kullanılabilir. Hızı 1/2 saniye, 1 saniye, 2 saniye ve 4 saniye arasında değiştirmek için boş bir elle sağ tıklayın.
+btw.mining_charge.info=Maden Mayını, Barut Varillerden daha kontrollü bir patlayıcıdır. Maden Mayını herhangi bir yüzeye bağlanabilir ve o yüzeye doğru sabit bir düzende patlar. Patlamada yok olan bloklar her zaman eşyalarını düşürür ve genellikle tıpkı bir oyuncu onları kırmış gibi eşya düşürür.
+btw.buddy_block.info=Algılayıcı Bloğu, blok güncellemelerine bağlı olarak bir Kızıl Taş sinyali göndermek için kullanılabilir. Algılayıcı Bloğunun aldığı herhangi bir blok güncellemesi, çıkışına doğru bir Kızıl Taş sinyali yaymasına neden olacaktır.
+btw.block_dispenser.info=Blok Fırlatıcı, blokları otomatik olarak yerleştirmek ve kırmak için kullanılabilir. Blok Fırlatıcı, Kızıl Taş gücü aldığında envanterinden bir blok yerleştirir ve güç kaldırıldığında İpeksi Dokunuş kullanıyormuş gibi önündeki bloğu toplar. Blok Fırlatıcı, envanterindeki blokları sırayla yerleştirir ve envanterinde hangi eşyanın daha sonra yerleştirileceğine dair bir gösterge bulunur. Blok Fırlatıcılar ayrıca tavukları ve kurtları emebilir ve koyunların yünlerini emebilir.
+btw.detector_block.info=Dedektör Bloğu, önünde bir blok veya varlık olduğunda Kızıl Taş gücü yayacaktır. Algılama menzilini genişletmek, Kızıl Taşı kablosuz olarak iletmek veya ışık seviyelerini tespit etmek için Mercek ile de birleştirilebilir.
+btw.lens.info=Mercek, arkasına yerleştirilen bir ışık kaynağını bir çizgi halinde yansıtacaktır. Bu ışını kesen herhangi bir blok veya varlık, ışının sona ermesine ve bölgede ışık saçmasına neden olur. Bir Mercekten gelen ışın bir Dedektör Bloğu tarafından algılanabilir, bu da Kızıl Taş sinyallerinin kablosuz olarak iletilmesine veya Mercek ışınının bir tuzak teli olarak kullanılmasına olanak tanır. Ek olarak, ışık kaynağı olmayan bir mercek doğrudan bir Dedektör Bloğuna doğrultulduğunda, ışık seviyesi dedektörü olarak işlev görür ve ışık seviyesi 8 veya daha yüksek olduğunda güç çıkışı verir.
+btw.wooden_detector_rail.info=Tahta Dedektör Ray tüm Vagonları tespit edecektir.
+btw.stone_detector_rail.info=Taş Dedektörü Ray içinde herhangi bir şey olan (varlıklar veya sandıklar dahil) Vagonları tespit eder, ancak boş Vagonları tespit etmez.
+btw.steel_detector_rail.info=Çelik Dedektör Ray sadece içinde oyuncu olan Vagonları tespit edecektir.
+btw.wooden_pressure_plate.info=Tahta Basınç Plakası herhangi bir varlığı veya nesneyi tespit edecektir.
+btw.stone_pressure_plate.info=Taş Basınç Plakası yalnızca daha büyük varlıkları tespit eder ve nesneleri tespit etmez.
+btw.steel_pressure_plate.info=Çelik Basınç Plakası sadece bir oyuncuyu tespit edecektir.
+btw.light_block.info=Işık Bloğu, Kızıl Taş gücüyle etkinleştirilebilen ancak standart bir Kızıl Taş Lambasından daha güçlü olan bir ışık kaynağıdır. Aynı ışık seviyesini yaymalarına rağmen Işık Bloğu, bitkilerin hemen üzerine yerleştirildiğinde (tarım arazisinin iki blok üzerinde) Kenevir ve Buğdayın yeraltında büyümesini sağlamak için güneş ışığının yerine geçebilir.
+
+btw.hopper.info=Huniler üzerlerinden geçen eşyaları toplar ve mekanik olarak çalıştırıldıklarında eşyaları alttan dışarı atar. Ancak huniler envanterlerden eşya çekemez, sadece dünyadan eşya çekebilir. Toplanan öğeler filtre yuvasına yerleştirilerek filtrelenebilir. Geçerli filtreler şunlardır: Merdivenler, Demir Parmaklıklar, Tuzak Kapıları, Izgaralar, Çıtalar, İnce Hasır ve Ruh Kumu. Bazı filtreler, içinden geçen öğeleri ayırmak veya dönüştürmek için kullanılabilir. Daha fazla bilgi her bir filtrenin kendi bölümünde bulunabilir.
+btw.ladder.info=Bir Huni için filtre olarak kullanıldığında, Merdivenler eşyaların geçmesine izin verirken blokların geçmesini engeller.
+btw.iron_bars.info=Bir Huni için filtre olarak kullanıldığında, Demir Parmaklıklar steklenebilir eşyaların geçmesine izin verecektir.
+btw.trapdoor.info=Bir Huni için filtre olarak kullanıldığında, Tuzak Kapıları kemik veya çubuk gibi küçük veya uzun nesnelerin geçmesine izin verecektir.
+btw.grate.info=Bir Huni için filtre olarak kullanıldığında, Izgaralar kil topları veya kömür gibi küçük maddelerin geçmesine izin verecektir.
+btw.slats.info=Bir Huni için filtre olarak kullanıldığında, Çıtalar kağıt veya ip gibi ince maddelerin geçmesine izin verecektir.
+btw.wicker_pane.info=Bir Huni için filtre olarak kullanıldığında Hasır, tohum veya şeker gibi küçük veya toz halindeki maddelerin geçmesine izin verecektir.
+btw.soul_sand.info=Ruh Kumu, Öğütülmüş Nether Taşı gibi ruh içeren öğelerden ruhları filtrelemek için benzersiz bir huni filtresi olarak kullanılabilir. Ruh Kumu filtreleri ayrıca tecrübe puanı depolamak ve Ejderha Tecrübe Puanlarını (kırmızı tecrübe) tecrübe puanına dönüştürmek için de kullanılabilir. Bunları yakalayacak bir Kavanoz olmadan ruhları filtrelemek yakındaki canlıları çılgına döndürebilir.
+
+btw.arcane_scroll.info=Gizemli Parşömenler, eşyalara belirli büyüleri uygulamak için Ruhsal Büyü Masasıyla birlikte kullanılabilir. Çoğu Gizemli Parşömen agresif varlıklardan nadiren düşer ve her varlık türünün düşürebileceği kendi büyüsü vardır. Seviye 5 Köylülerin de sattıkları benzersiz bir parşömenleri vardır.
+btw.brewing_stand.info=İksir Tezgahı sadece Cadı Kulübelerinde bulunabilir.
+btw.enchanter.info=Büyü Masası, uygulayabileceği büyüler açısından sınırlıdır ve yalnızca 15 seviyeye kadar büyü uygulayabilir. Maksimum güce ulaşmak için etrafında 30 kitaplık olmalıdır. Büyü Masası sadece Çöl Tapınaklarında bulunabilir.
+btw.infernal_enchanter.info=Ruhsal Büyü Masası, Gizemli Parşömenleri kullanarak herhangi bir büyüyü uygulamaya izin verir. Uygulanan her büyü 30 seviye gerektirir, ayrıca eşyanın üzerinde zaten bulunan her büyü için ek 30 seviye daha gerektirir, 4 büyü sınırına kadar. Ruhsal Büyü Masası, masayı merkez alan 17x17x17 blokluk bir küp içindeki her seviye için 1 kitaplık gerektirir ve maksimum verimlilik için 120 kitaplık gerekir.
+
+btw.beacon.info=Fenerler piramidin inşa edildiği malzemeye bağlı olarak farklı bir etki sağlar. Fenerler, Nether'da çalışmak için Katman Kayası tavanını görebilmelidirler. Fenerler için geçerli bloklar Derişik Cehennem Ateşi, Elmas, Dışkı, Zümrüt, Ender Bloğu, Cam, Işık Taşı, Altın, Demir, Lapis Lazuli, Örümcek Gözü ve Ruh Dövme Çeliktir. Her bir etki hakkında bilgi, her bloğun bilgi sayfasında bulunabilir.
+btw.concentrated_hellfire_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Derişik Cehennem Ateşi Blokları yakındaki tüm oyunculara Ateş Direnci sağlar.
+btw.diamond_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Elmas Bloklar yakındaki tüm oyunculara Servet sağlar. Servetin gücü, Fenerin katmanı ile birlikte artar ve en fazla Servet IV'e ulaşır.
+btw.dung_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Dışkı Blokları yakındaki tüm oyuncularda bulantıya neden olur. Bu durum, tam set Ruh Dövme Çelik Zırh giyilerek önlenebilir.
+btw.emerald_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Zümrüt Blokları yakındaki tüm oyunculara Ganimet sağlamanın yanı sıra, oyunculardan kaynaklanmayanlar da dahil olmak üzere yakındaki tüm varlık ölümlerinin eşya düşürmelerine de ganimet uygular. Ganimet gücü, Fenerin katmanı ile artar ve en fazla Yağma IV'e ulaşır.
+btw.ender_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Ender Blokları Endermanlerin doğma hızını artırır ve Gümüşçünlerin End'de ortaya çıkmasına neden olur. Ayrıca, sandığın yerleştirildiği fener katmanına bağlı olarak farklı davranışlara sahip olan Ender Sandıklarına erişim sağlarlar. 3x3 ve 5x5 boyut başına herkese açık envanterlerdir. 7x7 herkese açık boyutlar arası bir envanterdir. 9x9 oyuncu başına özel bir envanterdir.
+btw.ender_chest.info=Ender Sandıklarının çalışması için Ender Bloklarından yapılmış Fenerler gerekir ve sandığın yerleştirildiği işaretçi katmanına bağlı olarak farklı davranışlara sahiptir. 3x3 ve 5x5 boyut başına herkese açık envanterlerdir. 7x7 herkese açık boyutlar arası bir envanterdir. 9x9 oyuncu başına özel bir envanterdir.
+btw.glass.info=Bir Fenerin malzemesi olarak kullanıldığında, Cam blokları dekoratif kullanım için Fener ışınını etkinleştirmek dışında bir etkisi yoktur.
+btw.glowstone.info=Bir Fenerin malzemesi olarak kullanıldığında, Işık Taşı blokları yakındaki tüm oyunculara Gece Görüşü sağlar.
+btw.gold_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Altın Bloklar yakındaki tüm oyunculara Acele etkisi sağlar. Acelenin gücü Fenerin katmanı ile artar ve en fazla Acele IV'e ulaşır.
+btw.iron_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Demir Bloklar menzil içindeki pusulaların yönünü değiştirir. Demir fenerlerin menzili normal işaretçilerden çok daha geniştir ve kademe 4'te aynı boyut içinde sonsuz hale gelir.
+btw.lapis_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Lapis Lazuli blokları yakındaki tüm oyunculara Net Görüş sağlar, bu da oyuncunun düşman varlıkların nerede ortaya çıkabileceğini ve dünyanın merkez noktasında hangi yığınların her zaman yüklü olduğunu görmesini sağlar.
+btw.spider_eye_block.info=Bir Fenerin malzemesi olarak kullanıldığında, Örümcek Gözü Blokları Orman Örümceklerinin belli bir menzil içinde ortaya çıkmasını engeller.
+btw.steel_block.info=Ruh Dövme Çelik Bloklar, Wither'a karşı bağışıklıdır bu nedenle kolay öldürme için onu tutmak için kullanılabilir. Ek olarak, bir fenerin malzemesi olarak kullanıldığında, Ruh Dövme Çelik Bloklar, oyuncunun doğuş noktasını ayarlamasına ve yeterince yakınında ölürse fenerde yeniden doğmasına olanak tanıyan bir çıpa görevi görür. Menzil ilk iki kademe için sınırlıyken, 3. kademe aynı boyut içinde sınırsızdır ve 4. kademe boyutlar arasında sınırsızdır.
+
+btw.bow.info=Yay, Çürük ve normal Okları atabilir, ancak Geniş Başlı Okları atmak için çok zayıftır. Yaylar ateş etmek için araç çubuğunda oklara ihtiyaç duyar ve yalnızca Ruhsal Büyü Masasında büyülenebilir.
+btw.composite_bow.info=Kompozit Yay, normal Okları daha uzağa ve daha hızlı atan Yayın daha güçlü bir versiyonudur ayrıca daha güçlü olan Geniş Başlı Okları atabilir, ancak Geniş Başlılar standart Okların menzil artışına sahip değildir. Bununla birlikte, Kompozit Yay, anında parçalanacak olan Çürük Okları atmak için çok güçlüdür. Yaylar ateş etmek için araç çubuğunda oklara ihtiyaç duyar ve yalnızca Ruhsal Büyü Masasında büyülenebilir.
+btw.rotten_arrow.info=İskeletler tarafından düşürülen Çürük Oklar, standart Oklardan çok daha zayıftır. Önemli ölçüde daha az hasar verirler, daha kısa mesafe kat ederler, bir bloğa çarptıklarında kırılırlar ve Kompozit Yay ile atılmaya çalışıldıklarında paramparça olurlar.
+btw.broadhead_arrow.info=Geniş Başlı Oklar standart Oklardan çok daha güçlüdür ve daha fazla hasar verir. Ancak standart bir Yay için çok ağırdırlar ve atılmaları için Kompozit Yay gerekir.
+
+btw.blood_wood.info=Kan Ağaçları yalnızca Nether'daki Ruh Kumları üzerinde yetiştirilebilir ve diğer ağaçlardan çok daha hızlı büyür. Fidan olgunlaştıktan sonra bile bulundukları alanı doldurmak için sürekli kök atacaklardır. Ayrıca Kan Ağaç Fidanları, Ruh Kumu üzerine düştüklerinde otomatik olarak kendilerini dikerler.
+btw.chopping_block.info=Doğrama Bloğu, Testerenin varlıklara verdiği hasarı artırmak ve düşman varlıklardan kafa düşürme oranını artırmak için bir Testere'ye itilerek kullanılabilir.
+btw.companion_cube.info=Arkadaş Küpü, bir Blok Fırlatıcının bir Kurtu emmesiyle elde edilebilir.
+btw.corpse_eye.info=Ceset Gözleri, oyuncunun son ölümünün yerini bulmak için Ender Gözüne benzer bir şekilde kullanılabilir. Ceset Gözleri kırılmadan önce beş kez kullanılabilir.
+btw.groth.info=Nether Filizi, Nether Taşı üzerinde büyüyerek hızla etrafa yayılır, üzerinde yürüyen tüm varlıklara zarar verdiği için varlıkların ortaya çıkmasını engeller. Olgun Filiz kırıldığında zehirli sporlar da yayar. Çelik Botlar, Nether Filizi üzerinde hasar almadan yürümeye izin verirken, tam bir Çelik Zırh takımı sporlardan gelen zehri önleyecektir.
+btw.portal.info=Nether Geçitleri bir Kamp Ateşi veya Ateş Topu kullanılarak yakılmalıdır. Geçitler, 16 blokluk bir menzil içinde ruhları aktif olarak yayacak ve yakındaki pasif varlıkların yanı sıra ahtapotları da olumsuz etkileyecektir.

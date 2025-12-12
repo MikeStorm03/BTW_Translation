@@ -1,0 +1,648 @@
+# EMI
+
+key.keyboard.control=Ctrl
+key.keyboard.alt=Alt
+key.keyboard.shift=Shift
+
+key.emi.toggle_visibility=Hiển thị giao diện EMI
+key.emi.focus_search=Chuyển đến thanh tìm kiếm
+key.emi.clear_search=Xóa hết chữ trong thanh tìm kiếm
+key.emi.view_recipes=Xem công thức
+key.emi.view_uses=Xem công dụng
+key.emi.favorite=Ghi nhớ
+key.emi.set_default=Đặt làm mặc định
+key.emi.default_stack=Stack mặc định
+key.emi.view_stack_tree=Xem Stack Tree
+key.emi.view_tree=View Tree
+key.emi.back=Trang trước
+key.emi.forward=Trang sau
+key.emi.craft_one=Chế tạo một
+key.emi.craft_all=Chế tạo hết
+key.emi.craft_one_to_inventory=Chế tạo một cái vào túi đồ
+key.emi.craft_all_to_inventory=Chế tạo hết vào túi đồ
+key.emi.craft_one_to_cursor=Chế tạo một cái vào con trỏ
+key.emi.show_craft=Xem công thức
+key.emi.cheat_one_to_inventory=Lấy một cái vào túi đồ
+key.emi.cheat_stack_to_inventory=Lấy một stack vào túi đồ
+key.emi.cheat_one_to_cursor=Lấy một cái vào con trỏ
+key.emi.cheat_stack_to_cursor=Lấy một stack vào con trỏ
+key.emi.delete_cursor_stack=Xóa hết vật phẩm trên con trỏ
+key.emi.hide_stack=Ẩn Stack
+key.emi.hide_stack_by_id=Ẩn ID Stack
+
+emi.help_level.verbose=Rườm rà
+emi.help_level.normal=Bình thường
+emi.help_level.none=Không có
+emi.align.horizontal.left=Trái
+emi.align.horizontal.center=Giữa
+emi.align.horizontal.right=Phải
+emi.align.vertical.top=Trên
+emi.align.vertical.center=Giữa
+emi.align.vertical.bottom=Dưới
+emi.sidebar.type.none=Không có
+emi.sidebar.type.index=Tất cả
+emi.sidebar.type.craftables=Có thể chế tạo
+emi.sidebar.type.favorites=Ghi nhớ
+emi.sidebar.type.lookup_history=Lịch sử tra cứu
+emi.sidebar.type.craft_history=Lịch sử chế tạo
+emi.sidebar.type.chess=Cờ vua
+emi.sidebar.theme.transparent=Trong suốt
+emi.sidebar.theme.vanilla=Cơ bản
+emi.sidebar.theme.modern=Hiện đại
+emi.header.visible=Hiển thị
+emi.header.invisible=Ẩn
+emi.sidebar.size.columns=Cột
+emi.sidebar.size.rows=Hàng
+emi.sidebar.margins.top=Trên
+emi.sidebar.margins.right=Phải
+emi.sidebar.margins.bottom=Dưới
+emi.sidebar.margins.left=Trái
+emi.sidebar.none=Không có
+emi.sidebar.left=Trái
+emi.sidebar.right=Phải
+emi.sidebar.top=Trên
+emi.sidebar.bottom=Dưới
+emi.effect_location.top=Trên
+emi.effect_location.left_compressed=Trái (Thu gọn)
+emi.effect_location.right_compressed=Phải (Thu gọn)
+emi.effect_location.left=Trái
+emi.effect_location.right=Phải		
+emi.effect_location.right=Phải
+emi.effect_location.hidden=Ẩn
+emi.recipe_book_action.default=Mặc định
+emi.recipe_book_action.toggle_craftables=Toggle Craftables
+emi.recipe_book_action.toggle_visibility=Toggle Visibility
+
+config.emi.group.general=Tổng quan
+config.emi.group.general.search=Tìm kiếm
+config.emi.group.ui=Giao diện
+config.emi.group.ui.mod_id=Mod ID
+config.emi.group.ui.recipe_screen=Recipe Screen
+config.emi.group.ui.recipe_buttons=Recipe Buttons
+config.emi.group.ui.left_sidebar=Bảng bên trái
+config.emi.group.ui.right_sidebar=Bảng bên phải
+config.emi.group.ui.top_sidebar=Bảng bên trên
+config.emi.group.ui.bottom_sidebar=Bảng bên dưới
+config.emi.group.binds=Phím tắt
+config.emi.group.dev=Nhà phát triển
+
+config.emi.group.binds.crafts=Chế tạo
+config.emi.group.binds.cheats=Gian lận
+
+config.emi.general.enabled=Hiển thị
+config.emi.general.cheat_mode=Chế độ gian lận
+config.emi.general.help_level=Mức độ hữu ích
+config.emi.general.search_tooltip_by_default=Tìm kiếm chú giải công cụ mặc định
+config.emi.general.search_mod_name_by_default=Tìm kiếm tên mod mặc định
+config.emi.general.search_tags_by_default=Tìm kiếm tag mặc định
+config.emi.general.search_id_by_default=Tìm kiếm ID mặc định
+config.emi.general.simulate_nei_lag=[retroEMI] Mô phỏng NEI Lag
+
+config.emi.ui.effect_location=Vị trí hiệu ứng
+config.emi.ui.center_search_bar=Đặt thanh tìm kiếm ở giữa
+config.emi.ui.show_hover_overlay=Hiển thị hiệu ứng con trỏ
+config.emi.ui.append_mod_id=Append Mod ID
+config.emi.ui.append_item_mod_id=Append Item Mod ID
+config.emi.ui.recipe_book_action=Recipe Book Action
+config.emi.ui.search_sidebar_focus=Khi thanh bên tìm kiếm được chọn
+config.emi.ui.empty_search_sidebar_focus=Empty Search Sidebar Focus
+
+config.emi.ui.left_sidebar_pages=Hiển thị
+config.emi.ui.left_sidebar_subpanels=Bảng con
+config.emi.ui.left_sidebar_size=Kích thước
+config.emi.ui.left_sidebar_margins=Căn lề
+config.emi.ui.left_sidebar_align=Căn chỉnh
+config.emi.ui.left_sidebar_header=Đầu bảng
+config.emi.ui.left_sidebar_theme=Nền
+
+config.emi.ui.right_sidebar_pages=Hiển thị
+config.emi.ui.right_sidebar_subpanels=Bảng con
+config.emi.ui.right_sidebar_size=Kích thước
+config.emi.ui.right_sidebar_margins=Căn lề
+config.emi.ui.right_sidebar_align=Căn chỉnh
+config.emi.ui.right_sidebar_header=Đầu bảng
+config.emi.ui.right_sidebar_theme=Nền
+
+config.emi.ui.top_sidebar_pages=Hiển thị
+config.emi.ui.top_sidebar_subpanels=Bảng con
+config.emi.ui.top_sidebar_size=Kích thước
+config.emi.ui.top_sidebar_margins=Căn lề
+config.emi.ui.top_sidebar_align=Căn chỉnh
+config.emi.ui.top_sidebar_header=Đầu bảng
+config.emi.ui.top_sidebar_theme=Nền
+
+config.emi.ui.bottom_sidebar_pages=Hiển thị
+config.emi.ui.bottom_sidebar_subpanels=Bảng con
+config.emi.ui.bottom_sidebar_size=Kích thước
+config.emi.ui.bottom_sidebar_margins=Căn lề
+config.emi.ui.bottom_sidebar_align=Căn chỉnh
+config.emi.ui.bottom_sidebar_header=Đầu bảng
+config.emi.ui.bottom_sidebar_theme=Nền
+
+config.emi.ui.vertical_margin=Vertical Margin
+config.emi.ui.minimum_recipe_screen_width=Minimum Recipe Screen Width
+config.emi.ui.workstation_location=Vị trí nơi chế tạo
+config.emi.ui.miscraft_prevention=Miscraft Prevention
+config.emi.ui.fluid_unit=Fluid Unit
+config.emi.ui.show_cost_per_batch=Hiểm thị số item tiêu thụ theo lô
+config.emi.ui.recipe_default_button=Phím công thức mặc định
+config.emi.ui.recipe_tree_button=Phím cây công thức
+config.emi.ui.recipe_fill_button=Phím thêm nguyên liệu
+config.emi.ui.recipe_screenshot_button=Phím chụp màn hình công thức
+config.emi.ui.recipe_screenshot_scale=Tỉ lệ ảnh chụp màn hình công thức
+config.emi.ui.use_batched_renderer=Sử dụng Batched Renderer
+
+config.emi.dev.dev_mode=Chế độ nhà phát triển
+config.emi.dev.edit_mode=Edit Mode
+config.emi.dev.log_untranslated_tags=Hiển thị các phân loại vật phẩm chưa được dịch
+config.emi.dev.log_non_tag_ingredients=Hiển thị các vật phẩm chưa được phân loại
+config.emi.dev.show_recipe_ids=Hiển thị ID của công thức chế tạo
+config.emi.dev.highlight_defaulted=Highlight mặc định
+config.emi.dev.highlight_exclusion_areas=Highlight Exclusion Areas
+
+config.emi.presets.sidebars=Sidebars
+config.emi.presets.binds=Gán phím
+config.emi.presets.restore=Restore
+
+config.emi.presets.btw_default=Mặc định BTW
+config.emi.presets.old_default=Mặc định cũ
+
+config.emi.presets.productive=Productive
+config.emi.presets.recipe_book_plus=Sách công thức mở rộng
+
+config.emi.presets.author_binds=Author Binds
+
+config.emi.presets.backup=Restore Backup
+config.emi.presets.defaults=Restore Defaults
+
+config.emi.presets.empty_search_craftable=Empty Search Craftable
+
+emi.unit.liters=Liters
+emi.unit.millibuckets=Millibuckets
+emi.unit.droplets=Droplets
+emi.fluid.amount.liters=%s L
+emi.fluid.amount.millibuckets=%smB
+emi.fluid.amount.droplets=%s d
+
+emi.disabled=EMI đang tắt! Bật lại bằng phím
+emi.reloading=Đang tải EMI...
+emi.reloading.waiting=Đang tải công thức chế tạo từ server...
+emi.reloading.error=§cEMI experienced a critical exception while reloading check log
+emi.reloading.worry=§cExperiencing delay is everything alright?
+emi.search=Tìm kiếm trên EMI...
+emi.search_config=Tìm kiếm thiết lập...
+emi.delete_stack=§cDelete held stack
+emi.inapplicable=Bàn làm việc hiện tại không được hỗ trợ công thức
+emi.not_enough_ingredients=Không đủ nguyên liệu để chế tạo
+emi.too_small=Lưới chế tạo quá nhỏ để chứa các nguyên liệu
+emi.favorite_recipe=Bấm %s để ghi nhớ công thức
+emi.resolve.resolve=Bấm %s để sử dụng cây công thức này
+emi.resolve.default=Bấm %s để trở về mặc định cho tất cả công thức
+emi.page=Trang %s trên %s
+emi.page.short=%s/%s
+emi.total_cost=Total Cost
+emi.cost_per=Cost per batch:
+emi.leftovers=Còn dư 
+emi.view_all_recipes=Bấm để xem tất cả các công thức chế tạo
+emi.tree_welcome=Chào mừng bạn đến với %s
+emi.no_tree=Bạn vẫn chưa đặt công thức vào đây để xem...
+emi.random_tree=Nếu bạn muốn xem một công thức ngẫu nhiên
+emi.random_tree_input=Hãy bấm §6[ctrl + r]
+emi.edit_mode.hide_one=Press %s to hide stack
+emi.edit_mode.hide_all=Press %s to hide stacks by ID
+tooltip.emi.chance.consume=Consumption chance: %s%%
+tooltip.emi.chance.produce=Production chance: %s%%
+tooltip.emi.accepts=Accepts:
+tooltip.emi.fill_recipe=Fill Recipe
+tooltip.emi.fill_recipe_no_server=Cannot Fill Recipe without EMI on server
+tooltip.emi.set_default=Set as default recipe
+tooltip.emi.current_defaults=Currently the default recipe for:
+tooltip.emi.unset_default=Remove as default recipe
+tooltip.emi.set_default_stack=Press %s on an output to set default recipe for that stack
+tooltip.emi.view_tree=Xem sơ đồ công thức
+tooltip.emi.recipe_screenshot=Chụp màn hình công thức
+tooltip.emi.resolution=Resolving recipe tree for ingredient
+tooltip.emi.select_resolution=Click a §6recipe's output§r to assign for §dthis§r recipe tree
+tooltip.emi.default_resolution=Click the §6recipe default button§r to assign for §aall§r recipe trees
+tooltip.emi.clear_resolution=Click §6here§r to §cclear§r resolution
+
+tooltip.emi.config=Tùy chỉnh %s
+tooltip.emi.recipe_tree=Sơ đồ công thức
+
+
+tooltip.emi.config.global=Toggle using a global EMI config between all game instances instead of a separate config per game instance./n§cNot Yet Implemented§r
+
+tooltip.emi.synfav.uncraftable=Unable to craft §cany§r batches
+tooltip.emi.synfav.partially_craftable=Able to craft §dsome§r batches
+tooltip.emi.synfav.fully_craftable=Able to craft §aall %s§r batches
+tooltip.emi.synfav.craft_some=Bấm %s để sử dụng hết nguyên liệu đang có
+tooltip.emi.synfav.craft_all=Press %s to craft all §9%s§r batches
+
+tooltip.emi.recipe_remainder=Additionally gives:
+
+tooltip.emi.bom.batch_size=Batch size: %s/nScroll to adjust/nHold §6[shift]§r to adjust by 16
+tooltip.emi.bom.batch_size.ideal=Bấm %s để giảm thiểu phần dư thừa
+tooltip.emi.bom.mode.view=§6Đang xem§r Sơ đồ công thức
+tooltip.emi.bom.mode.craft=§6Crafting§r recipe tree/nProgress will be shown in recipe tree/n§bSynthetic favorites§r added to sidebar
+tooltip.emi.bom.help=Cây công thức hiển thị quá trình chế tạo và nguyên liệu cần có./nBạn có thể kéo và phóng to, thu nhỏ phần hiển thị/nNhấp chuột trái vào một giao điểm để chọn công thức gán cho nó./nGiữ §6[shift]§r dể tự động chọn công thức dựa trên vật phẩm trong túi đồ của bạn./nNhấp chuột phải vào một điểm giao công thức để tạm thời thu gọn nó./nGiữ §6[shift]§r để xóa công thức khỏi cây công thức đấy.
+# The initial tree state is controlled by default recipes/nA button next to recipes can set default recipe preferences/n/nThe toggle by total cost can be used to help craft a recipe tree/nWhile crafting materials that need to be collected will be displayed/n§bSynthetic favorites§r will be added to the favorites sidebar that/nwill show incomplete steps and can be used to craft
+
+screen.emi.recipe=Công thức
+screen.emi.config=Tùy chỉnh
+screen.emi.presets=Thiết lập cấu hình
+
+screen.emi.config.reset=Hoàn tác %s thay đổi
+
+emi.error.recipe.initialize=Lỗi khởi tạo
+emi.error.recipe.render=Lỗi kết xuất đồ họa
+
+# EMI Chess
+
+emi.chess.piece.white_pawn=Tốt trắng
+emi.chess.piece.white_rook=Xe trắng
+emi.chess.piece.white_knight=Mã trắng
+emi.chess.piece.white_bishop=Tượng trắng
+emi.chess.piece.white_queen=Hậu trắng
+emi.chess.piece.white_king=Vua trắng
+emi.chess.piece.black_pawn=Tốt đen
+emi.chess.piece.black_rook=Xe đen
+emi.chess.piece.black_knight=Mã đen
+emi.chess.piece.black_bishop=Tượng đen
+emi.chess.piece.black_queen=Hậu đen
+emi.chess.piece.black_king=Vua đen
+emi.chess.tooltip.invite=Mời người chơi trong thanh tìm kiếm để chơi cờ vua
+emi.chess.tooltip.accept=Đồng ý chơi cờ vua với %s
+emi.chess.tooltip.decline=Chuột phải để từ chối chơi cờ vua với %s
+emi.chess.tooltip.restart=Bấm chuột phải để bắt đầu lại
+emi.chess.multiplayer.invited=%s mời bạn chơi cờ vua
+emi.chess.multiplayer.accepted=%s đồng ý chơi cờ vua với bạn
+emi.chess.multiplayer.cancelled=%s đã nghỉ chơi cờ vua
+emi.chess.multiplayer.unavailable=%s không chơi cờ vua được
+
+emi.cooking.time=%s giây
+emi.fuel_time.items=Cháy trong %s
+emi.btw.bulk.stoked=Cần một Hibachi đang cháy
+emi.btw.turntable.turns=Cần phải xoay %d lần
+emi.btw.turntable.ejected_items=Ejected when crafting finishes
+emi.btw.progressive.time=Giữ chuột phải
+
+emi.trade.BlacksmithVillagerEntity=Cần Thợ rèn hạng %d
+emi.trade.PriestVillagerEntity=Cần Mục sư hạng %d 
+emi.trade.LibrarianVillagerEntity=Cần Thủ thư hạng %d 
+emi.trade.FarmerVillagerEntity=Cần Nông dân hạng %d 
+emi.trade.ButcherVillagerEntity=Cầng Mổ thịt hạng %d 
+emi.trade.level_up=Đã thăng hạng từ %d lên %d
+emi.trade.enchanted=có phù phép ngẫu nhiên
+emi.trade.guaranteed=This trade is guaranteed, and does not give XP.
+
+emi.world_interaction.btw.crafting_stump=§6Chỉ đục được từ gốc cây. Đục 2 lần!
+emi.world_interaction.btw.brick_sundrying=§6Phơi dưới nắng trong 1 ngày!
+emi.world_interaction.btw.bark_from_chiseling=§6Lần đục đầu tiên
+emi.world_interaction.btw.shaft_from_chiseling=§6Lần đục thứ 2 và thứ 4
+emi.world_interaction.btw.sawdust_from_chiseling=§6Lần đục thứ 3 và thứ 5
+
+# EMI Commands
+
+commands.emi.usage=Allows viewing recipes, the recipe tree, adding a tree goal, and adding a tree resolution. Not yet implemented.
+commands.emi.nyi=This command is not yet implemented
+commands.emi.id=Requires a recipe ID.
+
+# EMI Categories
+
+emi.category.minecraft.crafting=Chế tạo
+emi.category.minecraft.brewing=Pha chế
+emi.category.minecraft.smelting=Lò gạch
+emi.category.emi.world_interaction=Tương tác bên ngoài
+emi.category.emi.fuel=Chất đốt
+emi.category.emi.info=Thông tin mô tả
+emi.category.btw.soulforge=Bàn rèn ngục hồn
+emi.category.btw.cauldron=Vạc
+emi.category.btw.crucible=Nồi lò
+emi.category.btw.hopper=Phễu
+emi.category.btw.kiln=Lò nung
+emi.category.btw.millstone=Cối đá
+emi.category.btw.piston=Pít-tông nén lại
+emi.category.btw.saw=Cưa
+emi.category.btw.turntable=Bàn xoay
+emi.category.btw.campfire=Lửa trại
+emi.category.btw.trading=Trao đổi
+emi.category.btw.progressive=Chế tạo chậm
+
+emi.category.emi.tag=Phân loại
+emi.category.emi.ingredient=Nguyên liệu
+emi.category.btw.food=Thức ăn
+
+alias.emi.workbench=Workbench
+alias.emi.crafting_table=Bàn chế tạo
+alias.emi.stick=Stick
+alias.emi.tnt=TNT
+alias.emi.cauldron=Vạc
+
+# EMI Tags
+
+tag.btw.seeds=Hạt giống
+tag.btw.shears=Kéo
+tag.btw.mossy_cobblestones=Đá cuội phủ rêu
+tag.btw.loose_rocks=Đá dăm
+tag.btw.mortar=Vữa
+tag.btw.logs=Gỗ
+tag.btw.cobblestones=Đá cuội
+tag.btw.strings_and_hemp=Sợi
+tag.btw.coal_ores=Quặng than
+tag.btw.iron_ores=Quặng sắt
+tag.btw.chisels=Cái đục
+tag.btw.quartz_blocks=Thạch anh
+tag.btw.diamond_ores=Quặng kim cương
+tag.btw.wood_corners=Phào góc gỗ
+tag.btw.planks=Ván gỗ
+tag.btw.coals=Than
+tag.btw.lapis_ores=Quặng ngọc lưu ly
+tag.btw.high_quality_axes=Rìu loại tốt
+tag.btw.cooked_meats=Thịt chín
+tag.btw.hearty_meats=Thịt thượng hạng
+tag.btw.fishing_hooks=Móc câu
+tag.btw.raw_meats=Thịt sống
+tag.btw.gold_ores=Quặng vàng
+tag.btw.emerald_ores=Quặng ngọc lục bảo
+tag.btw.redstone_ores=Quặng đá đỏ
+tag.btw.low_quality_axes=Rìu loại rởm
+tag.btw.barks=Vỏ cây
+tag.btw.sandstone_blocks=Sa thạch
+tag.btw.empty=Nếu bạn thấy dòng này tức là nó đang bị lỗi!
+tag.btw.strings=Sợi khởi đầu
+tag.btw.leathers=Da
+tag.btw.candles=Nến
+tag.btw.tanned_leathers=Da thuộc
+tag.btw.axes=Rìu
+tag.btw.scoured_leathers=Da được làm sạch
+tag.btw.stone_brick_items=Gạch đá
+tag.btw.wood_mouldings=Phào chỉ gỗ
+tag.btw.wood_sidings=Ván ốp gỗ
+tag.btw.wool_blocks=Khối len
+tag.btw.colored_wools=Len màu
+tag.btw.colored_knit_wools=Vải len màu
+tag.btw.colored_wool_blocks=Khối len màu
+tag.btw.colored_wool_slab_blocks=Phiên len màu
+tag.btw.wools=Cuộn len
+tag.btw.knit_wools=Vải len
+tag.btw.wool_blocks=Khối len
+tag.btw.wool_slab_blocks=Phiến len
+tag.btw.firestarters=Dụng cụ đánh lửa
+tag.btw.weapons=Vũ khí
+tag.btw.shovels=Xẻng
+tag.btw.requires_mechanical_power=Cần được truyền động
+tag.btw.transmits_mechanical_power=Truyền động
+tag.btw.generates_mechanical_power=Tạo ra lực truyền động
+tag.btw.pickaxes=Cuốc chim
+tag.btw.hoes=Cuốc
+tag.btw.foods=Đồ ăn
+tag.btw.bark_boxes=Hộp vỏ cây
+tag.btw.fishing_bait=Mồi câu
+
+tag.wildcard.Cuộn giấy huyền bí.22479=Cuộn giấy huyền bí
+tag.wildcard.Ốp thạch anh.178=Ngoại thất thạch anh
+tag.wildcard.candle.black.22602=Nến
+tag.wildcard.Khối cỏ bạc lá.180=Khối cỏ bạc lá
+tag.wildcard.Ốp gạch.186=Ngoại thất gạch
+tag.wildcard.Thảm.171=Thảm
+tag.wildcard.Gỗ bị cạo.1010=Gỗ sồi bị cạo
+tag.wildcard.Than.263=Than
+tag.wildcard.Phiến đá cuội.1123=Phiến đá cuội
+tag.wildcard.Tường đá cuội.139=Tường đá cuội
+tag.wildcard.Đá cuội.4=Đá cuội
+tag.wildcard.Khối bạn đồng hành.237=Khối bạn đồng hành
+tag.wildcard.Phiến đất.206=Phiến đất
+tag.wildcard.Táo vàng.322=Táo vàng
+tag.wildcard.Phiến sỏi.175=Phiến sỏi
+tag.wildcard.Túi mực.351=Bột nhuộm
+tag.wildcard.Phiến đá cuội nứt.1022=Phiến đá cuội nứt
+tag.wildcard.Đá cuội nứt.1021=Đá cuội nứt
+tag.wildcard.Phiến gạch đá không vữa.1071=Phiến gạch đá không vữa
+tag.wildcard.Gạch đá không vữa.1070=Gạch đá không vữa
+tag.wildcard.Loose Stone.22566=Loose Stone
+tag.wildcard.Đá phủ rêu.48=Đá phủ rêu
+tag.wildcard.Ốp gạch Nether.188=Ngoại thất gạch Nether
+tag.wildcard.Vỏ cây sồi.22547=Vỏ cây
+tag.wildcard.Lá sồi.18=Lá cây
+tag.wildcard.Chồi cây bạch dương non.1160=Chồi cây bạch dương
+tag.wildcard.Chồi cây rừng non.1161=Chồi cây rừng
+tag.wildcard.Chồi cây sồi non.1158=Chồi cây sồi
+tag.wildcard.Chồi cây sồi cũ.6=Chồi cây cũ
+tag.wildcard.Chồi cây vân sam non.1159=Chồi cây vân sam
+tag.wildcard.Ghế gỗ sồi.200=Ngoại thất gỗ
+tag.wildcard.Bàn gỗ sồi.199=Nội thất gỗ
+tag.wildcard.Phào góc trang trí gỗ sồi.198=Phào góc trang trí gỗ
+tag.wildcard.Phào chỉ gỗ sồi.197=Phào chỉ gỗ
+tag.wildcard.Ván ốp gỗ sồi.196=Ván ốp gỗ
+tag.wildcard.Ván gỗ sồi.5=Ván gỗ
+tag.wildcard.Phiến gỗ sồi.126=Phiến gỗ
+tag.wildcard.Gỗ sồi.17=Gỗ
+tag.wildcard.Đá vỏ chai.49=Đá vỏ chai
+tag.wildcard.Old Black item.fcItemCandle.22480=Nến cũ
+tag.wildcard.Khối đan mía cũ.215=Các khối được nén
+tag.wildcard.Cái chậu.254=Chậu cây
+tag.wildcard.Ốp sa thạch.182=Ngoại thất sa thạch
+tag.wildcard.Sa thạch.24=Sa thạch
+tag.wildcard.Bụi cây.31=Cỏ
+tag.wildcard.Đầu lâu bộ xương.397=Đầu
+tag.wildcard.Smooth Stone.1=Smooth Stones
+tag.wildcard.Trứng sinh ra.383=Trứng sinh ra mob
+tag.wildcard.Ốp gạch đá bảng sâu.1139=Ngoại thất gạch đá bảng sâu
+tag.wildcard.Ốp gạch đá đen.1143=Ngoại thất gạch đá đen
+tag.wildcard.Ốp gạch đá.202=Ngoại thất gạch đá
+tag.wildcard.Gạch đá.22588=Gạch đá
+tag.wildcard.Stone Bricks Slab.1125=Stone Brick Slabs
+tag.wildcard.Gạch đá.98=Gạch đá
+tag.wildcard.Đá bị nhiễm khuẩn.97=Đá bị nhiễm khuẩn
+tag.wildcard.Ốp đá bảng sâu.1141=Ngoại thất đá bảng sâu
+tag.wildcard.Ốp đá đen.1145=Ngoại thất đá đen
+tag.wildcard.Ốp đá.185=Ngoại thất đá
+tag.wildcard.Phiến đá.1127=Phiến đá 1
+tag.wildcard.Phiến đá.44=Phiến đá 2
+tag.wildcard.Nồi lò đất.252=Gốm chưa được nung
+tag.wildcard.Bẫy leo.213=Bẫy leo
+tag.wildcard.Chai nước.373=Các loại thuốc
+tag.wildcard.Đất nung trắng.159=Đất nung
+tag.wildcard.Ốp đá trắng.191=Ngoại thất đá trắng
+tag.wildcard.Phiến len.220=Phiến len
+tag.wildcard.Len trắng.35=Khối len
+tag.wildcard.tile.fcBlockLogDamagedBirch.name.3207=Gỗ bạch dương bị cạo
+tag.wildcard.tile.fcBlockLogDamagedJungle.name.3208=Gỗ rừng bị cạo
+tag.wildcard.tile.fcBlockLogDamagedSpruce.name.3206=Gỗ vân sam bị cạo
+tag.wildcard.tile.fcBlockWoodOakSiding.siding.name.184=Ván ốp gỗ 1 (Không được dịch)
+tag.wildcard.tile.fcStoneBrickSiding.blackstone.siding.name.1143=Ốp đá đen (Không được dịch)
+tag.wildcard.tile.fcWoodBloodSiding.siding.name.1007=Ván ốp gỗ 2 (Không được dịch)
+tag.wildcard.tile.fcStoneBrickSiding.deepslate.siding.name.1139=Ốp đá bảng sâu (Không được dịch)
+tag.wildcard.tile.null.default.name.155=Nether Quartz Blocks
+tag.wildcard.Nến đen.22602=Nến
+tag.wildcard.Cuộn len đen.2551=Cuộn len
+tag.wildcard.Vải len đen.22579=Vải len
+tag.wildcard.Ốp đá đen.1145=Ngoại thất đá đen
+tag.wildcard.Ốp đá bảng sâu.1141=Ngoại thất đá bảng sâu
+tag.wildcard.Gạch đá không vữa.1070=Gạch đá không vữa
+tag.wildcard.Đá cuội phủ rêu.48=Đá cuội phủ rêu
+tag.wildcard.Phiến gạch đá.1125=Phiến gạch đá
+tag.wildcard.Đá.1=Đá
+tag.wildcard.Đá dăm.22566=Đá dăm
+tag.wildcard.Quặng vàng.14=Quặng vàng
+tag.wildcard.Quặng sắt.15=Quặng sắt
+tag.wildcard.Quặng than.16=Quặng than
+tag.wildcard.Quặng ngọc lưu ly.21=Quặng ngọc lưu ly
+tag.wildcard.Quặng kim cương.56=Quặng kim cương
+tag.wildcard.Quặng đá đỏ.73=Quặng Redstone
+tag.wildcard.Quặng đá đỏ.74=Quặng Redstone
+tag.wildcard.Quặng ngọc lục bảo.129=Quặng ngọc lục bảo
+tag.wildcard.Khối thạch anh.155=Khối thạch anh
+tag.wildcard.Ốp thạch anh.178=Ngoại thất thạch anh
+tag.wildcard.Phào chỉ thạch anh.179=Nội thất thạch anh
+tag.wildcard.Phào chỉ sa thạch.183=Nội thất sa thạch
+tag.wildcard.Phào chỉ gạch.187=Nội thất gạch
+tag.wildcard.Phào chỉ gạch Nether.189=Nội thất gạch Nether
+tag.wildcard.Phào chỉ đá trắng.192=Nội thất đá trắng
+tag.wildcard.Cột gỗ sồi.199=Nội thất gỗ
+tag.wildcard.tile.fcWoodJungleMoulding.moulding.name.201=Không dùng
+tag.wildcard.Phào chỉ gạch đá.203=Phào chỉ gạch đá
+tag.wildcard.Phào chỉ đá.214=Nội thất đá
+tag.wildcard.Phào chỉ cũ.231=Không còn dùng nữa
+tag.wildcard.Cái bình.255=Bình
+tag.wildcard.tile.fcWoodBloodMoulding.moulding.name.1008=Không dùng
+tag.wildcard.Ốp gạch đá bảng sâu.1139=Ngoại thất gạch đá bảng sâu
+tag.wildcard.Phào chỉ gạch đá bảng sâu.1140=Nội thất gạch đá bảng sâu
+tag.wildcard.Phào chỉ đá bảng sâu.1142=Nội thất đá bảng sâu
+tag.wildcard.Ốp gạch đá đen.1143=Ngoại thất gạch đá đen
+tag.wildcard.Phào chỉ gạch đá đen.1144=Nội thất gạch đá đen
+tag.wildcard.Phào chỉ đá đen.1146=Phào chỉ đá đen
+
+# EMI recipe info
+
+emi.info.piston_crushing_input=Items in world surrounded by solid faces
+emi.info.piston_crushing_output=Placed block as output
+
+emi.info.hopper_urn=Đặt bên dưới Phễu
+emi.info.input=Đầu vào
+emi.info.filter_item=Tấm lọc
+emi.info.output=Đầu ra
+emi.info.filter_output=Đầu ra khi lọc
+emi.info.kiln.cycle=Cycle configurations
+emi.info.stoked=Requires a stoked hibachi
+emi.info.mechanical=Requires mechanical power
+emi.info.fist=Fist
+emi.info.no_campfire=Cannot be burned in a campfire!
+emi.info.no_oven=Cannot be burned in a oven!
+
+# EMI Item Info
+
+btw.stone.info=Đá có thể tạo ra bằng cách đổ dung nham lên một khối đá cuội nứt hoặc gạch đá không vữa, sau đó đổ nước lên để nó đông lạc.
+btw.deepslate.info=Đá bảng sâu có thể tạo ra bằng cách đổ dung nham lên một khối đá cuội bảng sâu nứt hoặc gạch đá bảng sâu không vữa, sau đó đổ nước lên để nó đông lạc.
+btw.blackstone.info=Đá đen có thể tạo ra bằng cách đổ dung nham lên một khối đá cuội đen nứt hoặc gạch đá đen không vữa, sau đó đổ nước lên để nó đông lạc.
+
+btw.mossy_cobblestone.info=Các lồng triệu hồi sẽ làm đá cuội và đá cuội nứt trong khu vực 9x9x9 (lấy trung tâm là spawner) thành đá cuội phủ rêu theo thời gian.
+btw.mossy_cobbled_deepslate.info=Các lồng triệu hồi sẽ làm đá cuội bảng sâu và đá cuội bảng sâu nứt trong khu vực 9x9x9 (lấy trung tâm là spawner) thành đá cuội bảng sâu phủ rêu theo thời gian.
+btw.mossy_cobbled_blackstone.info=Các lồng triệu hồi sẽ làm đá cuội đen và đá cuội đen nứt trong khu vực 9x9x9 (lấy trung tâm là spawner) thành đá cuội đen phủ rêu theo thời gian.
+
+btw.mossy_stone_brick.info=Ngâm một khối gạch đá trong nước quá lâu khiến cho nó mọc rêu.
+btw.mossy_deepslate_brick.info=Ngâm một khối gạch đá bảng sâu trong nước quá lâu khiến cho nó mọc rêu.
+btw.mossy_blackstone_brick.info=Ngâm một khối gạch đá đen trong nước quá lâu khiến cho nó mọc rêu.
+
+btw.cracked_stone_brick.info=Ngâm một khối gạch đá trong dung nham quá lâu khiến cho nó bị nứt.
+btw.cracked_deepslate_brick.info=Ngâm một khối gạch đá bảng sâu trong dung nham quá lâu khiến cho nó bị nứt.
+btw.cracked_blackstone_brick.info=Ngâm một khối gạch đá đen quá trong dung nham lâu khiến cho nó bị nứt.
+
+btw.anvil.info=Cái đe có thể được dùng như một bàn chế tạo và có thể đặt ở bất kỳ đâu. Lưu ý: Đe không thể nhặt lại được mà rơi ra mảnh kim loại, hoàn toàn không có giá trị gì cả nhưng bạn có thể bỏ vào Nồi lò, nấu chảy nó để lấy lại sắt.
+btw.bonemeal.info=Dùng bột xương lên đất trồng hoặc chậu cây có đất để tăng tốc độ phát triển của cây trồng trên đó. Bột xương sẽ bị tiêu thụ khi cây trồng hoàn tất quá trình phát triển.
+btw.campfire.info=Cầm trên tay một cây gậy vuốt nhọn và nhấp chuột phải vào lửa trại để làm xiên nướng thịt, sau đó đặt thức ăn lên để nấu. Nấu ăn trên lửa trại mất vài phút, và bạn nên để lửa vừa, lửa nhỏ sẽ tạm dừng quá trình nấu và lửa lớn sẽ làm cháy thịt. Lửa trại có thể được đốt lại khi còn âm ỉ, nhưng không thể khi đã tắt hoàn toàn.
+btw.chisel.info=Cái đục có thể dùng để đục gốc cây thành bàn chế tạo lưới 3x3. Nó cũng có thể dùng để đục đá để lấy gạch đá hoặc thậm chí là đục lấy kim cương hoặc đá đỏ.
+btw.cobweb.info=Nhện sẽ bắn mạng nhện vào mục tiêu để làm chậm chúng lại. Bạn có thể dùng đá mài nhọn để lấy sợi chỉ từ mạng nhện, hoặc dùng kéo để lấy cả mạng nhện để chế tạo nhiều sợi chỉ hơn.
+btw.fishing_rod.info=Để câu cá, bạn cần có mồi câu, không gian đủ lớn, và phải câu đúng thời điểm trong ngày. Cầm cần câu trên tay và bất kì loại mồi nào (như thịt thối rữa, lõi creeper, mắt nhện, cánh dơi hoặc bướu phù thủy) trên thanh công cụ, nhấp chuột phải để gắn mồi. Một vị trí câu cá phù hợp phải lộ thiên và rộng ít nhất 5x5x3. Nếu bạn thấy bọt khí xung quanh phao câu tức là bạn có thể câu cá ở vị trí đấy. Vào đêm trăng trăng tròn hoặc trời mưa lúc bình minh hay hoàng hôn sẽ là thời điểm tốt nhất để bạn câu cá.
+btw.netherrack.info=Netherrack có thể cháy mãi mãi, nhưng cần lửa trại hoặc cầu lửa để nó cháy. Netherrack sẽ rơi xuống đất nếu được đặt ở ở overworld, và vẫn sẽ giữ nguyên ngọn lửa (nếu nó đang cháy) khi nó rơi.
+btw.oven.info=Lò gạch dùng để nung quặng và cũng nấu chín thức ăn nhanh hơn lửa trại rất nhiều. Chúng chỉ chứa 1 vật phẩm ở trên và bên dưới dùng để chứa nhiên liệu. Nhấp chuột phải để bỏ nhiên liệu vào lò, và lò gạch sẽ hiển thị lượng nhiên liệu đang có. Bạn có thể dùng que đánh lửa hoặc ngọn đuốc đang cháy để đốt lò.
+btw.string.info=Nhện sẽ bắn mạng nhện vào mục tiêu để làm chậm chúng lại. Bạn có thể dùng đá mài nhọn để lấy sợi chỉ từ mạng nhện, hoặc dùng kéo để lấy cả mạng nhện để chế tạo nhiều sợi chỉ hơn. Nhện sẽ chỉ rơi ra sợi chỉ khi chúng chưa bắn mạng nhện.
+btw.torch.info=Đuốc được làm từ than đá chỉ cháy được duy nhất 1 ngày (20 phút) khi được thắp sáng. Chúng sẽ tắt ngay nếu bị dính nước, kể cả khi ở trong túi đồ của người chơi. Chúng không thể thắp sáng lại một khi đã tắt. Đuốc đang cháy có thể dùng để đốt những thứ khác như lò gạch hoặc các ngọn đuốc khác.
+btw.fire_plough.info=Que đánh lửa có thể đánh lửa trên đuốc, lửa trại hoặc lò gạch bằng cách giữ chuột phải vào chúng. Khi đánh đủ lâu thì nhiệt lượng sẽ tích tụ đủ để lên lửa. Quá trình sẽ bị bị khôi phục lại từ đầu nếu bạn thả chuột. Lưu ý rằng Que đánh lửa không thể bắt lửa ngoài mà chỉ có thể đốt cháy các khối hợp lệ. Khoan cần cung, Đá đánh lửa và Cầu lửa sẽ là các dụng cụ đánh lửa tốt hơn.
+btw.bow_drill.info=Khoan cần cung đánh lửa nhanh hơn rất nhiều so với que đánh lửa và có thể đánh lửa trên đuốc, lửa trại hoặc lò gạch bằng cách giữ chuột phải vào chúng. Khi đánh đủ lâu thì nhiệt lượng sẽ tích tụ đủ để lên lửa. Quá trình sẽ bị bị khôi phục lại từ đầu nếu bạn thả chuột. Lưu ý rằng Khoan cần cung không thể bắt lửa ngoài mà chỉ có thể đốt cháy các khối hợp lệ. Đá đánh lửa và Cầu lửa sẽ là các dụng cụ đánh lửa tốt hơn.
+btw.flint_and_steel.info=Đá đánh lửa có thể đánh lửa trên đuốc, lửa trại hoặc lò gạch nhưng không cần phải giữ chuột phải như Que đánh lửa hay Khoan cần cung. Thay vào đó, nó có tỉ lệ sẽ đánh ra lửa mỗi khi nhấp nhuột phải. Lưu ý rằng Đá đánh lửa không thể bắt lửa ngoài mà chỉ có thể đốt cháy các khối hợp lệ mà chỉ có Cầu lửa mới có thể bắt lửa ngoài.
+btw.fire_charge.info=Cầu lửa có thể bắt lửa bất kì khối nào có thể cháy được cũng như bắt lửa ngoài, không như các dụng cụ đánh lửa khác.
+
+btw.mortar.info=Đất sét, bóng nhờn hoặc bùn Nether có thể được dùng để trát lên đá cuội nứt hoặc gạch không vữa để chúng không còn bị rơi nữa. Máy phân phát cũng có thể tự động trát lên khối.
+btw.mortar_blocks.info=Các khối có kết cấu lỏng lẻo như đá cuội nứt hoặc gạch không vữa có thể kết dính lại bằng cách trét Đất sét, Bóng nhờn hoặc Bùn Nethern (cầm trên tay vật phẩm và nhấp chuột phải vào khối). Máy phân phát cũng có thể tự động trát lên khối.
+
+btw.axle.info=Trục có thể được dùng để truyền các công suất cơ học. Trục có thể dài tối đa ba khối, sau đó cần thêm hộp truyền động để tiếp tục.
+btw.gearbox.info=Hộp truyền động được dùng để truyền năng lượng cơ học. Mặt có mũi tên là đầu vào, và bất kì mặt nào khác cũng có thể là đầu ra. Lưu ý: Hộp truyền động không thể truyền năng lượng cho nhau mà cần thêm ít nhất một trục giữa hai hộp truyền động.
+btw.redstone_clutch.info=Bộ ly hợp Redstone cũng là hộp truyền động nhưng có thể tắt bằng tín hiệu redstone.
+btw.vertical_windmill.info=Quạt lồng sóc tạo ra năng lượng cơ học và có thể kết nối bằng trục theo phương thẳng đứng. Quạt lồng sóc cũng giống như cánh quạt gió trừ việc nó là nguồn năng lượng cơ học duy nhất ở Nether.
+btw.water_wheel.info=Bánh xe nước tạo ra năng lượng cơ học và có thể kết nối bằng trục theo phương ngang. Đồng thời, nó cũng là nguồn năng lượng duy nhất ở the End, nơi mà bạn đặt nước ở đâu cũng được.
+btw.windmill.info=Cánh quạt gió tạo ra năng lượng cơ học khi được đặt lộ thiên và có thể kết nối bằng trục theo phương ngang. Cánh quạt gió rất lớn nên hãy nhớ đặt nó ra ở không gian rộng rãi. Chúng cũng bị ảnh hưởng bởi mưa bão, làm hỏng các thiết bị cơ học mà chúng kết nối lúc mưa bão, bạn có thể ngắt kết nối bằng cách sử dụng bộ ly hợp Redstone.
+
+btw.bellows.info=Bễ có thể thổi hơi cho 9 hibachi (3x3) đặt ở trước nó. Nhưng bạn cần để cho bật và tắt nguồn năng lượng cơ học liên tục để bễ co giãn, thổi không khí vào, bàn xoay thường được sử dụng để canh thời gian. Bễ còn thường được sử dụng để sắp xếp vật phẩm bằng cách thổi chúng đi cách khoảng cách khác nhau tùy theo trọng lượng.
+btw.cauldron.info=Vạc có thể nung các vật phẩm mà không cần tới nhiên liệu, ví dụ như đồ ăn,v.v , chỉ cần có lửa ở dưới. Bạn có thể sử dụng lửa trại hoặc chỉ cần lửa thông thường để nung. Càng nhiều lửa thì tốc độ nung càng nhanh, tối đa là 3x3 dưới vạc. Sử dụng hibachi cũng có thể mở ra nhiều công thức mới nhưng cũng cần nhiều nhiệt hơn. Bạn cũng có thể sử dụng trục xoay để đổ vật phẩm bên trong ra ngoài.
+btw.crucible.info=Nồi lò cũng giống như cái vạc nhưng lại cần lửa cháy mạnh để nấu. Và cũng giống như Vạc và Lò nung, càng nhiều lửa thì tốc độ nung càng nhanh, tối đa là 3x3 dưới vạc. Bạn cũng có thể sử dụng trục xoay để đổ vật phẩm bên trong ra ngoài.
+btw.dormant_soulforge.info=Mỗi pháo đài Nether chứa một cái bàn rèn vàng, bạn cũng có thể chế tạo nhiều bàn rèn vàng hơn bằng bàn rèn ngục hồn nhưng chắc chắn bạn sẽ cần cái bàn rèn đầu tiên của mình trong pháo đài Nether.
+btw.dragon_vessel.info=Long bình dùng để đựng số lượng lớn kinh nghiệm. Kinh nghiệm có thể được lấy ra bằng sử dụng trục xoay và đổ hết kinh nghiệm đã lưu trữ. Long bình chỉ có thể được tìm thấy trong các Đền Rừng.
+btw.dynamite.info=Một loại thuốc nổ có thể ném đi bằng cách cầm trên tay Thuốc nổ và Bật lửa trên thanh công cụ và nhấp chuột phải. Thuốc nổ cũng có thể dùng để đánh bắt cá và thu về được nhiều cá hơn.
+btw.hand_crank.info=Tay quay có thể sử dụng cho một số máy đơn giản nhưng lại tốn nhiều thanh đói mỗi lần quay. Tay quay có thể sử dụng cho Bễ, Cối đá và Phễu. Tay quay cũng có thể xoay Vạc, Nồi lò và Long bình và đổ vật phẩm ở bên trong ra.
+btw.hibachi.info=Hibachi cháy khi được kích hoạt bởi redstone, và lửa này đủ ổn định để được thổi mạnh. Một Bễ có thể thổi lửa cho tối đa 9 lò đốt Hibachi (3x3).
+btw.kiln.info=Các khối gạch có thể xếp lại thành một cái lò nung để nung gốm. Đặt một khối gạch phía trên một Hibachi đang cháy, sau đó thêm 3 khối gạch khác xung quanh khối không khí bên trên khối gạch vừa rồi. Sắp xếp như thế nào không quan trọng. Tối đa 9 Hibachi (3x3) có thể cung cấp nhiệt lượng cho lò nung, càng nhiều Hibachi thì tốc độ càng nhanh.
+btw.millstone.info=Cối đá có thể được sử dụng để nghiền các nguyên liệu. Cối đá có thể được cung cấp năng lượng cơ học bằng Tay quay, hoặc từ phía trên hoặc dưới. Vì Cối Xay chỉ chứa được một vật phẩm, bạn cần có Phễu ở trên nếu muốn tự động đưa thêm vật phẩm vào. Khi nghiền xong, thành phẩm sẽ rơi ngẫu nhiên xung quanh nên đừng để bất kì vật cản nào quanh cối.
+btw.piston_shovel.info=Đẩy pít tông vào xẻng để lấy các khối mềm hoặc tơi xốp. Nó có thể nhặt khối như sử dụng Độ mềm mại, do đó có thể dùng để lấy khối cỏ hoặc gì đấy.
+btw.planter.info=Cái chậu có thể dùng để trồng cây mà không bị cỏ dại. Chậu cây cũng cần có nước như đất trồng vậy nhưng cần có nước quanh chậu hoặc phía trên hoặc bên dưới.
+btw.saw.info=Cưa cắt gỗ khi có trục xoay bên cạnh. Nó cũng có thể cưa chết sinh vậy chạm vào nó nên cực kì hữu ích trong các mob farm. Đẩy một Thớt vào Cưa sẽ tăng sát thương đồng thời cũng tăng tỉ lệ rơi ra đầu.
+btw.screw_pump.info=Để nước chảy vào mặt trước của Bơm trục vít và kết nối với trục xoay, bơm sẽ đẩy nước lên 1 block phía trên nó.
+btw.soul_urn.info=kể cả khi không có lọ ở dưới thì quá trình chiết xuất linh hồn vẫn được thực hiện, nhưng như thế tức là đẩy các linh hồn ra bên ngoài. Ném một Lọ linh hồn cũng thế. Vào các giai đoạn sau của game, Lọ linh hồn cung cấp dưỡng chất cho sinh vật dựa vào linh hồn như Nether Groth hoặc Huyết mộc, chúng cũng sẽ trả lại linh hồn cho Dân làng thây ma. Tuy nhiên, các vong linh này cũng gây hại cho các sinh vật lành, mực cũng chịu cảnh tương tự.
+btw.soulforge.info=Bàn rèn ngục hồn cho phép chế tạo lưới 4x4 để chế tạo ra các vật phẩm tiên tiến hơn. Bàn rèn ngục hồn được làm từ Bàn rèn vàng mà mỗi Pháo đài Nether chỉ có một cái, Bàn rèn vàng cũng có thể được chế tạo nhiều hơn thông qua Bàn rèn ngục hồn, nghĩa là cái đầu tiên của bạn sẽ nằm ở trong Pháo đài.
+btw.turntable.info=Bàn xoay xoay 2 khối phía trên nó và bất kì cái gì gắn lên chúng như đuốc. Có thể sử dụng Đuốc đá đỏ trên bàn xoay để làm bộ đếm giờ cho các loại máy móc phức tạp. Bàn xoay cũng có thể dùng để xoay đất sét để làm gốm. Nhấp chuột phải vào bàn xoay với bàn tay trống để thay đổi tốc độ của nó giữa 0.5, 1, 2, và 4 giây.
+btw.mining_charge.info=Mìn là loại thuốc nổ dễ kiểm soát hơn Thùng thuốc súng. Mìn cũng đồng thời có thể gắn lên bất kì bề mặt nào và sẽ nổ theo một hướng cố định về phía bề mặt đó. Các khối bị mìn phá hủy sẽ luôn rơi ra vật phẩm như khi người chơi khai thác chúng.
+btw.buddy_block.info=Khối BUD (Block Update Detector) sẽ gửi tín hiệu redstone ở đầu ra nếu có bất kì sự thay đổi nào về khối nào (ngoại trừ các khối liên quan đến redstone) ở xung quanh nó.
+btw.block_dispenser.info=Khối phân phát có thể đặt và nhặt khối. Khối phân phát sẽ đặt khối từ kho của nó khi nhận được tín hiệu restone và nhặt khối khi tín hiệu bị ngắt ở trước mặt nó như thể sử dụng công cụ có cường hóa Độ mềm mại. Khối phân phát đặt các khối theo thứ tự trong kho và có hiển thị cho biết vật phẩm nào sẽ được đặt tiếp theo. Khối phân phát cũng có thể hút gà, sói, và lông cừu.
+btw.detector_block.info=Khối cảm biến sẽ gửi tín hiệu Redstone khi có bất kì cái gì ở phía trước nó. Thấu kính có thể đặt trước mặt nó để tăng phạm vi phát hiện, gửi tín hiệu không dây hoặc cảm biến tia sáng từ thấu kính.
+btw.lens.info=Thấu kính sẽ chiếu một tia sáng khi có một nguồn sáng ở ngay phía sau nó. Nếu có một khối hoặc thực thể nào chặn tia sáng này thì ánh sáng sẽ lan tỏa ra khu vực xung quanh chỗ bị chặn. Khối cảm biến có thể cảm biến tia sáng, cho phép truyền tín hiệu redstone không dây hoặc cũng có thể sử dụng chúng như dây bẫy. Thấu kính nếu đặt phía trước và hướng về Khối cảm biến thì nó sẽ hoạt động như cảm biến ánh sáng và sẽ gửi tín hiệu redstone khi độ sáng đạt từ 8 trở lên.
+btw.wooden_detector_rail.info=Đường ray cảm biến gỗ sẽ cảm biến bất kì xe mỏ nào.
+btw.stone_detector_rail.info=Đường ray cảm biến đá sẽ không cảm biến các xe mỏ trống (không có gì ở trong).
+btw.steel_detector_rail.info=Đường ray cảm biến thép ngục hồn chỉ cảm biến xe mỏ có người chơi ở bên trong.
+btw.wooden_pressure_plate.info=Cảm biến áp lực gỗ sẽ cảm biến bất kì thực thể nào ở trên nó bao gồm cả vật phẩm.
+btw.stone_pressure_plate.info=Cảm biến áp lực đá chỉ cảm biến các thực thể lớn và sẽ không cảm biến các vật phẩm.
+btw.steel_pressure_plate.info=Cảm biến áp lực thép ngục hồn chỉ cảm biến người chơi.
+btw.light_block.info=Đèn phát sáng khi có tín hiệu redstone chạy qua nó. Nó sáng hơn đèn Redstone và cũng giúp cây trồng sinh trưởng khi đặt đèn phía trên chúng (khoảng 2 block phía trên đất trồng).
+
+btw.hopper.info=Phễu nhặt vật phẩm ở phía trên chúng và khi được kết nối với trục xoay hoặc Tay quay thì chúng sẽ nhả vật phẩm xuống phía dưới. Tuy nhiên, phễu không thể lấy vật phẩm từ kho chứa, chỉ từ thế giới bên ngoài. Vật phẩm nhặt được cũng có thể được lọc nếu bạn để vật phẩm vào ô lọc. Các vật phẩm hợp lệ để làm bộ lọc là: Thang, Rào sắt, Cửa sập, Khung lưới, Gỗ tiêu âm, Tấm đan mía và Cát linh hồn. Một số sẽ tách hoặc chuyển đổi các vật phẩm đi qua chúng. Thông tin về các bộ lọc sẽ nằm trong phần thông tin của từng bộ lọc.
+btw.ladder.info=Khi dùng làm bộ lọc cho Phễu thì Thang sẽ ngăn các vật phẩm dạng khối đi qua chúng.
+btw.iron_bars.info=Khi dùng làm bộ lọc cho Phễu thì Rào sắt sẽ chỉ cho phép các vật phẩm có thể stack đi qua chúng.
+btw.trapdoor.info=Khi dùng làm bộ lọc cho Phễu thì Cửa sập chỉ cho phép các vật phẩm nhỏ và dài đi qua chúng như xương hoặc gậy.
+btw.grate.info=Khi dùng làm bộ lọc cho Phễu thì Khung lưới chỉ cho phép các vật phẩm nhỏ đi qua chúng như đất sét hoặc than.
+btw.slats.info=Khi dùng làm bộ lọc cho Phễu thì Gỗ tiêu âm chỉ cho phép các vật phẩm mỏng như giấy hoặc sợi chỉ đi qua.
+btw.wicker_pane.info=Khi dùng làm bộ lọc cho Phễu thì Tấm đan mía chỉ cho phép các vật phẩm bé tí như hạt giống hoặc các vật phẩm dạng bột như đường đi qua.
+btw.soul_sand.info=Cát linh hồn là loại bộ lọc đặc biệt cho Phễu để chiết xuất linh hồn từ các vật phẩm có chứa vong hồn như Vụn Netherrack. Bộ lọc Cát linh hồn cũng có thể dùng để trữ kinh nghiệm và chiết xuất Long Cầu (kinh nghiệm màu đỏ) thành kinh nghiệm khả dụng. Lọc linh hồn nếu không có bình chứa thì các mob gần đấy sẽ bị vong ám.
+
+btw.arcane_scroll.info=Bàn phù phép địa ngục dùng các Cuộn giấy huyền bí để cường hóa vật phẩm của bạn. Hầu hết Cuộn giấy huyền bí là vật phẩm hiếm rơi ra từ mob, mỗi loại mob rơi ra loại phép nhất định. Dân làng khi thăng lên lạng 5 cũng bán một loại phù phép riêng.
+btw.brewing_stand.info=Giàn pha chế chỉ có thể tìm thấy ở Chòi phù thủy.
+btw.enchanter.info=Bàn phù phép chỉ có thể cường hóa tối đa cấp độ 16 và bị giới hạn lượng phép mà nó có thể cường hóa. Để đạt được cấp độ cường hóa tối đa, cần phải có 30 kệ sách xung quanh. Bàn Phù Phép chỉ có thể được tìm thấy trong các Kim tự tháp Sa mạc.
+btw.infernal_enchanter.info=Bàn phù phép địa ngục cường hóa vật phẩm bằng cách sử dụng Cuộn giấy huyền bí. Mỗi lần phù phép yêu cầu cấp độ 30 cộng với 30 cấp độ cho các phù phép có sẵn trên vật phẩm. Tối đa 4 phù phép mỗi vật phẩm. Bàn phù phép địa ngục cần kệ sách cho mỗi cấp độ trong không gian 17x17x17, lấy trung tâm là Bàn phù phép địa ngục. Cần 120 kệ sách để đạt cấp độ cường hóa tối đa.
+
+btw.beacon.info=Đèn hiệu sẽ các hiệu ứng khác nhau tùy theo các vật liệu làm bệ kim tự tháp. Đèn hiệu cũng hoạt động ở Nether nếu ở trên phía trên chúng là lớp Đá nền. Các khối có thể sử dụng cho đèn hiệu là: khối bụi hỏa ngục, khối kim cương, khối thỏi kim cương, khối cứt, khối ngọc lục bảo, khối Ender, khối vàng, khối sắt, khối ngọc lưu ly, đá phát sáng, thủy tinh, khối mắt nhện và khối thép ngục hồn. Thông tin về các hiệu ứng sẽ nằm trong phần thông tin của từng loại khối.
+btw.concentrated_hellfire_block.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ nhận được hiệu ứng Kháng lửa.
+btw.diamond_block.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ nhận được hiệu ứng Gia tài. Càng nhiều tầng thì cấp độ Gia tài càng cao. Cấp độ tối đa là Gia tài IV.
+btw.dung_block.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ bị buồn nôn. Tuy nhiên, mặc cả bộ giáp bằng thép ngục hồn sẽ ngăn việc bị mắc hiệu ứng.
+btw.emerald_block.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ nhận được hiệu ứng Nhặt, các mob trong phạm vi khi chết cũng sẽ để lại nhiều vật phẩm hơn kể cả khi người chơi không giết chúng. Càng nhiều tầng thì cấp độ Nhặt sẽ càng cao. Cấp độ tối đa là Nhặt IV.
+btw.ender_block.info=Khi dùng để xây đèn hiệu thì tỉ lệ Người Ender xuất hiện sẽ tăng, đồng thời cũng khiến cho Nhậy bạc xuất hiện ở the End. Ngoài ra, chúng còn cho phép truy cập vào rương Ender, rương Ender sẽ hoạt động khác nhau tùy thuộc vào tầng bạn đặt rương lên. Tầng 3x3 và 5x5 là kho chung của từng chiều không gian, 7x7 là kho chung của thế giới (tất cả các chiều không gian) và 9x9 là kho riêng của mỗi người chơi.
+btw.ender_chest.info=Rương Ender cần đèn hiệu đặt trên khối Ender để có thể hoạt động, chúng cũng hoạt động khác nhau tùy thuộc vào tầng bạn đặt rương lên. Tầng 3x3 và 5x5 là kho chung của từng chiều không gian, 7x7 là kho chung của thế giới (tất cả các chiều không gian) và 9x9 là kho riêng của mỗi người chơi.
+btw.glass.info=Thủy tinh không gây ảnh hưởng đến chùm tia của đèn hiệu, do đó có thể sử dụng để trang trí.
+btw.glowstone.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ nhận được hiệu ứng Nhìn trong bóng tối.
+btw.gold_block.info=Khi dùng để xây đèn hiệu thì toàn bộ người chơi gần đó sẽ nhận được hiệu ứng Đào nhanh. Càng nhiều tầng thì cấp độ Đào nhanh càng cao. Cấp độ tối đa là Đào nhanh IV.
+btw.iron_block.info=Khi dùng để xây đèn hiệu thì các la bàn trong phạm vi sẽ chỉ về hướng của đèn hiệu (có kim tự tháp sắt làm bệ). Phạm vi của đèn hiệu sắt lớn hơn nhiều so với các đèn hiệu bình thường, 4 tầng sẽ không giới hạn phạm vi mà chỉ giới hạn trong 1 chiều không gian.
+btw.lapis_block.info=Khi dùng để xây đèn hiệu thì những người chơi gần đó sẽ nhận được hiệu ứng Thị thực, giúp người chơi nhìn thấy được những nơi nào các mobs thù địch có thể xuất hiện cũng như nhìn thấy được các chunk luôn luôn được tải gần điểm spawn của thế giới.
+btw.spider_eye_block.info=Khi dùng để xây đèn hiệu thì đèn hiệu sẽ ngăn Nhện rừng xuất hiện trong phạm vi nhất định.
+btw.steel_block.info=Khối thép ngục hồn miễn nhiễm với Wither, do đó có thể dùng để nhốt Wither lại để dễ tiêu diệt chúng hơn. Ngoài ra, khi dùng Khối thép ngục hồn để xây đèn hiệu, đèn hiệu sẽ hoạt động như một điểm neo cho phép người chơi đặt điểm hồi sinh. Người chơi sẽ được hồi sinh tại đèn hiệu nếu chết trong phạm vi của đèn hiệu. Một hoặc 2 tầng thì đèn hiệu sẽ bị giới hạn phạm vi hồi sinh, 3 tầng không giới hạn phạm vi nhưng lại giới hạn trong 1 chiều không gian (overworld, nether hoặc the end), và 4 tầng không giới hạn trên tất cả các chiều không gian.
+
+btw.bow.info=Cung có thể phóng Mũi tên mục nát và Mũi tên thường nhưng chúng quá yếu để phóng Mũi tên thép. Để bắn cung cần có mũi tên trên thanh công cụ và chúng chỉ có thể được cường hóa trên Bàn phù phép địa ngục.
+btw.composite_bow.info=Cung liên hợp mạng hơn cung thông thường và sẽ phóng Mũi tên thường ra nhanh và xa hơn. Cung liên hợp đủ khỏe để phóng Mũi tên thép nhưng Mũi tên thép sẽ không thể bắn xa như mũi tên thông thường. Cung liên hợp đồng thời cũng quá mạnh để phóng Mũi tên mục nát và sẽ chúng gãy tan ngay lập tức. Để bắn cung cần có mũi tên trên thanh công cụ và chúng chỉ có thể được cường hóa trên Bàn phù phép địa ngục.
+btw.rotten_arrow.info=Mũi tên mục nát rớt bởi bộ xương và yếu hơn nhiều so với mũi tên thông thường. Chúng có sát thương cực kì yếu, bay rất ngắn và gãy tan khi tiếp xúc với khối hoặc khi dùng Cung liên hợp để bắn.
+btw.broadhead_arrow.info=Mũi tên thép mạnh hơn rất nhiều so với mũi tên thông thường. Tuy nhiên chúng quá nặng nên chỉ có thể được phóng bởi Cung liên hợp.
+
+btw.blood_wood.info=Cây huyết mộc chỉ có thể mọc được trên cát linh hồn ở Nether và lớn nhanh nhất trong tất cả các loại cây. Chúng sẽ liên tục phát triển miễn là còn không gian trống, kể cả chồi cây khi đã lớn. Chồi cây huyết mộc sẽ tự động được trồng nếu chúng rơi xuống cát linh hồn.
+btw.chopping_block.info=Thớt cũng có thể được đẩy về phía cưa để làm tăng sát thương của cưa, đồng thời cũng làm tăng tỉ lệ rơi đầu của sinh vật.
+btw.companion_cube.info=Khối bạn đồng hành có thể kiếm được bằng cách dùng khối phân phát hút con chó vào trong.
+btw.corpse_eye.info=Mắt xác chết sẽ chỉ đường về địa điểm cuối cùng mà bạn chết (sử dụng tương tự như Mắt Ender). Mắt xác chết có thể sử dụng 5 lần trước khi chúng vỡ.
+btw.groth.info=Nether Groth sẽ sinh trưởng trên Netherrack và lan ra xung quanh, ngăn chặn mob xuất hiện và tiêu diệt bất cứ sinh vật nào đứng lên trên nó. Nether Groth trưởng thành cũng sẽ phun ra bào tử độc khi bị phá hủy. Ủng thép ngục hồn có thể đi trên chúng mà không bị thương và mặc cả bộ giáp thép sẽ phòng độc từ bào tử của chúng.
+btw.portal.info=Cổng Nether chỉ có thể được thắp bởi lửa trại hoặc cầu lửa. Các cổng sẽ phát tán vong linh liên hồi trong phạm vi 16 khối, gây hại đến các sinh vật lành gần đó, mực cũng chịu cảnh tương tự.
+
+screenshot.success=Lưu ảnh chụp màn hình thành: %s
+screenshot.failure=Không thể lưu ảnh chụp màn hình: %s

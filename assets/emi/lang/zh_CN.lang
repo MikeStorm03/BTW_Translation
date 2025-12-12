@@ -1,0 +1,639 @@
+# EMI
+
+
+key.keyboard.control=Ctrl
+key.keyboard.alt=Alt
+key.keyboard.shift=Shift
+
+key.emi.toggle_visibility=切换可见性
+key.emi.focus_search=聚焦搜索栏
+key.emi.clear_search=清除搜索
+key.emi.view_recipes=查看配方
+key.emi.view_uses=查看用途
+key.emi.favorite=收藏
+key.emi.set_default=设为默认
+key.emi.default_stack=默认物品堆
+key.emi.view_stack_tree=查看堆叠树
+key.emi.view_tree=查看配方树
+key.emi.back=返回
+key.emi.forward=前进
+key.emi.craft_one=合成一个
+key.emi.craft_all=全部合成
+key.emi.craft_one_to_inventory=合成一个到背包
+key.emi.craft_all_to_inventory=全部合成到背包
+key.emi.craft_one_to_cursor=合成一个到光标
+key.emi.show_craft=显示合成
+key.emi.cheat_one_to_inventory=给予一个到背包
+key.emi.cheat_stack_to_inventory=给予一组到背包
+key.emi.cheat_one_to_cursor=给予一个到光标
+key.emi.cheat_stack_to_cursor=给予一组到光标
+key.emi.delete_cursor_stack=删除光标物品堆
+key.emi.hide_stack=隐藏物品堆
+key.emi.hide_stack_by_id=按ID隐藏物品堆
+
+emi.help_level.verbose=详细
+emi.help_level.normal=普通
+emi.help_level.none=无
+emi.align.horizontal.left=左对齐
+emi.align.horizontal.center=居中
+emi.align.horizontal.right=右对齐
+emi.align.vertical.top=顶部
+emi.align.vertical.center=居中
+emi.align.vertical.bottom=底部
+emi.sidebar.type.none=无
+emi.sidebar.type.index=索引
+emi.sidebar.type.craftables=可合成
+emi.sidebar.type.favorites=收藏
+emi.sidebar.type.lookup_history=查找历史
+emi.sidebar.type.craft_history=合成历史
+emi.sidebar.type.chess=国际象棋
+emi.sidebar.theme.transparent=透明
+emi.sidebar.theme.vanilla=原版
+emi.sidebar.theme.modern=现代
+emi.header.visible=可见
+emi.header.invisible=不可见
+emi.sidebar.size.columns=列
+emi.sidebar.size.rows=行
+emi.sidebar.margins.top=上边距
+emi.sidebar.margins.right=右边距
+emi.sidebar.margins.bottom=下边距
+emi.sidebar.margins.left=左边距
+emi.sidebar.none=无
+emi.sidebar.left=左侧
+emi.sidebar.right=右侧
+emi.sidebar.top=顶部
+emi.sidebar.bottom=底部
+emi.effect_location.top=顶部
+emi.effect_location.left_compressed=左侧紧凑
+emi.effect_location.right_compressed=右侧紧凑
+emi.effect_location.left=左侧
+emi.effect_location.right=右侧
+emi.effect_location.hidden=隐藏
+emi.recipe_book_action.default=默认
+emi.recipe_book_action.toggle_craftables=切换可合成
+emi.recipe_book_action.toggle_visibility=切换可见性
+
+config.emi.group.general=常规
+config.emi.group.general.search=搜索
+config.emi.group.ui=界面
+config.emi.group.ui.mod_id=Mod ID
+config.emi.group.ui.recipe_screen=配方界面
+config.emi.group.ui.recipe_buttons=配方按钮
+config.emi.group.ui.left_sidebar=左侧边栏
+config.emi.group.ui.right_sidebar=右侧边栏
+config.emi.group.ui.top_sidebar=顶部边栏
+config.emi.group.ui.bottom_sidebar=底部边栏
+config.emi.group.binds=按键绑定
+config.emi.group.dev=开发
+
+config.emi.group.binds.crafts=合成
+config.emi.group.binds.cheats=作弊
+
+config.emi.general.enabled=已启用
+config.emi.general.cheat_mode=作弊模式
+config.emi.general.help_level=帮助级别
+config.emi.general.search_tooltip_by_default=默认搜索提示
+config.emi.general.search_mod_name_by_default=默认搜索模组名
+config.emi.general.search_tags_by_default=默认搜索标签
+config.emi.general.search_id_by_default=默认搜索ID
+config.emi.general.simulate_nei_lag=[复古EMI] 模拟NEI卡顿
+
+config.emi.ui.effect_location=效果位置
+config.emi.ui.center_search_bar=居中搜索栏
+config.emi.ui.show_hover_overlay=显示悬浮叠加层
+config.emi.ui.append_mod_id=附加Mod ID
+config.emi.ui.append_item_mod_id=附加物品Mod ID
+config.emi.ui.recipe_book_action=配方书操作
+config.emi.ui.search_sidebar_focus=侧栏搜索聚焦
+config.emi.ui.empty_search_sidebar_focus=空搜索栏聚焦
+
+config.emi.ui.left_sidebar_pages=页面
+config.emi.ui.left_sidebar_subpanels=子面板
+config.emi.ui.left_sidebar_size=大小
+config.emi.ui.left_sidebar_margins=边距
+config.emi.ui.left_sidebar_align=对齐
+config.emi.ui.left_sidebar_header=标题
+config.emi.ui.left_sidebar_theme=主题
+
+config.emi.ui.right_sidebar_pages=页面
+config.emi.ui.right_sidebar_subpanels=子面板
+config.emi.ui.right_sidebar_size=大小
+config.emi.ui.right_sidebar_margins=边距
+config.emi.ui.right_sidebar_align=对齐
+config.emi.ui.right_sidebar_header=标题
+config.emi.ui.right_sidebar_theme=主题
+
+config.emi.ui.top_sidebar_pages=页面
+config.emi.ui.top_sidebar_subpanels=子面板
+config.emi.ui.top_sidebar_size=大小
+config.emi.ui.top_sidebar_margins=边距
+config.emi.ui.top_sidebar_align=对齐
+config.emi.ui.top_sidebar_header=标题
+config.emi.ui.top_sidebar_theme=主题
+
+config.emi.ui.bottom_sidebar_pages=页面
+config.emi.ui.bottom_sidebar_subpanels=子面板
+config.emi.ui.bottom_sidebar_size=大小
+config.emi.ui.bottom_sidebar_margins=边距
+config.emi.ui.bottom_sidebar_align=对齐
+config.emi.ui.bottom_sidebar_header=标题
+config.emi.ui.bottom_sidebar_theme=主题
+
+config.emi.ui.vertical_margin=垂直间距
+config.emi.ui.minimum_recipe_screen_width=最小配方界面宽度
+config.emi.ui.workstation_location=工作台位置
+config.emi.ui.miscraft_prevention=防误合成
+config.emi.ui.fluid_unit=流体单位
+config.emi.ui.show_cost_per_batch=显示每批成本
+config.emi.ui.recipe_default_button=配方默认按钮
+config.emi.ui.recipe_tree_button=配方树按钮
+config.emi.ui.recipe_fill_button=配方填充按钮
+config.emi.ui.recipe_screenshot_button=配方截图按钮
+config.emi.ui.recipe_screenshot_scale=配方截图缩放
+config.emi.ui.use_batched_renderer=使用批量渲染
+
+config.emi.dev.dev_mode=开发模式
+config.emi.dev.edit_mode=编辑模式
+config.emi.dev.log_untranslated_tags=记录未翻译标签
+config.emi.dev.log_non_tag_ingredients=记录非标签成分
+config.emi.dev.show_recipe_ids=显示配方ID
+config.emi.dev.highlight_defaulted=高亮默认项
+config.emi.dev.highlight_exclusion_areas=高亮排除区
+
+config.emi.presets.sidebars=侧边栏
+config.emi.presets.binds=按键绑定
+config.emi.presets.restore=恢复
+
+config.emi.presets.btw_default=BTW 默认设置
+config.emi.presets.old_default=旧默认设置
+
+config.emi.presets.productive=高效模式
+config.emi.presets.recipe_book_plus=配方书增强
+
+config.emi.presets.author_binds=作者绑定
+
+config.emi.presets.backup=恢复备份
+config.emi.presets.defaults=恢复默认
+
+config.emi.presets.empty_search_craftable=空搜索可合成
+
+emi.unit.liters=升
+emi.unit.millibuckets=毫桶
+emi.unit.droplets=滴
+emi.fluid.amount.liters=%s 升
+emi.fluid.amount.millibuckets=%s mB
+emi.fluid.amount.droplets=%s 滴
+
+emi.disabled=EMI已禁用！可用快捷键切换
+emi.reloading=EMI正在重载……
+emi.reloading.waiting=EMI正在等待服务器配方数据……
+emi.reloading.error=§cEMI重载时发生严重异常，请检查日志
+emi.reloading.worry=§c加载延迟，一切还好吗？
+emi.search=搜索EMI……
+emi.search_config=搜索配置……
+emi.delete_stack=§c删除持有物品堆
+emi.inapplicable=当前工作台不支持该配方
+emi.not_enough_ingredients=材料不足，无法合成
+emi.too_small=合成栏太小，无法放下配方
+emi.favorite_recipe=按%s收藏该配方
+emi.resolve.resolve=按%s应用于此配方树
+emi.resolve.default=按%s设为所有配方树的默认
+emi.page=第%s页，共%s页
+emi.page.short=%s/%s
+emi.total_cost=总成本
+emi.cost_per=每批成本：
+emi.leftovers=剩余物
+emi.view_all_recipes=点击查看所有配方
+emi.tree_welcome=欢迎来到%s
+emi.no_tree=你还没有设置要查看的配方树……
+emi.random_tree=也许你想看一个随机的？
+emi.random_tree_input=按§6[ctrl + r]
+emi.edit_mode.hide_one=按%s隐藏物品堆
+emi.edit_mode.hide_all=按%s按ID隐藏物品堆
+tooltip.emi.chance.consume=消耗概率: %s%%
+tooltip.emi.chance.produce=产出概率: %s%%
+tooltip.emi.accepts=可接受：
+tooltip.emi.fill_recipe=填充配方
+tooltip.emi.fill_recipe_no_server=服务器未安装EMI，无法填充配方
+tooltip.emi.set_default=设为默认配方
+tooltip.emi.current_defaults=当前为以下物品的默认配方：
+tooltip.emi.unset_default=移除默认配方
+tooltip.emi.set_default_stack=在输出物上按%s以设为该物品的默认配方
+tooltip.emi.view_tree=查看配方树
+tooltip.emi.recipe_screenshot=配方截图
+tooltip.emi.resolution=正在解析原料配方树
+tooltip.emi.select_resolution=点击§6配方输出§r分配给§d此§r配方树
+tooltip.emi.default_resolution=点击§6配方默认按钮§r分配给§a所有§r配方树
+tooltip.emi.clear_resolution=点击§6这里§r§c清除§r分配
+
+tooltip.emi.config=%s配置
+tooltip.emi.recipe_tree=配方树
+
+tooltip.emi.config.global=在所有游戏实例间切换是否使用全局EMI配置，而不是每个游戏独立配置。/n§c尚未实现§r
+
+tooltip.emi.synfav.uncraftable=无法合成§c任何§r批次
+tooltip.emi.synfav.partially_craftable=可合成§d部分§r批次
+tooltip.emi.synfav.fully_craftable=可合成§a全部%s§r批次
+tooltip.emi.synfav.craft_some=按%s合成尽可能多
+tooltip.emi.synfav.craft_all=按%s合成全部§9%s§r批次
+
+tooltip.emi.recipe_remainder=额外获得：
+
+tooltip.emi.bom.batch_size=批次大小: %s/n滚轮调整/n按住§6[shift]§r每次调整16
+tooltip.emi.bom.batch_size.ideal=按%s获得最少剩余
+tooltip.emi.bom.mode.view=§6查看§r配方树
+tooltip.emi.bom.mode.craft=§6合成§r配方树/n进度将在配方树中显示/n§b虚拟收藏§r已加入侧边栏
+tooltip.emi.bom.help=配方树展示了配方流程和基础成本/n界面可拖动与缩放/n/n左键点击节点选择配方/n按住§6[shift]§r自动根据背包选择/n/n右键点击配方节点可临时折叠/n按住§6[shift]§r清除配方/n/n树的初始状态由默认配方控制/n配方旁的按钮可设定默认偏好/n/n可按总成本排序帮助合成/n合成材料会显示/n§b虚拟收藏§r会加入收藏栏，可用来合成
+
+screen.emi.recipe=配方
+screen.emi.config=配置
+screen.emi.presets=配置预设
+
+screen.emi.config.reset=撤销%s项更改
+
+emi.error.recipe.initialize=配方初始化出错
+emi.error.recipe.render=配方渲染出错
+
+# EMI Chess
+
+emi.chess.piece.white_pawn=白兵
+emi.chess.piece.white_rook=白车
+emi.chess.piece.white_knight=白马
+emi.chess.piece.white_bishop=白象
+emi.chess.piece.white_queen=白后
+emi.chess.piece.white_king=白王
+emi.chess.piece.black_pawn=黑兵
+emi.chess.piece.black_rook=黑车
+emi.chess.piece.black_knight=黑马
+emi.chess.piece.black_bishop=黑象
+emi.chess.piece.black_queen=黑后
+emi.chess.piece.black_king=黑王
+emi.chess.tooltip.invite=邀请搜索栏内玩家下棋
+emi.chess.tooltip.accept=接受%s的棋局邀请
+emi.chess.tooltip.decline=右键拒绝%s的棋局邀请
+emi.chess.tooltip.restart=右键重开棋局
+emi.chess.multiplayer.invited=%s邀请你下棋
+emi.chess.multiplayer.accepted=%s接受了你的棋局邀请
+emi.chess.multiplayer.cancelled=%s取消了本次棋局
+emi.chess.multiplayer.unavailable=%s无法下棋
+
+emi.cooking.time=%s秒
+emi.fuel_time.items=可燃烧%s
+emi.btw.bulk.stoked=需要烧着烈火的火盆
+emi.btw.turntable.turns=必须旋转%d次
+emi.btw.turntable.ejected_items=合成完成时弹出物品
+emi.btw.progressive.time=按住右键
+
+emi.trade.BlacksmithVillagerEntity=需要%d级铁匠
+emi.trade.PriestVillagerEntity=需要%d级牧师
+emi.trade.LibrarianVillagerEntity=需要%d级图书管理员
+emi.trade.FarmerVillagerEntity=需要%d级农民
+emi.trade.ButcherVillagerEntity=需要%d级屠夫
+emi.trade.level_up=从%d级升级到%d级
+emi.trade.enchanted=有随机附魔
+emi.trade.guaranteed=该交易为保底，不会获得经验。
+
+emi.world_interaction.btw.crafting_stump=§6必须在树墩上合成。需要多次敲击！
+emi.world_interaction.btw.brick_sundrying=§6放在阳光下晾晒一整天！
+emi.world_interaction.btw.bark_from_chiseling=§6第一次敲击
+emi.world_interaction.btw.shaft_from_chiseling=§6第二和第四次敲击
+emi.world_interaction.btw.sawdust_from_chiseling=§6第三和第五次敲击
+
+# EMI Commands
+
+commands.emi.usage=允许查看配方、配方树、添加树目标和树分配。尚未实现。
+commands.emi.nyi=该指令尚未实现
+commands.emi.id=需要配方ID。
+
+# EMI Categories
+
+emi.category.minecraft.crafting=合成
+emi.category.minecraft.brewing=酿造
+emi.category.minecraft.smelting=砖炉烧制
+emi.category.emi.world_interaction=世界交互
+emi.category.emi.fuel=燃料
+emi.category.emi.info=信息
+emi.category.btw.soulforge=熔魂钢砧
+emi.category.btw.cauldron=釜锅
+emi.category.btw.crucible=坩埚
+emi.category.btw.hopper=漏斗
+emi.category.btw.kiln=砖窑
+emi.category.btw.millstone=磨石
+emi.category.btw.piston=活塞压制
+emi.category.btw.saw=锯切
+emi.category.btw.turntable=旋转台
+emi.category.btw.campfire=篝火
+emi.category.btw.trading=交易
+emi.category.btw.progressive=编织
+
+emi.category.emi.tag=标签
+emi.category.emi.ingredient=材料
+emi.category.btw.food=食物
+
+alias.emi.workbench=工作台
+alias.emi.crafting_table=合成台
+alias.emi.stick=木棍
+alias.emi.tnt=火药桶
+alias.emi.cauldron=釜锅
+
+# EMI Tags
+tag.btw.seeds=种子
+tag.btw.shears=剪刀
+tag.btw.mossy_cobblestones=苔圆石
+tag.btw.loose_rocks=石子
+tag.btw.logs=原木
+tag.btw.cobblestones=圆石
+tag.btw.strings_and_hemp=线与麻
+tag.btw.coal_ores=煤矿石
+tag.btw.iron_ores=铁矿石
+tag.btw.chisels=凿子
+tag.btw.quartz_blocks=石英块
+tag.btw.diamond_ores=钻石矿石
+tag.btw.wood_corners=木边角
+tag.btw.planks=木板
+tag.btw.coals=煤炭
+tag.btw.lapis_ores=青金石矿
+tag.btw.high_quality_axes=高品质斧
+tag.btw.cooked_meats=熟肉
+tag.btw.fishing_hooks=鱼钩
+tag.btw.raw_meats=生肉
+tag.btw.gold_ores=金矿石
+tag.btw.emerald_ores=绿宝石矿石
+tag.btw.redstone_ores=红石矿石
+tag.btw.low_quality_axes=低品质斧
+tag.btw.barks=树皮
+tag.btw.sandstone_blocks=沙石块
+tag.btw.empty=如果你看到这个，说明出错了！
+tag.btw.strings=线
+tag.btw.leathers=皮革
+tag.btw.knit_wools=羊毛毡
+tag.btw.candles=蜡烛
+tag.btw.tanned_leathers=鞣制皮革
+tag.btw.axes=斧
+tag.btw.scoured_leathers=光滑皮革
+tag.btw.stone_brick_items=石砖物品
+tag.btw.wood_mouldings=木条
+tag.btw.wood_sidings=木半板
+tag.btw.wool_blocks=羊毛块
+tag.btw.wools=羊毛
+tag.btw.firestarters=取火器
+tag.btw.weapons=武器
+tag.btw.shovels=铲
+tag.btw.requires_mechanical_power=需要机械动力
+tag.btw.transmits_mechanical_power=传递机械动力
+tag.btw.generates_mechanical_power=产生机械动力
+tag.btw.pickaxes=镐
+tag.btw.hoes=锄
+tag.btw.foods=食物
+tag.btw.bark_boxes=树皮盒子
+
+tag.wildcard.Arcane Scroll.22479=奥术卷轴
+tag.wildcard.Black Stone Siding.178=黑石部件
+tag.wildcard.candle.black.22602=蜡烛
+tag.wildcard.Blight.180=枯萎病
+tag.wildcard.Brick Siding.186=砖块部件
+tag.wildcard.Carpet.171=地毯
+tag.wildcard.Chewed Log.1010=砍伐过的原木
+tag.wildcard.Coal.263=煤炭
+tag.wildcard.Cobblestone Slab.1123=圆石台阶
+tag.wildcard.Cobblestone Wall.139=圆石墙
+tag.wildcard.Cobblestone.4=圆石
+tag.wildcard.Companion Cube.237=挚友方块
+tag.wildcard.Dirt Slab.206=泥土台阶
+tag.wildcard.Golden Apple.322=金苹果
+tag.wildcard.Gravel Slab.175=沙砾台阶
+tag.wildcard.Ink Sac.351=染料
+tag.wildcard.Loose Cobblestone Slab.1022=松散圆石台阶
+tag.wildcard.Loose Cobblestone.1021=松散圆石
+tag.wildcard.Loose Stone Brick Slab.1071=松散石砖台阶
+tag.wildcard.Loose Stone Brick.1070=松散石砖
+tag.wildcard.Loose Stone.22566=松散石头
+tag.wildcard.Moss Stone.48=苔石
+tag.wildcard.Nether Brick Siding.188=地狱砖部件
+tag.wildcard.Oak Bark.22547=树皮
+tag.wildcard.Oak Leaves.18=树叶
+tag.wildcard.Birch Sapling.1160=白桦树苗
+tag.wildcard.Jungle Sapling.1161=丛林树苗
+tag.wildcard.Oak Sapling.1158=橡树苗
+tag.wildcard.Old Oak Sapling.6=旧橡树苗
+tag.wildcard.Spruce Sapling.1159=云杉树苗
+tag.wildcard.Oak Wood Bench.200=木装饰
+tag.wildcard.Oak Wood Bench.199=木装饰
+tag.wildcard.Oak Wood Corner.198=木边角
+tag.wildcard.Oak Wood Moulding.197=木半板
+tag.wildcard.Oak Wood Siding.196=木半板
+tag.wildcard.Oak Wood Planks.5=木板
+tag.wildcard.Oak Wood Slab.126=木台阶
+tag.wildcard.Oak Wood.17=原木
+tag.wildcard.Obsidian.49=黑曜石
+tag.wildcard.Old Black item.fcItemCandle.22480=旧蜡烛
+tag.wildcard.Old Block of Wicker.215=旧筚板块
+tag.wildcard.Planter.254=种植盆
+tag.wildcard.Sandstone Siding.182=沙石部件
+tag.wildcard.Sandstone.24=沙石
+tag.wildcard.Shrub.31=灌木
+tag.wildcard.Skeleton Skull.397=骷髅头颅
+tag.wildcard.Smooth Stone.1=平滑石
+tag.wildcard.Spawn.383=刷怪蛋
+tag.wildcard.Stone Brick Siding.1139=石砖部件1
+tag.wildcard.Stone Brick Siding.1143=石砖部件2
+tag.wildcard.Stone Brick Siding.202=石砖部件3
+tag.wildcard.Stone Brick.22588=石砖1
+tag.wildcard.Stone Bricks Slab.1125=石砖台阶
+tag.wildcard.Stone Bricks.98=石砖2
+tag.wildcard.Stone Monster Egg.97=虫蚀石头
+tag.wildcard.Stone Siding.1141=石部件1
+tag.wildcard.Stone Siding.1145=石部件2
+tag.wildcard.Stone Siding.185=石部件3
+tag.wildcard.Stone Slab.1127=石台阶1
+tag.wildcard.Stone Slab.44=石台阶2
+tag.wildcard.Unfired Crucible.252=生坯
+tag.wildcard.Vine Trap.213=藤蔓陷阱
+tag.wildcard.Water Bottle.373=药水
+tag.wildcard.White Stained Clay.159=染色黏土
+tag.wildcard.White Stone Siding.191=白石部件
+tag.wildcard.Wool Slab.220=羊毛台阶
+tag.wildcard.Wool.35=羊毛块
+tag.wildcard.tile.fcBlockLogDamagedBirch.name.3207=损坏的白桦
+tag.wildcard.tile.fcBlockLogDamagedJungle.name.3208=损坏的丛林木
+tag.wildcard.tile.fcBlockLogDamagedSpruce.name.3206=损坏的云杉
+tag.wildcard.tile.fcBlockWoodOakSiding.siding.name.184=木半板1
+tag.wildcard.tile.fcStoneBrickSiding.blackstone.siding.name.1143=黑石砖面板
+tag.wildcard.tile.fcWoodBloodSiding.siding.name.1007=木面板2
+tag.wildcard.tile.fcStoneBrickSiding.deepslate.siding.name.1139=深板岩砖面板
+tag.wildcard.tile.null.default.name.155=地狱石英块
+tag.wildcard.Black Candle.22602=蜡烛
+tag.wildcard.Black Wool.2551=羊毛
+tag.wildcard.Black Wool Knit.22579=羊毛毡
+tag.wildcard.Blackstone Siding.1145=黑石部件
+tag.wildcard.Deepslate Siding.1141=深板岩部件
+tag.wildcard.Loose Stone Bricks.1070=松散石砖
+tag.wildcard.Mossy Cobblestone.48=苔圆石
+tag.wildcard.Stone Brick Slab.1125=石砖台阶
+tag.wildcard.Stone.1=石头
+tag.wildcard.Loose Rock.22566=松散石头
+tag.wildcard.Gold Ore.14=金矿石
+tag.wildcard.Iron Ore.15=铁矿石
+tag.wildcard.Coal Ore.16=煤矿石
+tag.wildcard.Lapis Lazuli Ore.21=青金石矿石
+tag.wildcard.Diamond Ore.56=钻石矿石
+tag.wildcard.Redstone Ore.73=红石矿石
+tag.wildcard.Redstone Ore.74=红石矿石
+tag.wildcard.Emerald Ore.129=绿宝石矿石
+tag.wildcard.Quartz Block.155=石英块
+tag.wildcard.Quartz Siding.178=石英半板
+tag.wildcard.Quartz Moulding.179=石英半板
+tag.wildcard.Sandstone Moulding.183=沙石半板
+tag.wildcard.Brick Moulding.187=砖块半板
+tag.wildcard.Nether Brick Moulding.189=地狱砖半板
+tag.wildcard.White Stone Moulding.192=白石半板
+tag.wildcard.Oak Wood Column.199=木装饰
+tag.wildcard.tile.fcWoodJungleMoulding.moulding.name.201=未使用
+tag.wildcard.Stone Brick Moulding.203=石砖半板
+tag.wildcard.Stone Moulding.214=石头半板
+tag.wildcard.Old Moulding.231=未使用
+tag.wildcard.Vase.255=花瓶
+tag.wildcard.tile.fcWoodBloodMoulding.moulding.name.1008=未使用
+tag.wildcard.Deepslate Brick Siding.1139=深板岩砖半板
+tag.wildcard.Deepslate Brick Moulding.1140=深板岩砖半板
+tag.wildcard.Deepslate Moulding.1142=深板岩半板
+tag.wildcard.Blackstone Brick Siding.1143=黑石砖半板
+tag.wildcard.Blackstone Brick Moulding.1144=黑石砖半板
+tag.wildcard.Blackstone Moulding.1146=黑石半板
+
+# EMI recipe info
+
+emi.info.piston_crushing_input=固体面包围的物品
+emi.info.piston_crushing_output=放置方块作为输出
+
+emi.info.hopper_urn=放在漏斗下方
+emi.info.input=输入
+emi.info.filter_item=过滤物品
+emi.info.output=输出
+emi.info.filter_output=过滤输出
+
+emi.info.kiln.cycle=循环配置
+
+emi.info.stoked=需要烧着烈火的火盆
+emi.info.mechanical=需要机械动力
+emi.info.fist=拳头
+
+emi.info.no_campfire=无法在篝火上烧制！
+emi.info.no_oven=无法在砖窑中烧制！
+
+# EMI Item Info
+
+btw.stone.info=将松散圆石或松散石砖放置后，先用流动岩浆覆盖，再用水流冷却即可获得石头。
+btw.deepslate.info=将松散深板岩圆石或松散深板岩砖放置后，先用流动岩浆覆盖，再用水流冷却即可获得深板岩。
+btw.blackstone.info=将松散黑石圆石或松散黑石砖放置后，先用流动岩浆覆盖，再用水流冷却即可获得黑石。
+
+btw.mossy_cobblestone.info=刷怪笼会将以其为中心9x9x9范围内的圆石和松散圆石转化为苔圆石。
+btw.mossy_cobbled_deepslate.info=刷怪笼会将以其为中心9x9x9范围内的深板岩圆石和松散深板岩圆石转化为苔深板岩圆石。
+btw.mossy_cobbled_blackstone.info=刷怪笼会将以其为中心9x9x9范围内的黑石圆石和松散黑石圆石转化为苔黑石圆石。
+
+btw.mossy_stone_brick.info=流动的水覆盖在石砖上，随着时间推移会转化为苔石砖。
+btw.mossy_deepslate_brick.info=流动的水覆盖在深板岩砖上，随着时间推移会转化为苔深板岩砖。
+btw.mossy_blackstone_brick.info=流动的水覆盖在黑石砖上，随着时间推移会转化为苔黑石砖。
+
+btw.cracked_stone_brick.info=流动的岩浆覆盖在石砖上，随着时间推移会转化为裂石砖。
+btw.cracked_deepslate_brick.info=流动的岩浆覆盖在深板岩砖上，随着时间推移会转化为裂深板岩砖。
+btw.cracked_blackstone_brick.info=流动的岩浆覆盖在黑石砖上，随着时间推移会转化为裂黑石砖。
+
+btw.anvil.info=铁砧可当作可放置的工作台。注意放置后无法回收，只会掉落金属废料，除了在坩埚中熔化外无其他用途。
+btw.bonemeal.info=将骨粉撒在耕地或种植盆上可加速作物生长。作物成熟时骨粉会被消耗。
+btw.campfire.info=用尖木棍右键篝火可添加烤架，然后可放上食物。篝火烹饪需几分钟，火候应保持中等，火太小暂停烹饪，火太大会烧焦食物。篝火熄灭后可重新点燃。若篝火放在地狱岩上点燃会生成火焰，在黑曜石框中点燃会开启地狱传送门。
+btw.chisel.info=凿子可用来挖掘树墩以获得3x3合成界面的工作台，也可用于挖掘石头获得石砖，还能采集红石和钻石。
+btw.cobweb.info=蜘蛛会向目标发射蛛网减速。用尖锐石子可收获线，用剪刀可完整获取并进一步变为线。未发射蛛网的蜘蛛死亡也会掉落线。
+btw.fishing_rod.info=钓鱼需要鱼饵、足够空间和合适时机。手持鱼竿右键热栏内任意鱼饵如腐肉、苦力怕酶腺、蜘蛛眼、蝙蝠翅膀可上饵。有效钓鱼点需能看见天空，且水深至少3格。浮漂周围若有气泡则有效。满月、黎明/黄昏下雨时效率更高。
+btw.netherrack.info=地狱岩可被点燃且不会熄灭，但只能用篝火或烈焰弹点燃。在主世界会受重力影响，不过点燃后掉落仍会保持燃烧。
+btw.oven.info=砖炉比篝火更高效地烹饪食物并可冶炼矿石。上方放物品，下方放燃料。右键可放入燃料，下方会显示当前燃料量。可用钻木取火、火把等点燃。
+btw.string.info=蜘蛛发射蛛网可以减速敌人，用尖锐石子可收获线，用剪刀可获得完整蛛网进一步变为线。蜘蛛未发射蛛网时死亡也会掉落线。
+btw.torch.info=用煤制成的火把点燃后仅可持续一天20分钟，被水或雨淋会熄灭，包括背包内。熄灭后无法再点燃。点燃火把也可点燃砖炉、篝火等。
+btw.fire_plough.info=钻木取火可通过按住右键在火把、篝火、砖炉等处点火，加热到一定程度后点燃。松开右键会重置进度。请注意，此物品无法点燃明火，需有有效目标。升级取火器有弓钻、打火石、烈焰弹等。
+btw.bow_drill.info=弓钻比钻木取火更快，可以通过按住右键在火把、篝火、砖炉等处点火，加热后点燃。松开右键会重置进度。无法点燃开放火源，需有有效目标。升级取火器有打火石、烈焰弹等。
+btw.flint_and_steel.info=打火石可在火把、篝火、砖炉等处点火，无需按住右键，每次使用有概率点燃。无法点燃明火，需有有效目标。烈焰弹可直接引发明火。
+btw.fire_charge.info=烈焰弹为消耗品，可点燃任意可燃方块，并可点燃明火，优于其他取火器。
+
+btw.mortar.info=可用粘土、史莱姆球、地狱泥为松散圆石或松散砖块上浆，使其抵抗重力。发射器也可自动上浆。
+btw.mortar_blocks.info=右键松散方块用粘土、史莱姆球或地狱泥可上浆。松散方块会短暂黏在已上浆方块上，需及时上浆固定。发射器同样可自动上浆。
+
+btw.axle.info=轴可传递机械动力，最长三格后需用齿轮箱或红石离合器续接。
+btw.gearbox.info=齿轮箱可传递机械动力，带箭头一侧为输入，其他面可接轴为输出。相邻齿轮箱不能直接传递动力，至少要有一根轴隔开。放置后请用右键调整方向
+btw.redstone_clutch.info=红石离合器是一种特殊齿轮箱，可被红石信号禁用。放置后请用右键调整方向
+btw.vertical_windmill.info=竖轴风车是机械动力源，可在垂直轴上提供动力。与普通风车类似，但可以在地狱使用。
+btw.water_wheel.info=水车是机械动力源，有流水驱动时可提供动力。末地也能用，是末地唯一动力源。
+btw.windmill.info=风车是机械动力源，需在能见天的轴上提供动力。体积较大，要保证足够空间。雷暴时会损坏机械设备，除非用红石离合器断开动力的连接。
+
+btw.bellows.info=风箱可让前方3x3火盆剧烈燃烧。需用机械动力控制风箱伸缩，通常用螺杆旋转台定时。风箱还可通过不同力度将不同重量的物品吹到不同距离进行分选。
+btw.cauldron.info=釜锅可烧制食物等物品，只需下方有火源，无需燃料。篝火或普通火均可加热，下方点燃的火越多烧制越快，最多3x3。烈火可解锁更高热度配方。可用机械动力倾倒内容物。
+btw.crucible.info=坩埚用法类似釜锅，但需烈火加热。下方点燃的火越多，烧制越快，最多3x3。可用机械动力倾倒内容物。
+btw.dormant_soulforge.info=每个地狱要塞会有一个未激活的熔魂钢砧。更多钢砧需用现有钢砧合成，首台需在地狱要塞获取。
+btw.dragon_vessel.info=龙之容器可大量储存经验。对其施加机械动力可倾倒所有经验。仅可在丛林神庙中获得。
+btw.dynamite.info=炸药可投掷爆炸，用打火石点燃或用发射器发射。在水中爆炸可高效捕鱼。
+btw.hand_crank.info=手摇曲柄可为部分简单机械提供动力，每摇一次消耗大量饥饿。可为磨石、风箱等供能，也可倾倒釜锅、坩埚和龙之容器。
+btw.hibachi.info=火盆激活时会产生稳定火焰，可被风箱增强。3x3最多九个火盆可同时被一个风箱增强。
+btw.kiln.info=用砖块搭建窑用于烧制陶器和更高效冶炼。烈火上方放一块砖块，上方留空，三面再用砖块围住。可用最多9个火盆加速烧制。
+btw.millstone.info=磨石可对物品进行研磨处理。可用手摇曲柄或上下方连接动力供能。一次只能磨制一个物品，可用动力漏斗自动投料。加工完成后会随机弹出物品，需保证四周无障碍。
+btw.piston_shovel.info=活塞铲可用活塞推动来采集软性或松散方块，效果类似精准采集，如可采集草方块。
+btw.planter.info=种植盆可种植作物且无杂草。需水源相邻补水，也可从下方补水。
+btw.saw.info=螺杆锯供能后可切割木方块，也能伤害接触生物，非常适合刷怪塔。推动劈砍台可提升伤害和掉头颅概率。
+btw.screw_pump.info=螺杆泵供能后可将前方水源抬升一格，从顶部排出。
+btw.soul_urn.info=漏斗过滤配方可在没有连接瓮的情况下进行，但同样会释放灵魂。摔碎灵魂瓮也会释放灵魂，能为地狱孢子、血木等提供养分，也可让僵尸村民转化为村民。但灵魂会对多数被动生物和鱿鱼产生负面影响。
+btw.soulforge.info=熔魂钢砧能进行高级合成，拥有4x4格子来合成。首台需在地狱要塞获取，其余可用现有钢砧合成。
+btw.turntable.info=螺杆旋转台可旋转上方两格及其附着的物品如火把。可用于红石计时或陶器造型。空手右键切换速度0.5/1/2/4秒。
+btw.mining_charge.info=采矿炸药比火药桶更可控，可贴在任意面，定向爆破。炸毁的方块必定掉落物品，通常等同于玩家采集。
+btw.buddy_block.info=方块更新检测器可通过方块更新发出红石脉冲。
+btw.block_dispenser.info=方块发射器可自动放置/破坏方块。通电时依次放置背包物品，断电时如同精准采集回收前方方块。还能收集羊毛，甚至可以抓走鸡和狼。
+btw.detector_block.info=探测器前方有方块或实体时输出红石。可与聚光器组合延长探测距离，实现无线红石传输或光照检测。
+btw.lens.info=聚光器可投射背后光源形成光束，遇到实体或方块会停止。探测器可检测光束，实现无线红石或光敏线。未直对光源时可作为光照探测器光照≥8输出信号。
+btw.wooden_detector_rail.info=空载探测铁轨可检测所有矿车。
+btw.stone_detector_rail.info=轻载探测铁轨仅检测有实体或箱子的矿车，不检测空矿车。
+btw.steel_detector_rail.info=重载探测铁轨仅检测有玩家的矿车。
+btw.wooden_pressure_plate.info=木质压力板可检测所有实体和物品。
+btw.stone_pressure_plate.info=石质压力板仅检测较大实体，不检测物品。
+btw.steel_pressure_plate.info=钢质压力板仅检测玩家。
+btw.light_block.info=发光灯为可通电的强光源，强于普通红石灯。可取代阳光照亮麻/小麦需放在作物正上方两格处。
+
+btw.hopper.info=漏斗可收集上方物品，供能后从下方输出，但无法从容器吸取，只能收集世界中的物品。可通过过滤槽筛选物品，有效过滤物品有：梯子、铁栅栏、活板门、网格板、板条、筚板和灵魂沙。部分过滤器可转换物品。详情见各过滤器说明。
+btw.ladder.info=用于漏斗过滤时，梯子允许物品通过但阻挡方块。
+btw.iron_bars.info=用于漏斗过滤时，铁栅栏允许可堆叠物品通过。
+btw.trapdoor.info=用于漏斗过滤时，活板门允许细长物品通过，如骨头、轴等。
+btw.grate.info=用于漏斗过滤时，网格板允许小型物品通过，如粘土球、煤炭。
+btw.slats.info=用于漏斗过滤时，板条允许薄型物品通过，如纸或线。
+btw.wicker_pane.info=用于漏斗过滤时，筚板允许极小或粉状物品通过，如种子或糖。
+btw.soul_sand.info=灵魂沙可作为独特过滤器，过滤含灵魂物品如地狱岩粉。还能储存经验，把红色经验球转为可吸收的绿色经验球。无瓮过滤灵魂会使附近生物附身。
+
+btw.arcane_scroll.info=奥术卷轴可在炼狱附魔台使用，为物品附加特定附魔。大多数卷轴为生物的稀有掉落，每种生物掉落对应卷轴。5级村民也有独特卷轴可售卖。
+btw.brewing_stand.info=酿造台只能在女巫小屋中找到。
+btw.enchanter.info=附魔台仅能施加15级及以下附魔，需周围摆放30个书架达到满级。只能在沙漠神殿中找到。
+btw.infernal_enchanter.info=炼狱附魔台可用奥术卷轴施加任意附魔。每次附魔消耗30级经验，每增加一条附魔再多30级，最多4条。在17x17x17内每级需要1个书架，满级需120个书架。
+
+btw.beacon.info=信标基座使用不同材料可赋予不同增益。地狱只要能见基岩顶也能用。可用材料有：浓缩地狱火、钻石、粪块、绿宝石、末影块、玻璃、萤石、金块、铁块、青金石、蜘蛛眼块与熔魂钢。具体效果见各方块说明。
+btw.concentrated_hellfire_block.info=信标基座使用浓缩地狱火块时，给予附近玩家防火效果。
+btw.diamond_block.info=信标基座使用钻石块时，赋予附近玩家时运，满级为时运IV。
+btw.dung_block.info=信标基座使用粪块时，令附近玩家持续恶心。穿戴全熔魂钢盔甲可免疫。
+btw.emerald_block.info=信标基座用使用绿宝石块时，赋予附近玩家抢夺，对所有怪物死亡掉落有效，满级为抢夺IV。
+btw.ender_block.info=信标基座使用末影块时，增加末影人生成并在末地生成蠹虫，加速末地虫蚀方块进度。对末影箱表现不同：3x3/5x5为同世界公共，7x7为跨世界公共，9x9为玩家私有。
+btw.ender_chest.info=末影箱需配合末影块信标使用，3x3/5x5为同世界公共，7x7为跨世界公共，9x9为玩家私有。
+btw.glass.info=信标基座使用玻璃仅作装饰，不提供额外效果。
+btw.glowstone.info=信标基座使用萤石时，给予附近玩家夜视效果。
+btw.gold_block.info=信标基座使用金块时，给予附近玩家急迫，满级为急迫IV。
+btw.iron_block.info=信标基座使用铁块时，会重定向附近指南针，满级时本世界范围无限。
+btw.lapis_block.info=信标基座使用青金石块时，赋予附近玩家真视效果，可以看见怪物的可生成点和出生点强加载区块。
+btw.spider_eye_block.info=信标基座使用蜘蛛眼块时，阻止范围内丛林蜘蛛生成。
+btw.steel_block.info=熔魂钢块免疫凋灵任何形式的破坏，用来搭建信标基座后右键信标可作为重生锚点。前两级有距离限制，三级本世界无限，四级全维度无限。
+
+btw.bow.info=普通弓可射击腐烂箭和普通箭，但威力不足以发射宽头箭。需玩家的快捷栏有箭。只能在炼狱附魔台附魔。
+btw.composite_bow.info=复合弓比普通弓更强，比普通箭射得更快更远，可用宽头箭，但宽头箭不会获得射程提升。无法射腐烂箭，否则腐烂箭会碎裂。只能在炼狱附魔台附魔。
+btw.rotten_arrow.info=腐烂箭由骷髅掉落，比普通箭弱，伤害低，射程短，碰撞方块会碎，复合弓射击时直接碎裂。
+btw.broadhead_arrows.info=宽头箭比普通箭伤害高，但太重，需复合弓发射。
+
+btw.blood_wood.info=血木仅能在地狱灵魂沙上种植，生长速度极快。树苗成熟后也会继续生长填满空间。血木树苗落到灵魂沙上会自动种植。提示：一定要控制好血木的生长空间，否则会长满整个地狱，非常掉帧！
+btw.chopping_block.info=用活塞推劈砍台将怪物挤压至螺杆锯上可提升锯伤害并提高怪物掉头颅概率。
+btw.companion_cube.info=用方块发射器吸取狼可获得挚友方块。为什么不是精灵球
+btw.corpse_eye.info=死尸之眼可追踪玩家上次死亡点，最多使用5次。
+btw.groth.info=地狱孢子能在地狱岩上生长扩散，阻止怪物生成，踩上去会造成伤害。成熟后破坏会释放毒孢子，穿着熔魂钢靴可无伤行走，穿全熔魂钢盔甲可免疫毒。
+btw.portal.info=地狱传送门需用篝火或烈焰弹点燃，会在16格范围内主动释放灵魂，对被动生物和鱿鱼有负面影响。鱿鱼：我能飞啦！
+
+screenshot.success=已将屏幕截图保存为 %s
+screenshot.failure=无法保存屏幕截图：%s

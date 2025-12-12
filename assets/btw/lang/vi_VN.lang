@@ -1,0 +1,1628 @@
+# BTW Blocks
+
+tile.fcBlockArcaneVessel.name=Long bình
+tile.fcBlockScrewPump.name=Bơm trục vít
+tile.FCBlockFarmlandFertilized.name=Đất trồng
+tile.fcBlockWoolSlab.name=Phiến len
+tile.fcBlockGroth.name=Nether Groth
+tile.fcBlockInfernalEnchanter.name=Bàn phù phép địa ngục
+tile.fcBlockSoulforgedSteel.name=Khối thép ngục hồn
+tile.fcBlockDetectorLogicGlowing.name=Nguyên lý cảm biến ánh sáng
+tile.fcBlockBloodWoodLeaves.name=Lá huyết mộc
+tile.fcBlockBloodWood.name=Huyết mộc
+tile.fcBlockMiningCharge.name=Mìn
+tile.fcBlockBuddyBlock.name=Khối BUD
+tile.fcBlockKiln.name=Lò nung
+tile.fcBlockAnvil.name=Bàn rèn ngục hồn
+tile.fcBlockLightBlock.name=Đèn
+tile.fcBlockHibachi.name=Hibachi
+tile.fcBlockHopper.name=Phễu
+tile.fcBlockSaw.name=Cưa
+tile.fcBlockPlatform.name=Giàn giáo
+tile.fcBlockCement.name=Xi măng
+tile.fcBlockPulley.name=Ròng rọc
+tile.fcBlockWoodOakMoulding.name=Phào chỉ cũ
+tile.fcBlockWoodOakMoulding.moulding.name=Phào chỉ cũ
+tile.fcBlockCorner.name=Phào trang trí góc cũ
+tile.fcBlockBlockDispenser.name=Khối phân phát
+tile.fcBlockCauldron.name=Cái vạc
+tile.fcBlockDetectorBlock.name=Khối cảm biến
+tile.fcBlockDetectorLogic.name=Nguyên lý cảm biến
+tile.fcBlockLens.name=Thấu kính
+tile.fcBlockHemp.name=Cây gai dầu
+tile.fcBlockHandCrank.name=Tay quay
+tile.fcBlockMillStone.name=Cối đá
+tile.fcBlockAnchor.name=Mỏ neo
+tile.fcBlockRope.name=Dây thừng
+tile.fcBlockOmniSlab.name=Ốp tường cũ
+tile.fcBlockAxle.name=Trục
+tile.fcBlockAxlePowerSource.name=Trục đang quay
+tile.fcBlockGearBox.name=Hộp truyền động
+tile.fcBlockTurntable.name=Bàn xoay
+tile.fcBlockBellows.name=Bễ
+tile.fcBlockStokedFire.name=Lửa
+tile.fcBlockUnfiredPottery.name=Gốm đất sét
+tile.fcBlockUnfiredPottery.crucible.name=Nồi lò đất
+tile.fcBlockUnfiredPottery.planter.name=Chậu cây đất
+tile.fcBlockUnfiredPottery.vase.name=Bình đất
+tile.fcBlockUnfiredPottery.urn.name=Lọ đất
+tile.fcBlockUnfiredPottery.mould.name=Khuôn đất
+tile.fcBlockCrucible.name=Nồi lò
+tile.fcBlockPlanter.name=Cái chậu
+tile.fcBlockVase.name=Cái bình
+tile.fcBlockDetectorRailWood.name=Đường ray cảm biến
+tile.fcBlockDetectorRailSoulforgedSteel.name=Đường ray cảm biến
+tile.fcBlockRottenFlesh.name=Khối thịt thối
+tile.fcBlockSoulforgeDormant.name=Bàn rèn say giấc
+
+tile.fcBlockSmoothstoneStairs.name=Cầu thang đá
+tile.fcBlockSmoothstoneStairs.deepslate.name=Cầu thang đá bảng sâu
+tile.fcBlockSmoothstoneStairs.blackstone.name=Cầu thang đá đen
+
+tile.fcBlockRottenFleshSlab.name=Phiến thịt thối
+tile.fcBlockBoneSlab.name=Phiến xương
+tile.fcBlockPumpkinFresh.name=Bí ngô
+tile.fcBlockWoodBloodStairs.name=Cầu thang huyết mộc
+tile.fcBlockLogDamaged.name=Gỗ bị cạo
+tile.fcBlockGrassSparseLoose.name=Khối đất tơi cỏ thưa
+tile.fcBlockDirtLoose.name=Đất tơi
+tile.fcBlockDirtLooseSlab.name=Phiến đất tơi
+tile.fcBlockCampfire.name=Lửa trại
+tile.fcBlockUnfiredBrick.name=Gạch ướt
+tile.fcBlockCookedBrick.name=Gạch
+tile.fcBlockBrickLoose.name=Gạch không vữa
+tile.fcBlockBrickLooseSlab.name=Phiến gạch không vữa
+
+tile.fcBlockCobblestoneLoose.stone.name=Đá cuội không vữa
+tile.fcBlockCobblestoneLoose.deepslate.name=Đá cuội bảng sâu không vữa
+tile.fcBlockCobblestoneLoose.blackstone.name=Đá cuội đen không vữa
+
+tile.fcBlockCobblestoneLooseSlab.stone.name=Phiến đá cuội không vữa
+tile.fcBlockCobblestoneLooseSlab.deepslate.name=Phiến đá cuội bảng sâu không vữa
+tile.fcBlockCobblestoneLooseSlab.blackstone.name=Phiến đá cuội đen không vữa
+
+tile.fcBlockLooseFurnaceBrick.name=Lò gạch không vữa
+tile.fcBlockFurnaceBrick.name=Lò gạch
+tile.fcBlockTorchFiniteIdle.name=Ngọn đuốc thô
+tile.fcBlockTorchFiniteBurning.name=Đuốc thô cháy
+tile.fcBlockStoneRough.name=Đá thô
+tile.fcBlockWorkStump.name=Bàn chế tạo
+tile.fcBlockBasketWicker.name=Giỏ mía
+tile.fcBlockLogSpike.name=Đế lót nến
+tile.fcBlockTorchIdle.name=Đuốc bị tắt
+tile.fcBlockUnfiredClay.name=Khối đất sét
+tile.fcBlockNetherSludge.name=Khối bùn Nether
+tile.fcBlockMyceliumSlab.name=Phiến khuẩn ti thể		
+tile.fcBlockBoxBark.name=Hộp vỏ cây
+
+tile.fcBlockBrickLooseStairs.name=Cầu thang gạch không vữa
+tile.fcBlockCobblestoneLooseStairs.stone.name=Cầu thang đá cuội không vữa
+tile.fcBlockCobblestoneLooseStairs.deepslate.name=Cầu thang đá cuội bảng sâu không vữa
+tile.fcBlockCobblestoneLooseStairs.blackstone.name=Cầu thang đá đen không vữa
+
+tile.fcBlockCobblestoneStairs.stone.name=Cầu thang đá cuội
+tile.fcBlockCobblestoneStairs.deepslate.name=Cầu thang đá bảng sâu
+tile.fcBlockCobblestoneStairs.blackstone.name=Cầu thang đá đen
+
+tile.fcBlockLogSmouldering.name=Than hồng
+tile.fcBlockWoodCinders.name=Xỉ than
+tile.fcBlockStumpCharred.name=Gốc cây cháy
+tile.fcBlockAshGroundCover.name=Tro
+tile.fcBlockSnowLoose.name=Tuyết tơi
+tile.fcBlockSnowLooseSlab.name=Phiến tuyết tơi
+tile.fcBlockSnowSolid.name=Tuyết
+tile.fcBlockSnowSolidSlab.name=Phiến tuyết
+tile.fcBlockLadder.name=Thang
+tile.fcBlockLadderOnFire.name=Thang cháy
+tile.fcBlockShovel.name=Xẻng pít-tông
+tile.fcBlockHamper.name=Giỏ mía lớn
+tile.fcBlockCreeperOysters.name=Khối hòn Creeper
+tile.fcBlockCreeperOystersSlab.name=Phiến hòn Creeper
+tile.fcBlockTorchNetherBurning.name=Đuốc
+tile.fcBlockRedstoneClutch.name=Bộ ly hợp Redstone
+tile.fcBlockSpikeIron.name=Đế lót nến sắt
+tile.fcBlockLightningRod.name=Cột thu lôi
+
+tile.fcBlockStoneBrickLoose.stone.name=Gạch đá không vữa
+tile.fcBlockStoneBrickLoose.deepslate.name=Gạch đá bảng sâu không vữa
+tile.fcBlockStoneBrickLoose.blackstone.name=Gạch đá đen không vữa
+
+tile.fcBlockStoneBrickLooseSlab.stone.name=Phiến gạch đá không vữa
+tile.fcBlockStoneBrickLooseSlab.deepslate.name=Phiến gạch đá bảng sâu không vữa
+tile.fcBlockStoneBrickLooseSlab.blackstone.name=Phiến gạch đá đen không vữa
+
+tile.fcBlockStoneBrickLooseStairs.stone.name=Cầu thang gạch đá không vữa
+tile.fcBlockStoneBrickLooseStairs.deepslate.name=Cầu thang gạch đá bảng sâu không vữa
+tile.fcBlockStoneBrickLooseStairs.blackstone.name=Cầu thang gạch đá đen không vữa
+
+tile.fcBlockStoneBrickStairs.stone.name=Cầu thang gạch đá
+tile.fcBlockStoneBrickStairs.deepslate.name=Cầu thang gạch đá bảng sâu
+tile.fcBlockStoneBrickStairs.blackstone.name=Cầu thang gạch đá đen
+
+tile.fcBlockNetherBrickLoose.name=Gạch Nether không vữa
+tile.fcBlockNetherBrickLooseSlab.name=Phiến gạch Nether không vữa
+tile.fcBlockNetherBrickLooseStairs.name=Cầu thang gạch Nether không vữa
+tile.fcBlockNetherrackFalling.name=Netherrack rơi
+tile.fcBlockLavaPillow.name=Dung nham gối
+tile.fcBlockChunkOreStorageIron.name=Khối quặng sắt
+tile.fcBlockChunkOreStorageGold.name=Khối quặng vàng
+tile.fcBlockChunkOreGold.name=Mẩu vàng thô
+tile.fcBlockChunkOreIron.name=Mẩu sắt thô
+tile.fcBlockWicker.name=Khối đan mía
+tile.fcBlockWickerSlab.name=Phiến đan mía
+tile.fcBlockWickerPane.name=Khung đan mía
+tile.fcBlockGrate.name=Khung lưới
+tile.fcBlockSlats.name=Gỗ tiêu âm
+tile.fcBlockFarmlandNew.name=Đất trồng
+tile.fcBlockPlanterSoil.name=Chậu cây có đất
+
+tile.fcBlockSilverfishStone.stone.name=Đá bị nhiễm khuẩn
+tile.fcBlockSilverfishCobblestone.stone.name=Đá cuội bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrick.stone.name=Gạch đá bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrickMossy.stone.name=Gạch đá phủ rêu bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneCracked.stone.name=Gạch đá không vữa bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneChiseled.stone.name=Gạch đá được đục bị nhiễm khuẩn
+
+tile.fcBlockSilverfishStone.deepslate.name=Đá bảng sâu bị nhiễm khuẩn
+tile.fcBlockSilverfishCobblestone.deepslate.name=Đá cuội bảng sâu bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrick.deepslate.name=Gạch đá bảng sâu bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=Gạch đá bảng sâu phủ rêu bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneCracked.deepslate.name=Gạch đá bảng sâu không vữa bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneChiseled.deepslate.name=Gạch đá bảng sâu được đục bị nhiễm khuẩn
+
+tile.fcBlockSilverfishStone.blackstone.name=Đá đen bị nhiễm khuẩn
+tile.fcBlockSilverfishCobblestone.blackstone.name=Đá cuội đen bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrick.blackstone.name=Gạch đá đen bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneBrickMossy.blackstone.name=Gạch đá đen phủ rêu bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneCracked.blackstone.name=Gạch đá đen không vữa bị nhiễm khuẩn
+tile.fcBlockSilverfishStoneChiseled.blackstone.name=Gạch đá đen được đục bị nhiễm khuẩn
+
+tile.fcBlockClay.name=Quặng đất sét
+tile.fcBlockGrassSlab.name=Phiến cỏ
+tile.fcBlockBedroll.name=Túi ngủ
+tile.fcBlockBedrollOld.name=Túi ngủ cũ
+tile.fcBlockBed.name=Giường
+tile.fcBlockSpiderEye.name=Khối mắt nhện
+tile.fcBlockSpiderEyeSlab.name=Phiến mắt nhện
+tile.fcBlockSaplingOak.name=Chồi cây sồi non
+tile.fcBlockSaplingOak.mature.name=Chồi cây sồi
+tile.fcBlockSaplingSpruce.name=Chồi cây vân sam non
+tile.fcBlockSaplingSpruce.mature.name=Chồi cây vân sam
+tile.fcBlockSaplingBirch.name=Chồi cây bạch dương non
+tile.fcBlockSaplingBirch.mature.name=Chồi cây bạch dương
+tile.fcBlockSaplingJungle.name=Chồi cây rừng non
+tile.fcBlockSaplingJungle.mature.name=Chồi cây rừng
+tile.fcBlockMushroomCap.name=Khối nấm
+tile.fcBlockLoom.name=Khung cửi
+tile.fcBlockCharcoal.name=Khối than gỗ
+tile.fcBlockNethercoal.name=Khối than Nether
+
+# BTW Complex Blocks
+
+tile.fcBlockCompanionCube.cube.name=Khối bạn đồng hành
+tile.fcBlockCompanionCube.slab.name=Nửa khối bạn đồng hành
+tile.fcBlockAestheticOpaque.name=Khối trang trí
+tile.fcBlockAestheticOpaque.wicker.name=Khối đan mía cũ
+tile.fcBlockAestheticOpaque.dung.name=Cứt chó cũ
+tile.fcBlockAestheticOpaque.steel.name=Khối thép ngục hồn
+tile.fcBlockAestheticOpaque.hellfire.name=Khối bụi hỏa ngục
+tile.fcBlockAestheticOpaque.padding.name=Khối đệm
+tile.fcBlockAestheticOpaque.soap.name=Khối xà phòng
+tile.fcBlockAestheticOpaque.rope.name=Cuộn dây thừng
+tile.fcBlockAestheticOpaque.flint.name=Khối đá lửa
+tile.fcBlockAestheticOpaque.whitestone.name=Đá trắng
+tile.fcBlockAestheticOpaque.whitecobble.name=Đá cuội trắng
+tile.fcBlockAestheticOpaque.barrel.name=Thùng
+tile.fcBlockAestheticOpaque.choppingblockbloody.name=Thớt dính máu
+tile.fcBlockAestheticOpaque.choppingblock.name=Thớt
+tile.fcBlockAestheticOpaque.enderblock.name=khối Ender
+tile.fcBlockAestheticOpaque.bone.name=Khối xương
+tile.fcBlockAestheticNonOpaque.name=Trang trí nhưng không phải khối
+tile.fcBlockAestheticNonOpaque.urn.name=Cái lọ
+tile.fcBlockAestheticNonOpaque.column.name=Cột cũ
+tile.fcBlockAestheticNonOpaque.pedestal.name=Bệ cũ
+tile.fcBlockAestheticNonOpaque.table.name=Bàn cũ
+tile.fcBlockAestheticNonOpaque.wickerslab.name=Phiến đan mía cũ
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=Phiến đá cuội trắng
+tile.fcBlockAestheticNonOpaque.lightningrod.name=Cần câu thép ngục hồn cũ
+tile.fcBlockAestheticVegetation.name=Thực vật trang trí
+tile.fcBlockAestheticVegetation.vinetrap.name=Bẫy leo
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=Chồi cây huyết mộc
+tile.fcBlockAestheticVegetation.bloodleaves.name=Lá huyết mộc
+
+tile.fcWoodSpruceSiding.oak.name=Ván ốp gỗ sồi
+tile.fcWoodSpruceSiding.spruce.name=Ván ốp gỗ vân sam
+tile.fcWoodSpruceSiding.birch.name=Ván ốp gỗ bạch dương
+tile.fcWoodSpruceSiding.jungle.name=Ván ốp gỗ rừng
+tile.fcWoodSpruceSiding.blood.name=Ván ốp huyết mộc
+
+tile.fcWoodSpruceMoulding.oak.name=Phào chỉ gỗ sồi
+tile.fcWoodSpruceMoulding.spruce.name=Phào chỉ gỗ vân sam
+tile.fcWoodSpruceMoulding.birch.name=Phào chỉ gỗ bạch dương
+tile.fcWoodSpruceMoulding.jungle.name=Phào chỉ gỗ rừng
+tile.fcWoodSpruceMoulding.blood.name=Phào chỉ huyết mộc
+
+tile.fcWoodBirchSiding.oak.name=Phào góc trang trí gỗ sồi
+tile.fcWoodBirchSiding.spruce.name=Phào góc trang trí gốc vân sam
+tile.fcWoodBirchSiding.birch.name=Phào góc trang trí gỗ bạch dương
+tile.fcWoodBirchSiding.jungle.name=Phào góc trang trí gỗ rừng
+tile.fcWoodBirchSiding.blood.name=Phào góc trang trí huyết mộc
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=Bệ gỗ sồi
+tile.fcWoodBirchMoulding.spruce.pedestal.name=Bệ gỗ vân sam
+tile.fcWoodBirchMoulding.birch.pedestal.name=Bệ gỗ bạch dương
+tile.fcWoodBirchMoulding.jungle.pedestal.name=Bệ gỗ rừng
+tile.fcWoodBirchMoulding.blood.pedestal.name=Bệ huyết mộc
+
+tile.fcWoodBirchMoulding.oak.column.name=Cột gỗ sồi
+tile.fcWoodBirchMoulding.spruce.column.name=Cột gỗ vân sam
+tile.fcWoodBirchMoulding.birch.column.name=Cột gỗ bạch dương
+tile.fcWoodBirchMoulding.jungle.column.name=Cột gỗ rừng
+tile.fcWoodBirchMoulding.blood.column.name=Cột huyết mộc
+
+tile.fcWoodBirchMoulding.oak.table.name=Bàn gỗ sồi
+tile.fcWoodBirchMoulding.spruce.table.name=Bàn gỗ vân sam
+tile.fcWoodBirchMoulding.birch.table.name=Bàn gỗ bạch dương
+tile.fcWoodBirchMoulding.jungle.table.name=Bàn gỗ rừng
+tile.fcWoodBirchMoulding.blood.table.name=Bàn huyết mộc
+
+tile.fcWoodJungleSiding.oak.bench.name=Ghế gỗ sồi
+tile.fcWoodJungleSiding.spruce.bench.name=Ghế gỗ vân sam
+tile.fcWoodJungleSiding.birch.bench.name=Ghế gỗ bạch dương
+tile.fcWoodJungleSiding.jungle.bench.name=Ghế gỗ rừng
+tile.fcWoodJungleSiding.blood.bench.name=Ghế huyết mộc
+
+tile.fcWoodJungleSiding.oak.fence.name=Hàng rào gỗ sồi
+tile.fcWoodJungleSiding.spruce.fence.name=Hàng rào gỗ vân sam
+tile.fcWoodJungleSiding.birch.fence.name=Hàng rào gỗ bạch dương
+tile.fcWoodJungleSiding.jungle.fence.name=Hàng rào gỗ rừng
+tile.fcWoodJungleSiding.blood.fence.name=Hàng rào huyết mộc
+
+tile.fcBlockSidingQuartz.name=Mặt và góc
+tile.fcBlockSidingQuartz.siding.name=Ốp thạch anh
+tile.fcBlockSidingQuartz.corner.name=Phào góc trang trí thạch anh
+tile.fcBlockSidingQuartz.bench.name=Ghế thạch anh
+tile.fcBlockSidingQuartz.fence.name=Tường thạch anh
+tile.fcBlockMouldingQuartz.name=Trang trí
+tile.fcBlockMouldingQuartz.moulding.name=Phào chỉ thạch anh
+tile.fcBlockMouldingQuartz.column.name=Cột thạch anh
+tile.fcBlockMouldingQuartz.pedestal.name=Bệ thạch anh
+tile.fcBlockMouldingQuartz.table.name=Bàn thạch anh
+
+tile.fcStoneBrickSiding.name=Mặt và góc
+tile.fcStoneBrickSiding.siding.name=Ốp gạch đá
+tile.fcStoneBrickSiding.corner.name=Phào góc trang trí gạch đá
+tile.fcStoneBrickSiding.bench.name=Ghế gạch đá
+tile.fcStoneBrickSiding.fence.name=Tường gạch đá
+tile.fcStoneBrickMoulding.name=Trang trí
+tile.fcStoneBrickMoulding.moulding.name=Phào chỉ gạch đá
+tile.fcStoneBrickMoulding.column.name=Cột gạch đá
+tile.fcStoneBrickMoulding.pedestal.name=Bệ gạch đá
+tile.fcStoneBrickMoulding.table.name=Bàn gạch đá
+
+tile.fcDeepslateBrickSiding.name=Mặt và góc
+tile.fcDeepslateBrickSiding.siding.name=Ốp gạch đá bảng sâu
+tile.fcDeepslateBrickSiding.corner.name=Phào góc trang trí gạch đá bảng sâu
+tile.fcDeepslateBrickSiding.bench.name=Ghế gạch đá bảng sâu
+tile.fcDeepslateBrickSiding.fence.name=Tường gạch đá bảng sâu
+tile.fcDeepslateBrickMoulding.name=Trang trí
+tile.fcDeepslateBrickMoulding.moulding.name=Phào chỉ gạch đá bảng sâu
+tile.fcDeepslateBrickMoulding.column.name=Cột gạch đá bảng sâu
+tile.fcDeepslateBrickMoulding.pedestal.name=Bệ gạch đá bảng sâu
+tile.fcDeepslateBrickMoulding.table.name=Bàn gạch đá bảng sâu
+
+tile.fcBlackstoneBrickSiding.name=Mặt và góc
+tile.fcBlackstoneBrickSiding.siding.name=Ốp gạch đá đen
+tile.fcBlackstoneBrickSiding.corner.name=Phào góc trang trí gạch đá đen
+tile.fcBlackstoneBrickSiding.bench.name=Ghế gạch đá đen
+tile.fcBlackstoneBrickSiding.fence.name=Tường gạch đá đen
+tile.fcBlackstoneBrickMoulding.name=Trang trí
+tile.fcBlackstoneBrickMoulding.moulding.name=Phào chỉ gạch đá đen
+tile.fcBlackstoneBrickMoulding.column.name=Cột gạch đá đen
+tile.fcBlackstoneBrickMoulding.pedestal.name=Bệ gạch đá đen
+tile.fcBlackstoneBrickMoulding.table.name=Bàn gạch đá đen
+
+tile.fcWhiteStoneSiding.name=Mặt và góc
+tile.fcWhiteStoneSiding.siding.name=Ốp đá trắng
+tile.fcWhiteStoneSiding.corner.name=Phào trang trí góc đá trắng
+tile.fcWhiteStoneSiding.bench.name=Ghế đá trắng
+tile.fcWhiteStoneSiding.fence.name=Tường đá trắng
+tile.fcWhiteStoneMoulding.name=Trang trí
+tile.fcWhiteStoneMoulding.moulding.name=Phào chỉ đá trắng
+tile.fcWhiteStoneMoulding.column.name=Cột đá trắng
+tile.fcWhiteStoneMoulding.pedestal.name=Bệ đá trắng
+tile.fcWhiteStoneMoulding.table.name=Bàn đá trắng
+
+tile.fcBlockWhiteStoneStairs.smooth.name=Cầu thang đá trắng
+tile.fcBlockWhiteStoneStairs.cobble.name=Cầu thang đá cuội trắng
+
+tile.fcNetherBrickSiding.name=Mặt và góc
+tile.fcNetherBrickSiding.siding.name=Ốp gạch Nether
+tile.fcNetherBrickSiding.corner.name=Phào góc trang trí gạch Nether
+tile.fcNetherBrickSiding.bench.name=Ghế gạch Nether
+tile.fcNetherBrickSiding.fence.name=Tường gạch Nether
+tile.fcNetherBrickMoulding.name=Trang trí
+tile.fcNetherBrickMoulding.moulding.name=Phào chỉ gạch Nether
+tile.fcNetherBrickMoulding.column.name=Cột gạch Nether
+tile.fcNetherBrickMoulding.pedestal.name=Bệ gạch Nether
+tile.fcNetherBrickMoulding.table.name=Bàn gạch Nether
+
+tile.fcBrickSiding.name=Mặt và góc
+tile.fcBrickSiding.siding.name=Ốp gạch
+tile.fcBrickSiding.corner.name=Phào góc trang trí gạch
+tile.fcBrickSiding.bench.name=Ghế gạch
+tile.fcBrickSiding.fence.name=Hàng rào gạch
+tile.fcBrickMoulding.name=Trang trí
+tile.fcBrickMoulding.moulding.name=Phào chỉ gạch
+tile.fcBrickMoulding.column.name=Cột gạch
+tile.fcBrickMoulding.pedestal.name=Bệ gạch
+tile.fcBrickMoulding.table.name=Bàn gạch
+
+tile.fcStoneSiding.stone.name=Mặt và góc
+tile.fcStoneSiding.stone.siding.name=Ốp đá
+tile.fcStoneSiding.stone.corner.name=Phào góc trang trí đá
+tile.fcStoneSiding.stone.bench.name=Ghế đá
+tile.fcStoneSiding.stone.fence.name=Hàng rào đá
+tile.fcStoneMoulding.stone.name=Trang trí
+tile.fcStoneMoulding.stone.moulding.name=Phào chỉ đá
+tile.fcStoneMoulding.stone.column.name=Cột đá
+tile.fcStoneMoulding.stone.pedestal.name=Bệ đá
+tile.fcStoneMoulding.stone.table.name=Bàn đá
+
+tile.fcStoneSiding.deepslate.name=Mặt và góc
+tile.fcStoneSiding.deepslate.siding.name=Ốp đá bảng sâu
+tile.fcStoneSiding.deepslate.corner.name=Phào góc trang trí đá bảng sâu
+tile.fcStoneSiding.deepslate.bench.name=Ghế đá bảng sâu
+tile.fcStoneSiding.deepslate.fence.name=Tường đá bảng sâu
+tile.fcStoneMoulding.deepslate.name=Trang trí
+tile.fcStoneMoulding.deepslate.moulding.name=Phào chỉ đá bảng sâu
+tile.fcStoneMoulding.deepslate.column.name=Cột đá bảng sâu
+tile.fcStoneMoulding.deepslate.pedestal.name=Bệ đá bảng sâu
+tile.fcStoneMoulding.deepslate.table.name=Bàn đá bảng sâu
+
+tile.fcStoneSiding.blackstone.name=Mặt và góc
+tile.fcStoneSiding.blackstone.siding.name=Ốp đá đen
+tile.fcStoneSiding.blackstone.corner.name=Phào góc trang trí đá đen
+tile.fcStoneSiding.blackstone.bench.name=Ghế đá đen
+tile.fcStoneSiding.blackstone.fence.name=Tường đá đen
+tile.fcStoneMoulding.blackstone.name=Trang trí
+tile.fcStoneMoulding.blackstone.moulding.name=Phào chỉ đá đen
+tile.fcStoneMoulding.blackstone.column.name=Cột đá đen
+tile.fcStoneMoulding.blackstone.pedestal.name=Bệ đá đen
+tile.fcStoneMoulding.blackstone.table.name=Bàn đá đen
+
+tile.fcSandstoneSiding.name=Mặt và góc
+tile.fcSandstoneSiding.siding.name=Ốp sa thạch
+tile.fcSandstoneSiding.corner.name=Phào góc trang trí sa thạch
+tile.fcSandstoneSiding.bench.name=Ghế sa thạch
+tile.fcSandstoneSiding.fence.name=Hàng rào sa thạch
+tile.fcSandstoneMoulding.name=Trang trí
+tile.fcSandstoneMoulding.moulding.name=Phào chỉ sa thạch
+tile.fcSandstoneMoulding.column.name=Cột sa thạch
+tile.fcSandstoneMoulding.pedestal.name=Bệ sa thạch
+tile.fcSandstoneMoulding.table.name=Bàn sa thạch
+
+tile.fcBlockAestheticOpaqueEarth.name=Khối đất trang trí
+tile.fcBlockAestheticOpaqueEarth.blight.name=Khối cỏ bạc lá
+tile.fcBlockAestheticOpaqueEarth.blight3.name=Khối cỏ bạc lá giai đoạn cuối
+tile.fcBlockAestheticOpaqueEarth.packed.name=Đất nén
+tile.fcBlockAestheticOpaqueEarth.dung.name=Khối cứt
+tile.fcBlockSlabDirt.name=Phiến đất
+tile.fcBlockSlabDirt.grass.name=Phiến cỏ cũ
+tile.fcBlockSlabDirt.packed.name=Phiến đất nén
+tile.fcBlockSlabFalling.name=Phiến sỏi
+tile.fcBlockSlabFalling.sand.name=Phiến cát
+tile.fcBlockThatch.name=Bó tranh
+tile.fcBlockDiamondIngot.name=Khối thỏi kim cương
+tile.fcBlockCarvedPumpkin.name=Bí ngô được khắc
+tile.fcBlockJackOLantern.name=Đèn bí ngô
+
+# Vanilla Blocks Renamed
+
+tile.fence.name=Hàng rào gỗ sồi cũ
+tile.tnt.name=Thùng thuốc súng
+tile.mushroom.name=Nấm cũ
+tile.anvil.intact.name=Dead Weight
+tile.anvil.slightlyDamaged.name=Dead Weight
+tile.anvil.veryDamaged.name=Dead Weight
+tile.stairsQuartz.name=Cầu thang thạch anh
+tile.stoneSlab.quartz.name=Phiến thạch anh
+tile.quartzBlock.default.name=Khối thạch anh
+tile.quartzBlock.chiseled.name=Thạch anh được đục
+tile.quartzBlock.lines.name=Cột thạch anh
+tile.pumpkin.name=Bí ngô được khắc
+tile.wood.blood.name=Ván huyết mộc
+tile.woodSlab.blood.name=Phiến huyết mộc
+tile.bed.name=Giường cũ
+
+tile.litpumpkin.name=Đèn bí ngô cũ
+tile.torch.name=Đuốc cũ
+
+tile.stone.stone.name=Đá
+tile.stone.deepslate.name=Đá bảng sâu
+tile.stone.blackstone.name=Đá đen
+
+tile.stonebrick.stone.name=Đá cuội
+tile.stonebrick.deepslate.name=Đá cuội bảng sâu
+tile.stonebrick.blackstone.name=Đá cuội đen
+
+tile.stoneMoss.stone.name=Đá cuội phủ rêu
+tile.stoneMoss.deepslate.name=Đá cuội bảng sâu phủ rêu
+tile.stoneMoss.blackstone.name=Đá cuội đen phủ rêu
+
+tile.stonebricksmooth.stone.name=Gạch đá
+tile.stonebricksmooth.stone.mossy.name=Gạch đá phủ rêu
+tile.stonebricksmooth.stone.cracked.name=Gạch đá không vữa
+tile.stonebricksmooth.stone.chiseled.name=Gạch đá được đục
+
+tile.stonebricksmooth.deepslate.name=Gạch đá bảng sâu
+tile.stonebricksmooth.deepslate.mossy.name=Gạch đá bảng sâu phủ rêu
+tile.stonebricksmooth.deepslate.cracked.name=Gạch đá bảng sâu không vữa
+tile.stonebricksmooth.deepslate.chiseled.name=Gạch đá bảng sâu được đục
+
+tile.stonebricksmooth.blackstone.name=Gạch đá đen
+tile.stonebricksmooth.blackstone.mossy.name=Gạch đá đen phủ rêu
+tile.stonebricksmooth.blackstone.cracked.name=Gạch đá đen không vữa
+tile.stonebricksmooth.blackstone.chiseled.name=Gạch đá đen được đục
+
+tile.cobblestoneSlab.stone.name=Phiến đá cuội
+tile.cobblestoneSlab.deepslate.name=Phiến đá cuội bảng sâu
+tile.cobblestoneSlab.blackstone.name=Phiến đá cuội đen
+
+tile.stoneBrickSlab.stone.name=Phiến gạch đá
+tile.stoneBrickSlab.deepslate.name=Phiến gạch đá bảng sâu
+tile.stoneBrickSlab.blackstone.name=Phiến gạch đá đen
+
+tile.stoneSlab.stone.name=Phiến đá
+tile.stoneSlab.deepslate.name=Phiến đá bảng sâu
+tile.stoneSlab.blackstone.name=Phiến đá đen
+
+tile.sapling.oak.name=Chồi cây sồi cũ
+tile.sapling.spruce.name=Chồi cây vân sam cũ
+tile.sapling.birch.name=Chồi cây bạch dương cũ
+tile.sapling.jungle.name=Chồi cây rừng cũ
+
+tile.sapling.oakMature.name=Chồi cây sồi già cũ
+tile.sapling.spruceMature.name=Chồi cây vân sam già cũ
+tile.sapling.birchMature.name=Chồi cây bạch dương cũ
+tile.sapling.jungleMature.name=Chồi cây rừng cũ
+
+tile.netherrack.name=Netherrack
+tile.portal.name=Cổng Nether
+
+tile.ice.natural.name=Natural Ice
+tile.ice.artificial.name=Ice
+
+# BTW Items
+
+item.fcItemBucketCement.name=Xô xi măng
+item.fcItemWolfChopRaw.name=Thịt chó sống
+item.fcItemWolfChopCooked.name=Thịt chó chín
+item.fcItemNethercoal.name=Than Nether
+item.fcItemSeedsHemp.name=Hạt giống cây gai dầu
+item.fcItemHemp.name=Cây gai dầu
+item.fcItemGear.name=Bánh răng
+item.fcItemFlour.name=Bột mì
+item.fcItemFibersHemp.name=Sợi cây gai dầu
+item.fcItemLeatherScoured.name=Da được làm sạch
+item.fcItemDonut.name=Donut
+item.fcItemRope.name=Dây thừng
+item.fcItemSlats.name=Gỗ tiêu âm cũ
+item.fcItemDung.name=Cứt chó
+item.fcItemWaterWheel.name=Bánh xe nước
+item.fcItemBladeWindMill.name=Cánh buồm
+item.fcItemWindMill.name=Cánh quạt gió
+item.fcItempFabric.name=Vải
+item.fcItemGrate.name=Khung lưới cũ
+item.fcItemWicker.name=Khung đan mía cũ
+item.fcItemLeatherTanned.name=Da thuộc
+item.fcItemStrap.name=Dây đeo
+item.fcItemBelt.name=Đai
+item.fcItemFoulFood.name=Đồ ăn dính cứt
+item.fcItemBladeWood.name=Cánh quạt nước
+item.fcItemGlue.name=Keo
+item.fcItemTallow.name=Mỡ
+item.fcItemHaft.name=Cán
+item.fcItemIngotSteel.name=Thỏi thép ngục hồn
+item.fcItemPickAxeRefined.name=Cuốc chim thép ngục hồn
+item.fcItemShovelRefined.name=Xẻng thép ngục hồn
+item.fcItemHoeRefined.name=Cuốc thép ngục hồn
+item.fcItemAxeBattle.name=Rìu chiến
+item.fcItemSwordRefined.name=Kiếm thép ngục hồn
+item.fcItemNetherrackGround.name=Vụn Netherrack
+item.fcItemDustHellfire.name=Bụi hỏa ngục
+item.fcItemConcentratedHellfire.name=Bụi hỏa ngục cô đặc
+item.fcItemArmorPlate.name=Tấm giáp thép
+item.fcItemHelmetPlate.name=Nón thép ngục hồn
+item.fcItemChestplatePlate.name=Áo thép ngục hồn
+item.fcItemLeggingsPlate.name=Quần thép ngục hồn
+item.fcItemBootsPlate.name=Ủng thép ngục hồn
+item.fcItemBowComposite.name=Cung liên hợp
+item.fcItemArrowheadBroadhead.name=Mũi thép
+item.fcItemArrowBroadhead.name=Mũi tên thép
+item.fcItemDustCoal.name=Nắm bụi than
+item.fcItemPadding.name=Miếng đệm
+item.fcItemFilament.name=Dây tóc
+item.fcItemRedstoneEye.name=Mắt Redstone
+item.fcItemUrn.name=Cái lọ
+item.fcItemUrnSoul.name=Lọ linh hồn
+item.fcItemEggPoached.name=Trứng chần
+item.fcItemPotash.name=Muối Kali
+item.fcItemSoap.name=Xà phòng
+item.fcItemDustSaw.name=Mạt cưa
+item.fcItemGimpHelm.name=Mặt nạ Gimp
+item.fcItemGimpChest.name=Áo Gimp
+item.fcItemGimpLeggings.name=Quần Gimp
+item.fcItemGimpBoots.name=Ủng Gimp
+item.fcItemDynamite.name=Mìn Dynamite
+item.fcItemHarnessBreeding.name=Dụng cụ nhân giống
+item.fcItemDustSoul.name=Bụi linh hồn
+item.fcItemMattock.name=Cuốc hai đầu
+item.fcItemHatchetRefined.name=Rìu thép ngục hồn
+item.fcItemNetherSludge.name=Bùn Nether
+item.fcItemBrickNether.name=Gạch Nether
+item.fcItemTuningFork.name=Âm thoa
+item.fcItemScrollArcane.name=Cuộn giấy huyền bí
+item.fcItemCandle.name=Nến
+item.fcItemSporesNetherGroth.name=Bào tử Nether Groth
+item.fcItemMould.name=Khuôn
+item.fcItemCanvas.name=Bức tranh
+item.fcItemKibble.name=Đồ ăn cho chó
+item.fcItemEggRaw.name=Trứng sống
+item.fcItemEggFried.name=Trứng chiên
+item.fcItemScrew.name=Con vít
+item.fcItemArrowRotten.name=Mũi tên mục nát
+item.fcItemOcularOfEnder.name=Ống kính Ender
+item.fcItemEnderSpectacles.name=Kính mắt Ender
+item.fcItemStake.name=Cọc
+item.fcItemBrimstone.name=Lưu huỳnh
+item.fcItemNitre.name=Đá tiêu
+item.fcItemElement.name=Mâm nhiệt
+item.fcItemFuse.name=Ngòi nổ
+item.fcItemBlastingOil.name=Dầu nổ
+item.fcItemWindMillVertical.name=Quạt lồng sóc
+item.fcItemPotatoBoiled.name=Khoai tây luộc
+item.fcItemMuttonRaw.name=Thịt cừu sống
+item.fcItemMuttonCooked.name=Thịt cừu chín
+item.fcItemWitchWart.name=Bướu phù thủy
+item.fcItemCarrotCooked.name=Cà rốt chín
+item.fcItemSandwichTasty.name=Sandwich thơm ngon
+item.fcItemSteakAndPotatoes.name=Bít tết và khoai tây
+item.fcItemHamAndEggs.name=Thịt nguội với trứng
+item.fcItemDinnerSteak.name=Mâm thịt bò
+item.fcItemDinnerPork.name=Mâm thịt heo
+item.fcItemDinnerWolf.name=Cầy tơ 7 món
+item.fcItemKebabRaw.name=Thịt xiên sống
+item.fcItemKebabCooked.name=Thịt xiên chín
+item.fcItemSoupChicken.name=Canh thịt gà
+item.fcItemChowder.name=Súp cá
+item.fcItemStewHearty.name=Món hầm thịnh soạn
+item.fcItemMushroomRed.name=Nấm
+item.fcItemMushroomBrown.name=Nấm
+item.fcItemNuggetIron.name=Hạt sắt
+item.fcItemMail.name=Tấm xích
+item.fcItemMysteryMeatRaw.name=Thịt lạ
+item.fcItemMysteryMeatCooked.name=Thịt lạ chín
+item.fcItemMushroomOmletRaw.name=Trứng ốp lết nấm chưa nấu
+item.fcItemMushroomOmletCooked.name=Trứng ốp lết nấm
+item.fcItemEggScrambledRaw.name=Trứng bác chưa nấu
+item.fcItemEggScrambledCooked.name=Trứng bác
+item.fcItemCreeperOysters.name=Hòn Creeper
+item.fcItemWoolHelm.name=Nón len
+item.fcItemWoolChest.name=Áo len
+item.fcItemWoolLeggings.name=Quần len
+item.fcItemWoolBoots.name=Vớ len
+item.fcItemPaddedHelm.name=Nón đệm
+item.fcItemPaddedChest.name=Áo đệm
+item.fcItemPaddedLeggings.name=Quần đệm
+item.fcItemPaddedBoots.name=Ủng đệm
+item.fcItemTannedHelm.name=Nón da thuộc
+item.fcItemTannedChest.name=Áo da thuộc
+item.fcItemTannedLeggings.name=Quần da thuộc
+item.fcItemTannedBoots.name=Ủng da thuộc
+item.fcItemIngotDiamond.name=Thỏi kim cương
+item.fcItemLeatherCut.name=Mảnh da
+item.fcItemLeatherTannedCut.name=Mảnh da thuộc
+item.fcItemLeatherScouredCut.name=Mảnh da được làm sạch
+item.fcItemFishingRodBaited.name=Cần câu có mồi
+item.fcItemPileDirt.name=Nắm đất
+item.fcItemPileSand.name=Nắm cát
+item.fcItemPileGravel.name=Nắm sỏi
+item.fcItemBatWing.name=Cánh dơi
+item.fcItemDungGolden.name=Cứt dát vàng
+item.fcItemPileSoulSand.name=Nắm cát linh hồn
+item.fcItemPileEmerald.name=Vụn ngọc lục bảo
+item.fcItemRedstoneLatch.name=Chốt Redstone
+item.fcItemNuggetSteel.name=Hạt thép ngục hồn
+item.fcItemWool.name=Cuộn len
+item.fcItemCocoaBeans.name=Hạt cacao
+item.fcItemChocolate.name=Sô-cô-la
+item.fcItemBucketChocolateMilk.name=Sữa sô-cô-la
+item.fcItemSoulFlux.name=Giọt chảy linh hồn
+item.fcItemEnderSlag.name=Xỉ Ender
+item.fcItemPastryUncookedCake.name=Bột bánh ngọt
+item.fcItemPastryUncookedCookies.name=Bột bánh quy
+item.fcItemPastryUncookedPumpkinPie.name=Bánh bí ngô sống
+item.fcItemMysteriousGland.name=Tuyến mực
+item.fcItemBeastLiverRaw.name=Gan quái thú
+item.fcItemBeastLiverCooked.name=Gan chín
+item.fcItemAncientProphecy.name=Mảnh lời tiên tri
+item.fcItemStumpRemover.name=Thuốc diệt gốc cây
+item.fcItemChiselWood.name=Gậy chuốc nhọn
+
+item.fcItemStone.stone.name=Đá dăm
+item.fcItemStone.deepslate.name=Đá dăm bảng sâu
+item.fcItemStone.blackstone.name=Đá dăm đen
+
+item.fcItemChiselStone.name=Đá mài nhọn
+item.fcItemClub.name=Côn gỗ
+item.fcItemFireStarterSticks.name=Cày lửa
+item.fcItemFireStarterBow.name=Khoan cần cung
+item.fcItemChunkIronOre.name=Mẩu sắt thô
+item.fcItemPileIronOre.name=Nắm vụn sắt thô
+item.fcItemChiselIron.name=Cái đục sắt
+item.fcItemChunkGoldOre.name=Mẩu vàng thô
+item.fcItemPileGoldOre.name=Nắm vụn vàng
+item.fcItemWickerPiece.name=Tấm đan mía
+item.fcItemKnittingNeedles.name=Kim đan len
+item.fcItemKnitting.name=Kim đan đã xỏ len
+item.fcItemWoolKnit.name=Mảnh len đan
+item.fcItemClubBone.name=Côn xương
+item.fcItemMeatCured.name=Thịt khô
+item.fcItemMetalFragment.name=Mảnh kim loại
+item.fcItemPileClay.name=Nắm đất sét
+item.fcItemMeatBurned.name=Thịt bị khét
+item.fcItemChickenFeed.name=Cám gia cầm
+item.fcItemFishHookBone.name=Móc câu
+item.fcItemCarvingBone.name=Móc câu mài dở
+
+item.fcItemBrickStone.stone.name=Gạch đá
+item.fcItemBrickStone.deepslate.name=Gạch đá bảng sâu
+item.fcItemBrickStone.blackstone.name=Gạch đá đen
+
+item.fcItemWickerWeaving.name=Tấm mía đang được đan
+item.fcItemWheat.name=Lúa mì
+item.fcItemWheatSeeds.name=Hạt lúa mì
+item.fcItemBreadDough.name=Bột bánh mì
+item.fcItemStraw.name=Rơm rạ
+item.fcItemBrickUnfired.name=Wet Brick
+item.fcItemBrickCrudeUnfired.name=Gạch ướt
+item.fcItemBrickNetherUnfired.name=Gạch Nether ướt
+item.fcItemChiselDiamond.name=Cái đục kim cương
+item.fcItemShearsDiamond.name=Kéo kim cương
+item.fcItemReedRoots.name=Rễ cây mía
+item.fcItemCarrot.name=Cà rốt
+item.fcItemCarrotSeeds.name=Hạt giống cà rốt
+item.fcItemDiamondPlate.name=Tấm giáp kim cương
+item.fcItemMelonMashed.name=Dưa hấu bị dập
+item.fcItemBedroll.name=Túi ngủ
+item.fcItemCorpseEye.name=Mắt xác chết
+item.fcItemTangledWeb.name=Cuộn dây rối
+item.fcItemWebUntangling.name=Cuộn dây đang được gỡ rối
+item.fcItemSinew.name=Sợi gân
+item.fcItemSinewExtractingBeef.name=Sợi gân tách dở
+item.fcItemSinewExtractingWolf.name=Sợi gân tách dở
+item.fcItemRawCheval.name=Thịt ngựa sống
+item.fcItemCookedCheval.name=Thịt ngựa chín
+
+# BTW Complex Items
+
+item.fcItemBark.name=Vỏ cây
+item.fcItemBark.oak.name=Vỏ cây sồi
+item.fcItemBark.spruce.name=Vỏ cây vân sam
+item.fcItemBark.birch.name=Vỏ cây bạch dương
+item.fcItemBark.jungle.name=Vỏ cây rừng
+item.fcItemBark.bloodwood.name=Vỏ cây huyết mộc
+
+# Vanilla Items Renamed
+
+item.cauldron.name=Bồn chứa
+item.mushroomStew.name=Kem nấm
+item.enchantedBook.name=Bản thảo cổ xưa
+item.fireworks.name=Pháo hoa
+item.stick.name=Gậy
+item.fermentedSpiderEye.name=Túi độc
+
+item.skull.wither.name=Sọ cổ xưa
+item.skull.infused.name=Sọ vong hồn
+item.wheat.name=Lúa mì cũ
+item.seeds.name=Hạt giống cũ
+item.carrots.name=Cà rốt cũ
+item.shears.name=Kéo sắt
+
+# BTW Colored items
+
+wool.black.name=Cuộn len đen
+wool.red.name=Cuộn len đỏ
+wool.green.name=Cuộn len xanh lá cây
+wool.brown.name=Cuộn len nâu
+wool.blue.name=Cuộn len xanh nước biển
+wool.purple.name=Cuộn len tím
+wool.cyan.name=Cuộn len lục lam
+wool.lightGray.name=Cuộn len xám nhạt
+wool.gray.name=Cuộn len xám
+wool.pink.name=Cuộn len hồng
+wool.lime.name=Cuộn len xanh lá mạ
+wool.yellow.name=Cuộn len vàng
+wool.lightBlue.name=Cuộn len xanh nhạt
+wool.magenta.name=Cuộn Cuộn len đỏ sậm
+wool.orange.name=Cuộn len cam
+wool.white.name=Cuộn len trắng
+
+woolSlab.black.name=Phiến len đen
+woolSlab.red.name=Phiến len đỏ
+woolSlab.green.name=Phiến len xanh lá cây
+woolSlab.brown.name=Phiến len nâu
+woolSlab.blue.name=Phiến len xanh nước biển
+woolSlab.purple.name=Phiến len tím
+woolSlab.cyan.name=Phiến len lục lam
+woolSlab.lightGray.name=Phiến len xám nhạt
+woolSlab.gray.name=Phiến len xám
+woolSlab.pink.name=Phiến len hồng
+woolSlab.lime.name=Phiến len xanh lá mạ
+woolSlab.yellow.name=Phiến len vàng
+woolSlab.lightBlue.name=Phiến len xanh nhạt
+woolSlab.magenta.name=Phiến len đỏ sậm
+woolSlab.orange.name=Phiến len cam
+woolSlab.white.name=Phiến len trắng
+
+woolKnit.black.name=Vải len đen
+woolKnit.red.name=Vải len đỏ
+woolKnit.green.name=Vải len xanh lá cây
+woolKnit.brown.name=Vải len nâu
+woolKnit.blue.name=Vải len xanh nước biển
+woolKnit.purple.name=Vải len tím
+woolKnit.cyan.name=Vải len lục lam
+woolKnit.lightGray.name=Vải len xám nhạt
+woolKnit.gray.name=Vải len xám
+woolKnit.pink.name=Vải len hồng
+woolKnit.lime.name=Vải len xanh lá mạ
+woolKnit.yellow.name=Vải len vàng
+woolKnit.lightBlue.name=Vải len xanh nhạt
+woolKnit.magenta.name=Vải len đỏ sậm
+woolKnit.orange.name=Vải len cam
+woolKnit.white.name=Vải len trắng
+
+candle.black.name=Nến đen
+candle.red.name=Nến đỏ
+candle.green.name=Nến xanh lá cây
+candle.brown.name=Nến nâu
+candle.blue.name=Nến xanh nước biển
+candle.purple.name=Nến tím
+candle.cyan.name=Nến lục lam
+candle.lightGray.name=Nến xám nhạt
+candle.gray.name=Nến xám
+candle.pink.name=Nến hồng
+candle.lime.name=Nến xanh lá mạ
+candle.yellow.name=Nến vàng
+candle.lightBlue.name=Nến xanh nhạt
+candle.magenta.name=Nến đỏ sậm
+candle.orange.name=Nến cam
+candle.white.name=Nến trắng
+
+vase.black.name=Bình đen
+vase.red.name=Bình đỏ
+vase.green.name=Bình xanh lá cây
+vase.brown.name=Bình nâu
+vase.blue.name=Bình xanh nước biển
+vase.purple.name=Bình tím
+vase.cyan.name=Bình lục lam
+vase.lightGray.name=Bình xám nhạt
+vase.gray.name=Bình xám
+vase.pink.name=Bình hồng
+vase.lime.name=Bình xanh lá mạ
+vase.yellow.name=Bình vàng
+vase.lightBlue.name=Bình xanh nhạt
+vase.magenta.name=Bình đỏ sậm
+vase.orange.name=Bình cam
+vase.white.name=Bình trắng
+
+# BTW Potions
+
+potion.fcFortune=Gia Tài
+potion.fcLooting=Nhặt
+potion.fcTrueSight=Thị thực
+potion.hunger=Ngộ độc thực phẩm
+
+# Container
+
+container.fcFurnaceBrick=Lò gạch
+container.fcHamper=Giỏ mía lớn
+container.fcMillStone=Cối đá
+
+# Entities
+
+entity.fcDireWolf.name=Quái thú
+entity.fcJungleSpider.name=Nhện rừng
+entity.WitherSkeleton.name=Bộ xương khô héo
+entity.addonVillagerFarmer.name=Nông dân
+entity.addonVillagerBlacksmith.name=Thợ rèn
+entity.addonVillagerButcher.name=Mổ thịt
+entity.addonVillagerLibrarian.name=Thủ thư
+entity.addonVillagerPriest.name=Mục sư
+
+# KeyBindings
+
+key.special=Alternative Use
+
+# Chat Messages
+
+item.fcItemWaterWheel.placementObstructed=Có cái gì đó đang làm nghẽn bánh xe nước, hoặc là do bạn.
+item.fcItemWaterWheel.notEnoughRoom=Không đủ không gian để đặt bánh xe nước.
+message.windMill.placementObstructed=Không thể đặt cánh quạt vì có gì đó đang ở quanh khu vực này. Hoặc có thể đó là bạn.
+message.windMill.notEnoughRoom=Không đủ không gian cho cánh quạt (Nó TO lắm đấy!)
+item.fcItemWindMillVertical.tooFewAxles=Trục không đủ dài để đặt cánh quạt.
+tile.beacon.playerBound=Bạn đã ràng buộc bản thân vào đèn hiệu
+tile.beacon.invalid=Vị trí hồi sinh của bạn không hợp lệ.
+tile.beacon.notPresent=Chiếc đèn hiệu bạn ràng buộc bản thân vào đã không còn nữa
+tile.beacon.tooFar=Chiếc đèn hiệu bạn ràng buộc bản thân vào ở quá xa
+tile.beacon.obstructed=Có gì đó che khuất chiếc đèn hiệu bạn ràng buộc bản thân vào
+tile.beacon.unknown=Hồi sinh thất bại vì lý do bí ẩn nào đó
+tile.bed.sleepImpossible=Bạn sẽ gặp rắc rối nếu nghỉ ngơi ở đây
+tile.fcBlockHandCrank.playerExhausted=Bạn quá mệt mỏi để lao động chân tay
+item.enchantedBook.languageUnfamiliar=Bạn không thể đọc được loại ngôn ngữ này
+message.death.newSpawn=Bạn đã bị gió cuốn đi...
+message.death.newSpawnNearPlayers=Bạn đã bị gió cuốn đi, nhưng hình như có ai đó ở gần bạn...
+message.death.oldSpawn=Chỗ này trông quen quen...
+message.worldSpawn.failed=Hạt giống này không thể tạo điểm spawn hợp lệ. Tiếp tục chơi có thể gặp lỗi.
+chat.type.local=[Local] <%s> %s
+chat.type.global=[Global] <%s> %s
+
+# Death Messages
+
+death.attack.fcSaw=%1$s đã tan xác
+death.attack.fcChoppingBlock=%1$s đã lên thớt
+death.attack.fcGroth=%1$s đã trở thành một với Groth
+death.attack.fcGrothSpores=%1$s đã không chịu nổi Groth
+death.attack.fcMelon=%1$s đã bị dưa hấu đè bẹp
+death.attack.fcPumpkin=%1$s trung thành với bí ngô… cho tới chết
+death.attack.fcGloom=%1$s đã bị bóng tối nuốt chửng
+
+# Status effects
+
+status.invalid=Không hợp lệ
+
+status.gloom.gloom=U ám
+status.gloom.dread=Sợ hãi
+status.gloom.terror=Kinh sợ
+
+status.hunger.peckish=Đói nhẹ
+status.hunger.hungry=Đói
+status.hunger.famished=Đói lả
+status.hunger.emaciated=Rất đói
+status.hunger.starving=Dần chết đói
+
+status.health.hurt=Trầy xước
+status.health.injured=Bị thương
+status.health.wounded=Chấn thương
+status.health.crippled=Tàn tạ
+status.health.dying=Chết mòn
+
+status.fat.plump=Đầy dặn
+status.fat.chubby=Mũm mĩm
+status.fat.fat=Mập
+status.fat.obese=Béo phì
+
+# Commands
+
+commands.difficulty.usage=/difficulty [độ khó]
+commands.difficulty.unknown=Độ khó không hợp lệ
+commands.difficulty.current=Độ khó hiện tại là
+commands.difficulty.set=Điều chỉnh độ khó
+
+commands.global.usage=/g or /global <your message ...>
+
+command.serverLoc.current=Vị trí hiện tại
+command.serverLoc.usage=/loc
+
+command.time.currentWorldTime=Thời gian hiện tại ở Overworld
+command.time.totalWorldTime=Tổng thời gian ở Overworld
+
+# Menu strings
+
+selectWorld.difficulty=Độ khó
+selectWorld.gameMode=Mode:
+selectWorld.gameMode.survival=Sinh tồn siêu khó
+selectWorld.gameMode.survival.line1=Hồi sinh ở khu vực ngẫu nhiên khi bạn
+selectWorld.gameMode.survival.line2=chết. Hãy tìm cho mình chiếc la bàn để
+selectWorld.gameMode.survival.line3=quay trở về khu vực hồi sinh.
+selectWorld.gameMode.creative.line1=Vô hạn tài nguyên, bay thoải mái và phá
+selectWorld.gameMode.creative.line2=hủy khối ngay tức khắc.
+selectWorld.gameMode.creative.line3=
+selectWorld.gameMode.survivalClassic=Sinh tồn
+selectWorld.gameMode.survivalClassic.line1=Sinh tồn minecraft vanilla.
+selectWorld.gameMode.survivalClassic.line2=Hồi sinh tại điểm hồi sinh lúc
+selectWorld.gameMode.survivalClassic.line3=bạn chết (vì bạn đang chơi vanilla).
+
+deathScreen.respawnRandomly=Hồi sinh ngẫu nhiên
+deathScreen.respawnNearby=Hồi sinh gần đây
+
+options.lock_difficulty=Khóa độ khó
+options.lock_difficulty.warning=Bạn có chắc chắn muốn khóa độ khó hay không? Bạn sẽ không bao giờ thay đổi độ khó được nữa.
+
+difficulty.btw.standard.name=Bình thường
+difficulty.btw.standard.description=Độ khó sinh tồn tiêu chuẩn dành cho
+difficulty.btw.standard.description2=những người chơi kinh nghiệm hoặc những
+difficulty.btw.standard.description3=người muốn thách thức bản thân.
+
+difficulty.btw.relaxed.name=Nhẹ nhàng
+difficulty.btw.relaxed.description=Chế độ chơi nhẹ nhàng hơn dành cho
+difficulty.btw.relaxed.description2=người mới chơi hoặc những người muốn
+difficulty.btw.relaxed.description3=giảm đi áp lực khi sinh tồn.
+
+difficulty.btw.hostile.name=Khắc nghiệt
+difficulty.btw.hostile.description=Chế độ chơi khắc nghiệt hơn.
+difficulty.btw.hostile.description2=Dành cho những người người muốn trải
+difficulty.btw.hostile.description3=nghiệm sinh tồn của mình áp lực hơn.
+
+difficulty.hostile_restricted.name=Khắc nghiệt
+
+difficulty.btw.classic.name=Cổ điển
+difficulty.btw.classic.description=Trải nghiệm BTW cổ điển.
+difficulty.btw.classic.description2=Đưa BTW về những giá trị ban đầu.
+difficulty.btw.classic.description3=Không quá nhiều thử thách trong sinh tồn.
+
+# Attributes
+
+attribute.name.generic.armor=Áo giáp
+attribute.name.generic.armorWeight=Khối lượng giáp
+attribute.name.generic.hungerCost=Hao tổn năng lượng
+
+attribute.name.generic.hungerCost.tiny=Rất ít
+attribute.name.generic.hungerCost.small=Ít
+attribute.name.generic.hungerCost.medium=Trung bình
+attribute.name.generic.hungerCost.large=Nhiều
+
+# Achievements
+
+achievementtab.getting_started=Khởi đầu
+achievementtab.iron_age=Thời kì đồ sắt
+achievementtab.automation=Tự động hóa
+achievementtab.end_game=Hồi kết
+achievementtab.extras=Ngoại truyện
+
+achievement.btw.question_mark=Thành tựu ẩn
+achievement.btw.question_mark.desc=Cách mở khóa thành tựu này hoàn toàn là một bí ẩn.
+
+achievement.btw.find_reeds=Cơn sốt đường
+achievement.btw.find_reeds.desc=Tìm được cây mía đường ở bờ Sông, Đầm lầy hoặc Rừng nhiệt đới.
+
+achievement.btw.craft_wicker=Để tôi đan đi!
+achievement.btw.craft_wicker.desc=Đan các cây mía lại thành các tấm đan.
+
+achievement.btw.craft_basket=Xách giỏ đi chơi
+achievement.btw.craft_basket.desc=Chế tạo cái giỏ từ các tấm đan.
+
+achievement.btw.find_bones=Trúng mánh
+achievement.btw.find_bones.desc=Nhặt được xương.
+
+achievement.btw.craft_bone_club=Đi đập đê~!
+achievement.btw.craft_bone_club.desc=Một với một là PHANG!
+
+achievement.btw.killed_skeleton_with_club=Anh em chém nhau đằng sống
+achievement.btw.killed_skeleton_with_club.desc=Giết một bộ xương bằng cây côn xương.
+
+achievement.btw.craft_bone_hook=Trùm móc
+achievement.btw.craft_bone_hook.desc=Bẻ Xương làm Móc câu.
+
+achievement.btw.bait_fishing_rod=Công việc tanh tưởi
+achievement.btw.bait_fishing_rod.desc=Móc mồi lên cần câu bằng cách sử dụng cần câu khi mồi đang ở hotbar.
+
+achievement.btw.find_shaft=Gậy gộc đi trước
+achievement.btw.find_shaft.desc=Đấm cây tiếp đi bạn.
+
+achievement.btw.craft_wooden_club=Vũ khí đầu tay.
+achievement.btw.craft_wooden_club.desc=Có một cây Côn gỗ.
+
+achievement.btw.craft_fire_plough=Cọ nhanh, cọ mạnh, cọ bùng lửa
+achievement.btw.craft_fire_plough.desc=Có Cày lửa để đánh lửa.
+
+achievement.btw.craft_campfire=BBQ thôi
+achievement.btw.craft_campfire.desc=Có Lửa trại để nướng thịt.
+
+achievement.btw.craft_pointy_stick=Đừng có chọc vào mắt
+achievement.btw.craft_pointy_stick.desc=Chuốc nhọn cây gậy của bạn.
+
+achievement.btw.cook_meat=Nấu zì vậy ní?
+achievement.btw.cook_meat.desc=Nướng thịt bằng Lửa trại hoặc Lò gạch.
+
+achievement.btw.craft_knitting_needles=Nắng đan mía. Mưa thía? Đan len
+achievement.btw.craft_knitting_needles.desc=Dùng Gậy chuốc nhọn để làm kim đan len.
+
+achievement.btw.craft_wool_knit=Mềm mại và ấm áp
+achievement.btw.craft_wool_knit.desc=Đan các tấm Vải len.
+
+achievement.btw.equip_wool_armor=Ăn no mặc ấm
+achievement.btw.equip_wool_armor.desc=Mặc quần áo làm từ Vải len.
+
+achievement.btw.craft_sharp_stone=Người tiền sử
+achievement.btw.craft_sharp_stone.desc=Có được Đá Mài Nhọn.
+
+achievement.btw.find_string=Tình huống rối rắm
+achievement.btw.find_string.desc=Lấy Sợi chỉ từ Nhện.
+
+achievement.btw.craft_bedroll=Chăn ấm đệm êm
+achievement.btw.craft_bedroll.desc=Có Túi ngủ để ngủ qua đêm.
+
+achievement.btw.craft_stone_shovel=Thích thì xúc
+achievement.btw.craft_stone_shovel.desc=Có một cái Xẻng đá.
+
+achievement.btw.craft_wet_bricks=Định hình tương lai
+achievement.btw.craft_wet_bricks.desc=Nặn Đất sét thành gạch.
+
+achievement.btw.craft_stone_axe=Có lẽ bạn cần được bồi BỔ
+achievement.btw.craft_stone_axe.desc=Có được một cây Rìu đá.
+
+achievement.btw.craft_bow_drill=Khoan! Khoan? Khoan?!
+achievement.btw.craft_bow_drill.desc=Có Khoan cần cung để đánh lửa.
+
+achievement.btw.craft_bark_box=Vỏ cây dày có cục đá nhọn
+achievement.btw.craft_bark_box.desc=Có Hộp vỏ cây để trữ đồ.
+
+achievement.btw.craft_stone_hoe=Trông rìu hóa cuốc
+achievement.btw.craft_stone_hoe.desc=Chế tạo Cuốc đá để tiến đến thời đại Nông nghiệp hóa của bạn.
+
+achievement.btw.find_logs=Đừng đấm nữa!
+achievement.btw.find_logs.desc=Dùng rìu chặt cây.
+
+achievement.btw.dry_bricks=Gạch một nắng
+achievement.btw.dry_bricks.desc=Phơi nắng Gạch ướt.
+
+achievement.btw.craft_oven=Nổi lửa
+achievement.btw.craft_oven.desc=Chế tạo Lò gạch từ Phiến gạch xếp.
+
+achievement.btw.mine_iron_ore=Gom góp
+achievement.btw.mine_iron_ore.desc=Có được Mẩu sắt thô
+
+achievement.btw.smelt_iron=Có thế thôi á?
+achievement.btw.smelt_iron.desc=Nung một mẩu sắt.
+
+achievement.btw.craft_iron_chisel=Công cụ sắt đầu tay
+achievement.btw.craft_iron_chisel.desc=Có một Cái đục sắt
+
+achievement.btw.make_work_stump=Khúc gỗ méo, khéo đéo cũng tròn
+achievement.btw.make_work_stump.desc=Dùng Cái đục sắt để đẽo Bàn chế tạo từ Gốc cây.
+
+achievement.btw.find_stone_brick=Vuông vắn
+achievement.btw.find_stone_brick.desc=Đục đá bằng Cái đục sắt.
+
+achievement.btw.craft_stone_pickaxe=Khai thác thôi!
+achievement.btw.craft_stone_pickaxe.desc=Có một cây Cuốc chim đá.
+
+achievement.btw.craft_iron_ingot=Kiếm lấy phần cứng
+achievement.btw.craft_iron_ingot.desc=Nung chảy một Thỏi sắt.
+
+achievement.btw.mine_diamond_ore=Kim cương!
+achievement.btw.mine_diamond_ore.desc=Đào một ít kim cương.
+
+achievement.btw.mine_redstone_ore=Lấp la lấp lánh~
+achievement.btw.mine_redstone_ore.desc=Đào một ít đá đỏ.
+
+achievement.btw.power_the_cake=Bạn biết bạn muốn mà
+achievement.btw.power_the_cake.desc=Kích hoạt Bánh ngọt bằng đá đỏ
+
+achievement.btw.craft_compass=Về nhà
+achievement.btw.craft_compass.desc=Có được La bàn để tìm về Spawn Point.
+
+#Iron Age Tab
+
+achievement.btw.iron_age=Thời kỳ đồ sắt
+achievement.btw.iron_age.desc=Nung chảy một Thỏi sắt.
+
+achievement.btw.equip_iron_armor=Lên đồ
+achievement.btw.equip_iron_armor.desc=Bảo vệ bản thân bằng một mảnh giáp sắt.
+
+achievement.btw.craft_iron_pickaxe=Đó có phải là một cây Cuốc sắt?
+achievement.btw.craft_iron_pickaxe.desc=Có một cái Cuốc chim sắt.
+
+achievement.btw.craft_iron_axe=Thợ mộc tập sự
+achievement.btw.craft_iron_axe.desc=Có được một cái Rìu sắt.
+
+achievement.btw.craft_iron_hoe=Đến lúc ra đồng
+achievement.btw.craft_iron_hoe.desc=Có được một cây Cuốc sắt.
+
+achievement.btw.craft_iron_shears=Cắt kéo
+achievement.btw.craft_iron_shears.desc=Có được một cái Kéo sắt. Giờ thì thoải mái cắt ngọn Cây gai dầu và... cái hòn xanh xanh gì đấy.
+
+achievement.btw.find_hemp_seeds=Hạt giống vô biên
+achievement.btw.find_hemp_seeds.desc=Tìm Hạt giống cây gai dầu bằng cách cuốc đất.
+
+achievement.btw.harvest_hemp=Công nghiệp hóa
+achievement.btw.harvest_hemp.desc=Thu hoạch nửa trên của cây gai dầu.
+
+achievement.btw.craft_planks=Ván game sinh tồn
+achievement.btw.craft_planks.desc=Có được Ván gỗ.
+
+achievement.btw.craft_hamper=Cái giỏ bự hơn
+achievement.btw.craft_hamper.desc=Có được một cái Giỏ mía lớn.
+
+achievement.btw.craft_gear=Cặp bánh thơm mùi gỗ
+achievement.btw.craft_gear.desc=Có được Bánh răng.
+
+achievement.btw.craft_millstone=Càng nghiền càng nghiền
+achievement.btw.craft_millstone.desc=Có được một cái Cối đá.
+
+achievement.btw.craft_hand_crank=Quay tay chuyên nghiệp
+achievement.btw.craft_hand_crank.desc=Có được một cái Tay quay.
+
+achievement.btw.grind_hemp_fibers=Giàu chất xơ
+achievement.btw.grind_hemp_fibers.desc=Nghiền Cây gai dầu bằng Cối đá.
+
+achievement.btw.craft_sail=Thuận buồm xuôi gió
+achievement.btw.craft_sail.desc=Có được một Cánh buồm.
+
+achievement.btw.craft_windmill=Gió chiều nào, xoay chiều ấy
+achievement.btw.craft_windmill.desc=Có được Cánh quạt gió.
+
+achievement.btw.boat_with_sail=Đoàn thuyền đánh cá lại ra khơi
+achievement.btw.boat_with_sail.desc=Dùng cánh buồm để lái thuyền nhanh hơn.
+
+achievement.btw.craft_cauldron=Hết nạc, vạc xương
+achievement.btw.craft_cauldron.desc=Có được một Cái vạc.
+
+achievement.btw.find_dung=Gớm vãi!
+achievement.btw.find_dung.desc=Nhặt Cứt chó.
+
+achievement.btw.craft_tanned_leather=Giấy trắng da đen
+achievement.btw.craft_tanned_leather.desc=Chế tạo Da thuộc.
+
+achievement.btw.craft_saw=Thợ mộc lành nghề
+achievement.btw.craft_saw.desc=Có được một cái Cưa.
+
+achievement.btw.craft_chest=Rộng như hang ấy
+achievement.btw.craft_chest.desc=Có được một cái rương.
+
+achievement.btw.find_creeper_oysters=Biết ông Liêm không?
+achievement.btw.find_creeper_oysters.desc=Dùng kéo để cắt Hòn Creeper.
+
+achievement.btw.find_diamonds=Kim cương!
+achievement.btw.find_diamonds.desc=Kiếm ít kim cương.
+
+achievement.btw.craft_diamond_ingot=Sáng bóng!
+achievement.btw.craft_diamond_ingot.desc=Có được một Thỏi Kim cương.
+
+achievement.btw.listen_to_music=Time to Raise Hell
+achievement.btw.listen_to_music.desc=Nghe một đĩa nhạc.
+
+achievement.btw.craft_diamond_pick=Xẻng vỡ, cuốc mòn
+achievement.btw.craft_diamond_pick.desc=Có được một cây Cuốc chim kim cương.
+
+achievement.btw.equip_diamond_armor=Che chắn tôi bằng kim cương
+achievement.btw.equip_diamond_armor.desc=Mặc một mảnh giáp kim cương.
+
+achievement.btw.find_obsidian=Thử thách nước đá
+achievement.btw.find_obsidian.desc=Có được một khối Đá vỏ chai.
+
+achievement.btw.enter_nether=Chúng ta cần tiến sâu hơn
+achievement.btw.enter_nether.desc=Xuống Nether.
+
+achievement.btw.craft_hopper=Xuống lỗ
+achievement.btw.craft_hopper.desc=Có được một cái Phễu.
+
+achievement.btw.make_hellfire_dust=Hồn bay phách lạc
+achievement.btw.make_hellfire_dust.desc=Chắt lọc Vụn Netherrack thành Bụi hỏa ngục.
+
+achievement.btw.find_blaze_rod=Chữa cháy
+achievement.btw.find_blaze_rod.desc=Tước đoạt cái que của một con Quỷ lửa.
+
+achievement.btw.locate_fortress_with_pile=Lời thì thầm của Pháo đài
+achievement.btw.locate_fortress_with_pile.desc=Sử dụng Nắm cát linh hồn để tìm Pháo đài trong Nether.
+
+achievement.btw.use_emerald_pile=La bàn phủ kim tuyến
+achievement.btw.use_emerald_pile.desc=Sử dụng Vụn ngọc lục bảo để tìm Làng trong Overworld.
+
+achievement.btw.craft_nether_coal=Đuốc tốt hơn
+achievement.btw.craft_nether_coal.desc=Có được than Nether.
+
+achievement.btw.craft_hibachi=Lửa miễn phí
+achievement.btw.craft_hibachi.desc=Có được một cái Hibachi.
+
+achievement.btw.craft_turntable=Chóng mặt quá
+achievement.btw.craft_turntable.desc=Có được một cái Bàn xoay.
+
+achievement.btw.craft_bellows=Bễ thổi đổi đời
+achievement.btw.craft_bellows.desc=Có được một cái Bễ.
+
+achievement.btw.stoke_fire=Thổi bùng ngọn lửa
+achievement.btw.stoke_fire.desc=Dùng Bễ và Hibachi để thổi lửa.
+
+achievement.btw.spin_pottery=Làm gốm Bát Tràng
+achievement.btw.spin_pottery.desc=Turn clay on a Turntable into a piece of pottery
+
+achievement.btw.craft_crucible=Đến lúc tái chế!
+achievement.btw.craft_crucible.desc=Nung Nồi lò đất trong Lò nung.
+
+achievement.btw.craft_urn=Bắt sóc bỏ lọ
+achievement.btw.craft_urn.desc=Nung Lọ đất trong Lò nung.
+
+achievement.btw.craft_soul_urn=Hồn vô phách vào
+achievement.btw.craft_soul_urn.desc=Đặt một cái Lọ bên dưới Phễu để đóng chai linh hồn bạn vừa lọc ra từ Vụn Netherrack.
+
+achievement.btw.craft_water_wheel=Thủy năng
+achievement.btw.craft_water_wheel.desc=Có được Bánh xe nước.
+
+achievement.btw.craft_dynamite=With a Laser Beam!
+achievement.btw.craft_dynamite.desc=Có được Mìn Dynamite.
+
+achievement.btw.redneck_fishing=Làm thế là phạm pháp đấy!
+achievement.btw.redneck_fishing.desc=Ném Mìn Dynamite xuống nước để đánh cá.
+
+achievement.btw.blew_up_with_blasting_oil=Banh xác
+achievement.btw.blew_up_with_blasting_oil.desc=Kích nổ bản thân banh xác bằng Dầu nổ. Oops!
+
+#Automation Tab
+
+achievement.btw.craft_piston=Kéo đẩy kéo đẩy
+achievement.btw.craft_piston.desc=Có được Pít-tông.
+
+achievement.btw.make_piston_packer=Đóng gói
+achievement.btw.make_piston_packer.desc=Dùng Pít-tông để đóng gói item.
+
+achievement.btw.use_piston_shovel=Bới lông tìm block
+achievement.btw.use_piston_shovel.desc=Dùng Xẻng pít-tông để đào nguyên vẹn một khối.
+
+achievement.btw.craft_nether_plant=Sống dậy đi!
+achievement.btw.craft_nether_plant.desc=Tạo một tạo vật mới.
+
+achievement.btw.fertilize_nether_plant=Đầy dinh dưỡng
+achievement.btw.fertilize_nether_plant.desc=Bón phân tạo vật mới của bạn bằng Lọ linh hồn.
+
+achievement.btw.anger_pigmen_with_plants=Nó tanh lắm cha
+achievement.btw.anger_pigmen_with_plants.desc=Trồng Nether Groth hoặc cây Huyết Mộc để chọc giận Zombie Pigman.
+
+achievement.btw.cure_villager=Hú hồn
+achievement.btw.cure_villager.desc=Đưa một linh hồn vào Dân làng thây ma.
+
+achievement.btw.traded_with_butcher=Mổ thịt tập sự
+achievement.btw.traded_with_butcher.desc=Trao đổi với Mổ thịt.
+
+achievement.btw.max_level_butcher=Mổ thịt bậc thầy
+achievement.btw.max_level_butcher.desc=Nâng Mổ thịt lên cấp tối đa.
+
+achievement.btw.traded_with_priest=Mục sư tập sự
+achievement.btw.traded_with_priest.desc=Trao đổi với Mục sư.
+
+achievement.btw.max_level_priest=Mục sư bậc thầy
+achievement.btw.max_level_priest.desc=Nâng Mục sư lên cấp tối đa.
+
+achievement.btw.traded_with_librarian=Thủ thư tập sự
+achievement.btw.traded_with_librarian.desc=Trao đổi với Thủ thư.
+
+achievement.btw.max_level_librarian=Thủ thư bậc thầy
+achievement.btw.max_level_librarian.desc=Nâng Thủ thư lên cấp tối đa.
+
+achievement.btw.make_companion_cube=Bạn thân... Mãi Mãi~
+achievement.btw.make_companion_cube.desc=Biến Chó sói thành Khối bạn đồng hành.
+
+achievement.btw.make_companion_slab=Một bạn tốt, xẻ làm đôi
+achievement.btw.make_companion_slab.desc=Cưa đôi bạn thân của bạn.
+
+achievement.btw.traded_with_blacksmith=Thợ rèn tập sự
+achievement.btw.traded_with_blacksmith.desc=Trao đổi với Thợ rèn.
+
+achievement.btw.max_level_blacksmith=Thợ rèn bậc thầy
+achievement.btw.max_level_blacksmith.desc=Nâng Thợ rèn lên cấp tối đa.
+
+achievement.btw.traded_with_farmer=Nông dân tập sự
+achievement.btw.traded_with_farmer.desc=Trao đổi với Nông Dân.
+
+achievement.btw.max_level_farmer=Nông dân bậc thầy
+achievement.btw.max_level_farmer.desc=Nâng Nông dân lên cấp tối đa.
+
+achievement.btw.toss_the_milk=Sữa sẽ bắn tùm lum mất
+achievement.btw.toss_the_milk.desc=Ném xô sữa với dân làng.
+
+achievement.btw.get_runed_skull=Đầu tắt mặt tối
+achievement.btw.get_runed_skull.desc=Hiểu không?... Tại nó màu đen á.
+
+achievement.btw.get_infused_skull=Sáng mắt ra
+achievement.btw.get_infused_skull.desc=Biến Sọ cổ xưa thành Sọ vong hồn.
+
+achievement.btw.summon_wither=Đồi Wither
+achievement.btw.summon_wither.desc=Triệu hồi Wither.
+
+achievement.btw.killed_wither=Vắt cực khô
+achievement.btw.killed_wither.desc=Đánh bại Wither.
+
+achievement.btw.crafted_beacon=Mang Đèn hiệu về nhà
+achievement.btw.crafted_beacon.desc=Có được một cái Đèn hiệu.
+
+achievement.btw.find_dormant_soulforge=Im cho người ta ngủ!
+achievement.btw.find_dormant_soulforge.desc=Tìm Bàn rèn say giấc.
+
+achievement.btw.convert_soulforge=Thức tỉnh
+achievement.btw.convert_soulforge.desc=Đánh thức Bàn rèn say giấc.
+
+achievement.btw.convert_eyes_of_ender=Thiên lý nhãn
+achievement.btw.convert_eyes_of_ender.desc=Đổi Ngọc Ender lấy Mắt của Ender.
+
+achievement.btw.enter_end=The End?
+achievement.btw.enter_end.desc=Xuống the End.
+
+#End Game Tab
+
+achievement.btw.killed_dragon=Giải thoát The End
+achievement.btw.killed_dragon.desc=Đánh bại Rồng Ender.
+
+achievement.btw.craft_steel=Cứng hơn cả Kim Cương
+achievement.btw.craft_steel.desc=Có được một Thỏi thép ngục hồn.
+
+achievement.btw.craft_steel_combo_tool=Công cụ đa năng!
+achievement.btw.craft_steel_combo_tool.desc=Có được một cái Cuốc hai đầu hoặc rìu chiến.
+
+achievement.btw.equip_steel_armor=Che chắn tôi bằng Ngục hồn
+achievement.btw.equip_steel_armor.desc=Mặc một mảnh giáp Ngục hồn.
+
+achievement.btw.craft_infernal_enchanter=Ma thuật đen
+achievement.btw.craft_infernal_enchanter.desc=Có được Bàn phù phép địa ngục.
+
+achievement.btw.use_infernal_enchanter=Thầy đồng tập sự
+achievement.btw.use_infernal_enchanter.desc=Sử dụng Cuộn giấy huyền bí tại Bàn phù phép địa ngục.
+
+achievement.btw.max_infernal_enchant=Thầy đồng bậc thầy
+achievement.btw.max_infernal_enchant.desc=Phù phép vật phẩm tối đa bằng Bàn phù phép địa ngục.
+
+achievement.btw.max_steel_beacon=Endgame
+achievement.btw.max_steel_beacon.desc=Xây Đèn hiệu Ngục hồn cấp 4.
+
+achievement.btw.steel_beacon_respawn_across_dimensions=Du hành vũ trụ Minecraft
+achievement.btw.steel_beacon_respawn_across_dimensions.desc=Hồi sinh tại Đèn hiệu Ngục hồn khi bạn chết ở chiều không gian khác.
+
+achievement.btw.get_bootsies=Cái tất kia cứng quá rồi
+achievement.btw.get_bootsies.desc=Có được một đôi ủng.
+
+achievement.btw.eatOysters=Mút bi
+achievement.btw.eatOysters.name=Ăn Hòn Creeper.
+# Whatever it is, the taste is explosive / Better than Caviar
+
+achievement.btw.cleanFarmer=ĐỪNG có làm rơi!
+achievement.btw.cleanFarmer.desc=Bán Xà phòng cho Nông dân bẩn thỉu để hắn tắm rửa.
+
+achievement.btw.milkBucket=Xô sữa%
+achievement.btw.milkBucket.desc=Uống xô sữa.
+
+achievement.btw.eatMysteryMeat=Ngon ngỏn ngòn ngon
+achievement.btw.eatMysteryMeat.desc="Mẹ ăn thịt con, có còn xin miếng!"
+
+# achievement.btw.eatStew=
+# achievement.btw.eatStew.desc=
+
+# Extras Tab
+
+achievement.btw.possess_entity=Vong hồn vất vưởng
+achievement.btw.possess_entity.desc=Cho một linh hồn ám một con vật (Hoặc dân làng. Đừng lo. Gu bạn mặn, chúng tôi không đánh giá).
+
+achievement.btw.possess_entity_with_death=Host Hopping
+achievement.btw.possess_entity_with_death.desc=Giết một sinh vật đang bị ám khiến linh hồn đang ám đấy ám một sinh vật khác.
+
+achievement.btw.possess_chicken=Cứ chờ tí...
+achievement.btw.possess_chicken.desc=Cho một linh hồn ám một con gà.
+
+achievement.btw.possessed_chicken_explodes=BÙÙMM!
+achievement.btw.possessed_chicken_explodes.desc=Làm con gà bị nổ.
+
+achievement.btw.possess_cow=Sữa này có vị là lạ...
+achievement.btw.possess_cow.desc=Cho một linh hồn ám một con bò.
+
+achievement.btw.cow_mutant_birth=Tình yêu ngay ranh giới
+achievement.btw.cow_mutant_birth.desc=Phối giống bò bị ám.
+
+achievement.btw.possess_wolf=Đầu nó bị cái gì vậy?
+achievement.btw.possess_wolf.desc=Cho một linh hồn ám một con chó sói.
+
+achievement.btw.possess_squid_with_wolf=Nhập một hóa mười
+achievement.btw.possess_squid_with_wolf.desc=Làm một con mực bị ám bằng chó sói... chắc là có chủ đích đúng không? ĐÚNG KHÔNG?
+
+achievement.btw.squid_transforms_into_ghast=Nó cọc rồi kìa
+achievement.btw.squid_transforms_into_ghast.desc=Biến con Mực thành con Ghast bằng cách cho một linh hồn ám nó.
+
+achievement.btw.possess_sheep=Nhẹ như bông
+achievement.btw.possess_sheep.desc=Cho một linh hồn ám một con cừu.
+
+achievement.btw.shear_possessed_sheep_with_block_dispenser=Wao, thật là một cái máy cắt lông kỳ diệu!
+achievement.btw.shear_possessed_sheep_with_block_dispenser.desc=Cắt lông một con cừu đang bị ám bằng Khối phân phát trong lúc nó đang bay.
+
+achievement.btw.lead_possessed_sheep=Bóng bay đê~
+achievement.btw.lead_possessed_sheep.desc=Cột Dây buộc vào một con cừu đang bay.
+
+achievement.btw.sheep_dive_bomb=Thiên nhiên đang hồi phục
+achievement.btw.sheep_dive_bomb.desc=Witness a Sheep donate its possessing soul
+
+achievement.btw.possess_pig=Heo điên
+achievement.btw.possess_pig.desc=Cho một linh hồn ám một con heo.
+
+achievement.btw.possess_horse=Đem nấu cao thôi!
+achievement.btw.possess_horse.desc=Cho một linh hồn ám một con ngựa.
+
+achievement.btw.possess_villager=Vô nhân đạo
+achievement.btw.possess_villager.desc=Cho một linh hồn ám Dân làng.
+
+# achievement.btw.killBeast=
+# achievement.btw.killBeast.desc=
+
+# Possible secret achievements:
+# Activate a tier 4 diamond / emerald / soulforge beacon. soulforge could also be the final achievement in main line
+# get a rare sheep mutation proc
+# toss the milk
+
+# Vanilla old translate fix
+
+# Blocks
+
+tile.button.name=Nút bấm
+tile.whiteStone.name=Đá End
+tile.endPortalFrame.name=Cổng Ender
+tile.fenceIron.name=Rào sắt
+tile.deadbush.name=Bụi cây chết
+item.brewingStand.name=Giàn pha thuốc
+tile.pressurePlate.name=Tấm áp lực
+
+tile.monsterStoneEgg.stone.name=Đá bị nhiễm khuẩn
+tile.monsterStoneEgg.cobble.name=Đá cuội bị nhiễm khuẩn
+tile.monsterStoneEgg.brick.name=Gạch đá bị nhiễm khuẩn
+
+tile.anvil.name=Cái đe
+tile.anvil.slightlyDamaged.name=Cái đe bị nứt
+tile.anvil.veryDamaged.name=Cái đe bị hỏng
+
+tile.netherquartz.name=Quặng thạch anh
+tile.netherrack.name=Netherrack
+tile.netherBrick.name=Gạch Nether
+tile.netherFence.name=Hàng rào gạch Nether
+item.netherbrick.name=Cầu thang gạch Nether
+
+tile.obsidian.name=Đá vỏ chai
+tile.sandStone.name=Sa thạch
+tile.sandStone.default.name=Sa thạch
+tile.sandStone.chiseled.name=Sa thạch được đục
+tile.sandStone.smooth.name=Sa thạch mịn
+tile.stoneSlab.sand.name=Phiến sa thạch
+tile.stairsSandStone.name=Cầu thang sa thạch
+
+# Items
+
+item.leather.name=Da
+item.slimeball.name=Bóng nhờn
+item.leash.name=Dây buộc
+item.netherquartz.name=Thạch anh
+item.netherStar.name=Sao Nether
+item.ghastTear.name=Nước mắt Ghast
+item.flintAndSteel.name=Đá đánh lửa
+
+item.ingotGold.name=Thỏi vàng
+item.ingotIron.name=Thỏi sắt
+
+item.pickaxeWood.name=Cuốc chim gỗ
+item.pickaxeStone.name=Cuốc chim đá
+item.pickaxeIron.name=Cuốc chim sắt
+item.pickaxeGold.name=Cuốc chim vàng
+item.pickaxeDiamond.name=Cuốc chim kim cương
+
+item.leggingsDiamond.name=Quần kim cương
+item.leggingsGold.name=Quần vàng
+item.leggingsChain.name=Quần xích
+
+# Spawn
+tile.mobSpawner.name=Lồng triệu hồi
+item.monsterPlacer.name=Trứng sinh ra
+
+# Entities
+entity.Creeper.name=Crepper
+entity.Ghast.name=Ghast
+entity.Giant.name=Thây ma khổng lồ
+entity.VillagerGolem.name=Golem sắt
+entity.Silverfish.name=Nhậy bạc
+
+# Groups
+itemGroup.brewing=Pha chế
+
+# Enchantments
+enchantment.protect.fall=Bảo vệ khỏi sát thương khi rơi
+enchantment.waterWorker=Đào nhanh dưới nước
+enchantment.fire=Gây cháy
+enchantment.arrowKnockback=Xung kích
+enchantment.digging=Hiệu suất
+enchantment.damage.all=Sắc bén
+enchantment.damage.arthropods=Hại loài chân đốt
+enchantment.damage.undead=Hại thây ma
+enchantment.durability=Chậm hỏng
+enchantment.knockback=Bật lùi
+
+# Heads
+item.skull.creeper.name=Đầu Creeper
+
+# Containers
+container.brewing=Giàn pha thuốc
+tile.anvil.intact.name=Cái đe
+
+# Potions
+potion.moveSlowdown=Chậm rãi
+potion.moveSlowdown.postfix=Thuốc chậm rãi
+potion.weakness=Yếu đuối
+potion.weakness.postfix=Thuốc yếu đuối
+potion.jump=Nhảy cao
+potion.digSpeed=Đào nhanh
+potion.digSpeed.postfix=Thuốc đào nhanh
+potion.digSlowDown=Đào chậm
+potion.digSlowDown.postfix=Thuốc đào chậm
+potion.damageBoost.postfix=Thuốc sức mạnh
+potion.regeneration.postfix=Thuốc hồi phục
+potion.harm.postfix=Thuốc sát thương
+potion.waterBreathing.postfix=Thuốc thở dưới nước
+potion.blindness.postfix=Thuốc mù quáng
+potion.prefix.grenade=(Có thể ném được)
+potion.hunger.postfix=Thuốc ngộ độc thực phẩm
+potion.prefix.awkward=Kì quặc
+item.potion.name=Potion
+
+# Colored Items
+
+item.dyePowder.cyan.name=Bột nhuộm lục lam
+item.dyePowder.gray.name=Bột nhuộm xám
+item.dyePowder.lightBlue.name=Bột nhuộm xanh nhạt
+item.dyePowder.lime.name=Bột nhuộm xanh lá mạ
+item.dyePowder.magenta.name=Bột nhuộm đỏ sậm
+item.dyePowder.orange.name=Bột nhuộm cam
+item.dyePowder.pink.name=Bột nhuộm hồng
+item.dyePowder.purple.name=Bột nhuộm tím
+item.dyePowder.red.name=Bột nhuộm đỏ
+item.dyePowder.silver.name=Bột nhuộm xám nhạt
+item.dyePowder.brown.name=Bột ca cao
+item.dyePowder.green.name=Bột nhuộm xanh lá cây
+item.dyePowder.yellow.name=Bột nhuộm vàng
+
+tile.cloth.black.name=Len đen
+tile.cloth.blue.name=Len xanh nước biển
+tile.cloth.brown.name=Len nâu
+tile.cloth.cyan.name=Len lục lam
+tile.cloth.gray.name=Len xám
+tile.cloth.green.name=Len xanh lá cây
+tile.cloth.lightBlue.name=Len xanh nhạt
+tile.cloth.lime.name=Len xanh lá mạ
+tile.cloth.magenta.name=Len đỏ sậm
+tile.cloth.orange.name=Len cam
+tile.cloth.pink.name=Len hồng 
+tile.cloth.purple.name=Len tím
+tile.cloth.red.name=Len đỏ
+tile.cloth.silver.name=Len xám nhạt
+tile.cloth.white.name=Len trắng
+tile.cloth.yellow.name=Len vàng
+
+tile.clayHardenedStained.black.name=Đất nung đen
+tile.clayHardenedStained.blue.name=Đất nung xanh nước biển
+tile.clayHardenedStained.brown.name=Đất nung nâu
+tile.clayHardenedStained.cyan.name=Đất nung lục lam
+tile.clayHardenedStained.gray.name=Đất nung xám
+tile.clayHardenedStained.green.name=Đất nung xanh lá cây
+tile.clayHardenedStained.lightBlue.name=Đất nung xanh nhạt
+tile.clayHardenedStained.lime.name=Đất nung xanh lá mạ
+tile.clayHardenedStained.magenta.name=Đất nung đỏ sậm
+tile.clayHardenedStained.orange.name=Đất nung cam
+tile.clayHardenedStained.pink.name=Đất nung hồng
+tile.clayHardenedStained.purple.name=Đất nung tím
+tile.clayHardenedStained.red.name=Đất nung đỏ
+tile.clayHardenedStained.silver.name=Đất nung xám nhạt
+tile.clayHardenedStained.white.name=Đất nung trắng
+tile.clayHardenedStained.yellow.name=Đất nung vàng
+
+tile.woolCarpet.blue.name=Thảm xanh nước biển
+tile.woolCarpet.cyan.name=Thảm lục lam
+tile.woolCarpet.lightBlue.name=Thảm xanh nhạt
+tile.woolCarpet.lime.name=Thảm xanh lá mạ
+
+# Death Messages
+death.attack.anvil=%1$s đã bị đè nát bởi Cái đe rơi xuống
+
+# BTW translation from code
+
+tile.dirt.name=Đất
+tile.sand.name=Cát
+item.fishRaw.name=Cá sống
+item.fishCooked.name=Cá chín
+tile.rose.name=Hoa hồng
+tile.flower.name=Bồ công anh
+tile.detectorRail.name=Đường ray cảm biến
+
+# Thank you all to my friends - KainuMan and the anonymous friend, my little sister and Nick P. Hammer.
+# This work cannot be done without their help.
+# MikeS03

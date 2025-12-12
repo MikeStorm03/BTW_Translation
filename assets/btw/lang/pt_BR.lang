@@ -1,0 +1,1317 @@
+# BTW Blocks
+
+tile.fcBlockArcaneVessel.name=Receptáculo do Dragão
+tile.fcBlockScrewPump.name=Bomba de Ferrolho
+tile.FCBlockFarmlandFertilized.name=Terra Arada Fertilizada
+tile.fcBlockWoolSlab.name=Laje de Lã
+tile.fcBlockGroth.name=Praga do Nether
+tile.fcBlockInfernalEnchanter.name=Encantador Infernal
+tile.fcBlockSoulforgedSteel.name=Bloco de Aço de Almas
+tile.fcBlockDetectorLogicGlowing.name=Detector de Luz Lógico
+tile.fcBlockBloodWoodLeaves.name=Folhas Sangrentas
+tile.fcBlockBloodWood.name=Madeira Sangrenta
+tile.fcBlockMiningCharge.name=Pacote de Mineração
+tile.fcBlockBuddyBlock.name=Bloco Amigo
+tile.fcBlockKiln.name=Forja
+tile.fcBlockAnvil.name=Forja de Almas
+tile.fcBlockLightBlock.name=Bloco de Luz
+tile.fcBlockHibachi.name=Grelha
+tile.fcBlockHopper.name=Funil
+tile.fcBlockSaw.name=Serradeira
+tile.fcBlockPlatform.name=Plataforma
+tile.fcBlockCement.name=Cimento
+tile.fcBlockPulley.name=Polia
+tile.fcBlockWoodOakMoulding.name=Molde Antigo
+tile.fcBlockWoodOakMoulding.moulding.name=Molde Antigo
+tile.fcBlockCorner.name=Canto Antigo
+tile.fcBlockBlockDispenser.name=Dispensador de Blocos
+tile.fcBlockCauldron.name=Caldeirão
+tile.fcBlockDetectorBlock.name=Bloco Detector
+tile.fcBlockDetectorLogic.name=Detector Logico
+tile.fcBlockLens.name=Lentes
+tile.fcBlockHemp.name=Colheita de Cânhamo
+tile.fcBlockHandCrank.name=Manivela Manual
+tile.fcBlockMillStone.name=Pedra de Moer
+tile.fcBlockAnchor.name=Ancora
+tile.fcBlockRope.name=Corda
+tile.fcBlockOmniSlab.name=Laje Lateral Antiga
+tile.fcBlockAxle.name=Eixo
+tile.fcBlockAxlePowerSource.name=Eixo Energizado
+tile.fcBlockGearBox.name=Caixa de Engrenagens
+tile.fcBlockTurntable.name=Mesa Giradora
+tile.fcBlockBellows.name=Fole de Forja
+tile.fcBlockStokedFire.name=Fogo Atiçado
+tile.fcBlockUnfiredPottery.name=Cerâmica Crua
+tile.fcBlockUnfiredPottery.crucible.name=Crisol Cru
+tile.fcBlockUnfiredPottery.planter.name=Vaso Cru
+tile.fcBlockUnfiredPottery.urn.name=Urna Crua
+tile.fcBlockUnfiredPottery.mould.name=Molde Cru
+tile.fcBlockCrucible.name=Crisol
+tile.fcBlockPlanter.name=Plantador
+tile.fcBlockVase.name=Vaso
+tile.fcBlockDetectorRailWood.name=Trilho Detector
+tile.fcBlockDetectorRailSoulforgedSteel.name=Trilho Detector de Aço
+tile.fcBlockRottenFlesh.name=Bloco de Carne
+tile.fcBlockSoulforgeDormant.name=Forja da Alma Adormecida
+
+tile.fcBlockSmoothstoneStairs.stone.name=Escadas de Pedra
+tile.fcBlockSmoothstoneStairs.deepslate.name=Escadas de Ardosia
+tile.fcBlockSmoothstoneStairs.blackstone.name=Escadas de Pedra Negra
+
+tile.fcBlockRottenFleshSlab.name=Laje de Carne
+tile.fcBlockBoneSlab.name=Laje de Ossos
+tile.fcBlockPumpkinFresh.name=Abóbora
+tile.fcBlockWoodBloodStairs.name=Escadas de Madeira de Sangue
+tile.fcBlockLogDamaged.name=Tronco Comido
+tile.fcBlockDirtLoose.name=Terra Solta
+tile.fcBlockDirtLooseSlab.name=Laje de Terra Solta
+tile.fcBlockCampfire.name=Fogueira
+tile.fcBlockUnfiredBrick.name=Tijolo Cru
+tile.fcBlockCookedBrick.name=Tijolo
+tile.fcBlockBrickLoose.name=Bloco de Tijolos Soltos
+tile.fcBlockBrickLooseSlab.name=Lajes de Tijolos Soltos
+
+tile.fcBlockCobblestoneLoose.stone.name=Pedregulho Solto
+tile.fcBlockCobblestoneLoose.deepslate.name=Pedregulho de Ardósia Solta
+tile.fcBlockCobblestoneLoose.blackstone.name=Pedregulho Negro Solto
+
+tile.fcBlockCobblestoneLooseSlab.stone.name=Lase de Pedregulho Solto
+tile.fcBlockCobblestoneLooseSlab.deepslate.name=Laje de Ardósia Solta
+tile.fcBlockCobblestoneLooseSlab.blackstone.name=Laje de Pedregulho Negro Solto
+
+tile.fcBlockLooseFurnaceBrick.name=Forno de Tijolos
+tile.fcBlockTorchFiniteIdle.name=Tocha Primitiva
+tile.fcBlockTorchFiniteBurning.name=Tocha Primitiva Queimando
+tile.fcBlockStoneRough.name=Pedra Bruta
+tile.fcBlockWorkStump.name=Toco de Trabalho
+tile.fcBlockBasketWicker.name=Cesto de Vime
+tile.fcBlockLogSpike.name=Espinho de Madeira
+tile.fcBlockTorchIdle.name=Tocha Apagada
+tile.fcBlockUnfiredClay.name=Bloco de Argila
+tile.fcBlockNetherSludge.name=Bloco de Restos do Nether
+tile.fcBlockMyceliumSlab.name=Laje de Micélio
+tile.fcBlockBrickLooseStairs.name=Escada de Tijolos Soltas
+
+tile.fcBlockCobblestoneLooseStairs.stone.name=Escada de Pedregulho Solta
+tile.fcBlockCobblestoneLooseStairs.deepslate.name=Escada de Pedregulho Ardósia Solta
+tile.fcBlockCobblestoneLooseStairs.blackstone.name=Escada de Pedregulho Negro Solta
+
+tile.fcBlockCobblestoneStairs.stone.name=Escada de Pedregulho
+tile.fcBlockCobblestoneStairs.deepslate.name=Escada de Pedregulho de Ardósia
+tile.fcBlockCobblestoneStairs.blackstone.name=Escada de Pedregulho Negro
+
+tile.fcBlockLogSmouldering.name=Tronco Queimando
+tile.fcBlockWoodCinders.name=Cinzas de Árvore
+tile.fcBlockStumpCharred.name=Toco Carbonizado
+tile.fcBlockAshGroundCover.name=Pilha de Cinzas
+tile.fcBlockSnowLoose.name=Neve Solta
+tile.fcBlockSnowLooseSlab.name=Laje de Neve Solta
+tile.fcBlockSnowSolid.name=Neve
+tile.fcBlockSnowSolidSlab.name=Laje de Neve
+tile.fcBlockLadder.name=Escadas de Mão
+tile.fcBlockLadderOnFire.name=Escadas Queimando
+tile.fcBlockShovel.name=Escavadora para Pistão
+tile.fcBlockHamper.name=Cesto
+tile.fcBlockCreeperOysters.name=Bloco de Ostras
+tile.fcBlockCreeperOystersSlab.name=Laje de Ostras
+tile.fcBlockTorchNetherBurning.name=Tocha Queimando
+tile.fcBlockRedstoneClutch.name=Engrenagem de Redstone
+tile.fcBlockSpikeIron.name=Suporte de Ferro
+tile.fcBlockLightningRod.name=Para-Raio
+
+tile.fcBlockStoneBrickLoose.stone.name=Tijolos de Pedra Solto
+tile.fcBlockStoneBrickLoose.deepslate.name=Tijolos de Ardósia Solto
+tile.fcBlockStoneBrickLoose.blackstone.name=Tijolos de Pedra Negra Solta
+
+tile.fcBlockStoneBrickLooseSlab.stone.name=Lajes de Tijolos de Pedra Solto
+tile.fcBlockStoneBrickLooseSlab.deepslate.name=Lajes de Tijolos de Ardósia Solto
+tile.fcBlockStoneBrickLooseSlab.blackstone.name=Lajes de Tijolos de Pedra Negra Solto
+
+tile.fcBlockStoneBrickLooseStairs.stone.name=Escadas de Tijolos de Pedra Solto
+tile.fcBlockStoneBrickLooseStairs.deepslate.name=Escadas de Tijolos de Ardósia Solto
+tile.fcBlockStoneBrickLooseStairs.blackstone.name=Escadas de Tijolos de Pedra Negra Solto
+
+tile.fcBlockStoneBrickStairs.stone.name=Escadas de Tijolos de Pedra
+tile.fcBlockStoneBrickStairs.deepslate.name=Escadas de Tijolos de Ardósia
+tile.fcBlockStoneBrickStairs.blackstone.name=Escadas de Tijolos de Pedra Negra
+
+tile.fcBlockNetherBrickLoose.name=Tijolos do Nether Solto
+tile.fcBlockNetherBrickLooseSlab.name=Laje de Tijolos do Nether Solto
+tile.fcBlockNetherBrickLooseStairs.name=Escadas de Tijolos do Nether Solto
+tile.fcBlockNetherrackFalling.name=Netherrack Caindo
+tile.fcBlockLavaPillow.name=Fonte de Lava
+tile.fcBlockChunkOreStorageIron.name=Bloco de Minério de Ferro
+tile.fcBlockChunkOreStorageGold.name=Bloco de Minério de Ouro
+tile.fcBlockChunkOreGold.name=Pedaço de Minério de Ouro
+tile.fcBlockChunkOreIron.name=Pedaço de Minério de Ferro
+tile.fcBlockWicker.name=Bloco de Vime
+tile.fcBlockWickerSlab.name=Laje de Vime
+tile.fcBlockWickerPane.name=Painel de Vime
+tile.fcBlockGrate.name=Grades
+tile.fcBlockSlats.name=Valas
+tile.fcBlockFarmlandNew.name=Terra Arada
+tile.fcBlockPlanterSoil.name=Plantador com Terra
+
+tile.fcBlockSilverfishStone.stone.name=Pedra Infestada
+tile.fcBlockSilverfishCobblestone.stone.name=Pedregulho Infestado
+tile.fcBlockSilverfishStoneBrick.stone.name=Tijolos de Pedra Infestado
+tile.fcBlockSilverfishStoneBrickMossy.stone.name=Tijolos de Pedra com Musgo Infestado
+tile.fcBlockSilverfishStoneCracked.stone.name=Tijolos de Pedra Rachado Infestado
+tile.fcBlockSilverfishStoneChiseled.stone.name=Tijolos de Pedra Talhado Infestado
+
+tile.fcBlockSilverfishStone.deepslate.name=Ardósia Infestada
+tile.fcBlockSilverfishCobblestone.deepslate.name=Pedregulho de Ardosia Infestada
+tile.fcBlockSilverfishStoneBrick.deepslate.name=Tijolos de Ardósia Infestados
+tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=Tijolos de Ardósia com Musgo Infestados
+tile.fcBlockSilverfishStoneCracked.deepslate.name=Tijolos de Ardósia Rachado Infestado
+tile.fcBlockSilverfishStoneChiseled.deepslate.name=Tijolos de Ardósia Telhados Infestado
+
+tile.fcBlockSilverfishStone.blackstone.name=Pedra Negra Infestada
+tile.fcBlockSilverfishCobblestone.blackstone.name=Pedregulho de Pedra Negra Infestado
+tile.fcBlockSilverfishStoneBrick.blackstone.name=Tijolos de Pedra Negra Infestado
+tile.fcBlockSilverfishStoneBrickMossy.blackstone.name=Tijolos de Pedra Negra com Musgo Infestada
+tile.fcBlockSilverfishStoneCracked.blackstone.name=Tijolos de Pedra Negra Rachado Infestado
+tile.fcBlockSilverfishStoneChiseled.blackstone.name=Tijolos de Pedra Negra Talhados Infestado
+
+tile.fcBlockClay.name=Argila Exposta
+tile.fcBlockGrassSlab.name=Laje de Grama
+tile.fcBlockBedroll.name=Colchonete
+tile.fcBlockSpiderEye.name=Bloco de Olhos de Aranha
+tile.fcBlockSpiderEyeSlab.name=Laje de Olhos de Aranha
+tile.fcBlockSaplingOak.name=Muda de Carvalho
+tile.fcBlockSaplingOak.mature.name=Muda de Carvalho Madura
+tile.fcBlockSaplingSpruce.name=Muda de Abeto
+tile.fcBlockSaplingSpruce.mature.name=Muda de Abeto Madura
+tile.fcBlockSaplingBirch.name=Muda de Bétula
+tile.fcBlockSaplingBirch.mature.name=Muda de Bétula Madura
+tile.fcBlockSaplingJungle.name=Muda da Selva
+tile.fcBlockSaplingJungle.mature.name=Muda da Selva Madura
+tile.fcBlockMushroomCap.name=Bloco de Cogumelo
+tile.fcBlockLoom.name=Tear
+tile.fcBlockCharcoal.name=Bloco de Carvão
+tile.fcBlockNethercoal.name=Bloco de Carvão Vegetal
+
+# BTW Complex Blocks
+
+tile.fcBlockCompanionCube.cube.name=Bloco Companheiro
+tile.fcBlockCompanionCube.slab.name=Laje Companheira
+tile.fcBlockAestheticOpaque.name=Opaco Estético
+tile.fcBlockAestheticOpaque.wicker.name=Antigo Bloco de Vime
+tile.fcBlockAestheticOpaque.dung.name=Estrume Fossilizado Antigo
+tile.fcBlockAestheticOpaque.steel.name=Bloco de Aço de Almas
+tile.fcBlockAestheticOpaque.hellfire.name=Bloco de Fogo Infernal Concentrado
+tile.fcBlockAestheticOpaque.padding.name=Bloco Acolchoado
+tile.fcBlockAestheticOpaque.soap.name=Bloco de Sabão
+tile.fcBlockAestheticOpaque.rope.name=Rolo de Cordas
+tile.fcBlockAestheticOpaque.flint.name=Bloco de Sílex
+tile.fcBlockAestheticOpaque.whitestone.name=Pedra Pálida
+tile.fcBlockAestheticOpaque.whitecobble.name=Pedregulho Pálido
+tile.fcBlockAestheticOpaque.barrel.name=Barril
+tile.fcBlockAestheticOpaque.choppingblockbloody.name=Bloco de Corte Ensanguentado
+tile.fcBlockAestheticOpaque.choppingblock.name=Bloco de Corte
+tile.fcBlockAestheticOpaque.enderblock.name=Bloco Ender
+tile.fcBlockAestheticOpaque.bone.name=Bloco de Ossos
+tile.fcBlockAestheticNonOpaque.name=Estética Não Opaca
+tile.fcBlockAestheticNonOpaque.urn.name=Urna
+tile.fcBlockAestheticNonOpaque.column.name=Coluna Velha
+tile.fcBlockAestheticNonOpaque.pedestal.name=Pedestal Velho
+tile.fcBlockAestheticNonOpaque.table.name=Mesa Velha
+tile.fcBlockAestheticNonOpaque.wickerslab.name=Laje de Vime Velho
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=Bloco de Pedregulho Pálido
+tile.fcBlockAestheticNonOpaque.lightningrod.name=Para-Raios Antigo
+tile.fcBlockAestheticVegetation.name=Vegetação Estética
+tile.fcBlockAestheticVegetation.vinetrap.name=Fosso de Vinhas
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=Muda Sangrenta
+tile.fcBlockAestheticVegetation.bloodleaves.name=Folhas de Sangue
+
+tile.fcWoodSpruceSiding.oak.name=Parede de Carvalho
+tile.fcWoodSpruceSiding.spruce.name=Parede de Abeto
+tile.fcWoodSpruceSiding.birch.name=Parede de Bétula
+tile.fcWoodSpruceSiding.jungle.name=Parede da Selva
+tile.fcWoodSpruceSiding.blood.name=Parede de Madeira Sangrenta
+
+tile.fcWoodSpruceMoulding.oak.name=Molde de Carvalho
+tile.fcWoodSpruceMoulding.spruce.name=Molde de Abeto
+tile.fcWoodSpruceMoulding.birch.name=Molde de Bétula
+tile.fcWoodSpruceMoulding.jungle.name=Molde da Selva
+tile.fcWoodSpruceMoulding.blood.name=Molde de Madeira Sangrenta
+
+tile.fcWoodBirchSiding.oak.name=Canto de Carvalho
+tile.fcWoodBirchSiding.spruce.name=Canto de Abeto
+tile.fcWoodBirchSiding.birch.name=Canto de Bétula
+tile.fcWoodBirchSiding.jungle.name=Canto da Selva
+tile.fcWoodBirchSiding.blood.name=Canto de Madeira Sangrenta
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=Pedestal de Carvalho
+tile.fcWoodBirchMoulding.spruce.pedestal.name=Pedestal de Abeto
+tile.fcWoodBirchMoulding.birch.pedestal.name=Pedestal de Bétula
+tile.fcWoodBirchMoulding.jungle.pedestal.name=Pedestal da Selva
+tile.fcWoodBirchMoulding.blood.pedestal.name=Pedestal de Madeira Sangrenta
+
+tile.fcWoodBirchMoulding.oak.column.name=Coluna de Carvalho
+tile.fcWoodBirchMoulding.spruce.column.name=Coluna de Abeto
+tile.fcWoodBirchMoulding.birch.column.name=Coluna de Bétula
+tile.fcWoodBirchMoulding.jungle.column.name=Coluna da Selva
+tile.fcWoodBirchMoulding.blood.column.name=Coluna de Madeira Sangrenta
+
+tile.fcWoodBirchMoulding.oak.table.name=Mesa de Carvalho
+tile.fcWoodBirchMoulding.spruce.table.name=Mesa de Abeto
+tile.fcWoodBirchMoulding.birch.table.name=Mesa de Bétula
+tile.fcWoodBirchMoulding.jungle.table.name=Mesa da Selva
+tile.fcWoodBirchMoulding.blood.table.name=Mesa de Madeira Sangrenta
+
+tile.fcWoodJungleSiding.oak.bench.name=Banco de Carvalho
+tile.fcWoodJungleSiding.spruce.bench.name=Banco de Abeto
+tile.fcWoodJungleSiding.birch.bench.name=Banco de Bétula
+tile.fcWoodJungleSiding.jungle.bench.name=Banco da Selva
+tile.fcWoodJungleSiding.blood.bench.name=Banco de Madeira de Sangue
+
+tile.fcWoodJungleSiding.oak.fence.name=Cerca de Carvalho
+tile.fcWoodJungleSiding.spruce.fence.name=Cerca de Abeto
+tile.fcWoodJungleSiding.birch.fence.name=Cerca de Bétula
+tile.fcWoodJungleSiding.jungle.fence.name=Cerca da Selva
+tile.fcWoodJungleSiding.blood.fence.name=Cerca de Madeira de Sangue
+
+tile.fcBlockSidingQuartz.name=Paredes e Cantos
+tile.fcBlockSidingQuartz.siding.name=Parede de Quartzo
+tile.fcBlockSidingQuartz.corner.name=Canto de Quartzo
+tile.fcBlockSidingQuartz.bench.name=Banco de Quartzo
+tile.fcBlockSidingQuartz.fence.name=Muro de Quartzo
+tile.fcBlockMouldingQuartz.name=Moldes e Decorações
+tile.fcBlockMouldingQuartz.moulding.name=Molde de Quartzo
+tile.fcBlockMouldingQuartz.column.name=Coluna de Quartzo
+tile.fcBlockMouldingQuartz.pedestal.name=Pedestal de Quartzo
+tile.fcBlockMouldingQuartz.table.name=Mesa de Quartzo
+
+tile.fcStoneBrickSiding.name=Paredes e Cantos
+tile.fcStoneBrickSiding.siding.name=Parede de Tijolos de Pedra
+tile.fcStoneBrickSiding.corner.name=Canto de Tijolos de Pedra
+tile.fcStoneBrickSiding.bench.name=Banco de Tijolos de Pedra
+tile.fcStoneBrickSiding.fence.name=Muro de Tijolos de Pedra
+tile.fcStoneBrickMoulding.name=Moldes e Decorações
+tile.fcStoneBrickMoulding.moulding.name=Molde de Tijolos de Pedra
+tile.fcStoneBrickMoulding.column.name=Coluna de Tijolos de Pedra
+tile.fcStoneBrickMoulding.pedestal.name=Pedestal de Tijolos de Pedra
+tile.fcStoneBrickMoulding.table.name=Mesa de Tijolos de Pedra
+
+tile.fcDeepslateBrickSiding.name=Paredes e Cantos
+tile.fcDeepslateBrickSiding.siding.name=Parede de Tijolos de Ardósia
+tile.fcDeepslateBrickSiding.corner.name=Canto de Tijolos de Ardósia
+tile.fcDeepslateBrickSiding.bench.name=Banco de Tijolos de Ardósia
+tile.fcDeepslateBrickSiding.fence.name=Muro de Tijolos de Ardósia
+tile.fcDeepslateBrickMoulding.name=Moldes e Decorações
+tile.fcDeepslateBrickMoulding.moulding.name=Molde de Tijolos de Ardósia
+tile.fcDeepslateBrickMoulding.column.name=Coluna de Tijolos de Ardósia
+tile.fcDeepslateBrickMoulding.pedestal.name=Pedestal de Tijolos de Ardósia
+tile.fcDeepslateBrickMoulding.table.name=Mesa de Tijolos de Ardósia
+
+tile.fcBlackstoneBrickSiding.name=Paredes e Cantos
+tile.fcBlackstoneBrickSiding.siding.name=Parede de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickSiding.corner.name=Canto de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickSiding.bench.name=Banco de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickSiding.fence.name=Muro de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickMoulding.name=Moldes e Decorações
+tile.fcBlackstoneBrickMoulding.moulding.name=Molde de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickMoulding.column.name=Coluna de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickMoulding.pedestal.name=Pedestal de Tijolos de Pedra Negra
+tile.fcBlackstoneBrickMoulding.table.name=Mesa de Tijolos de Pedra Negra
+
+tile.fcWhiteStoneSiding.name=Paredes e Cantos
+tile.fcWhiteStoneSiding.siding.name=Parede de Pedra Pálida
+tile.fcWhiteStoneSiding.corner.name=Canto de Pedra Pálida
+tile.fcWhiteStoneSiding.bench.name=Banco de Pedra Pálida
+tile.fcWhiteStoneSiding.fence.name=Muro de Pedra Pálida
+tile.fcWhiteStoneMoulding.name=Moldes e Decorações
+tile.fcWhiteStoneMoulding.moulding.name=Molde de Pedra Pálida
+tile.fcWhiteStoneMoulding.column.name=Coluna de Pedra Pálida
+tile.fcWhiteStoneMoulding.pedestal.name=Pedestal de Pedra Pálida
+tile.fcWhiteStoneMoulding.table.name=Mesa de Pedra Pálida
+
+tile.fcBlockWhiteStoneStairs.smooth.name=Escadas de Pedra Pálida
+tile.fcBlockWhiteStoneStairs.cobble.name=Escadas de Pedregulho Pálido
+
+tile.fcNetherBrickSiding.name=Paredes e Cantos
+tile.fcNetherBrickSiding.siding.name=Paredes de Tijolos do Nether
+tile.fcNetherBrickSiding.corner.name=Cantos de Tijolos do Nether
+tile.fcNetherBrickSiding.bench.name=Banco de Tijolos do Nether
+tile.fcNetherBrickSiding.fence.name=Muro de Tijolos de Nether
+tile.fcNetherBrickMoulding.name=Moldes e Decorações tile.fcNetherBrickMoulding.moulding.name=Molde de Tijolos do Nether
+tile.fcNetherBrickMoulding.column.name=Coluna de Tijolos do Nether
+tile.fcNetherBrickMoulding.pedestal.name=Pedestal de Tijolos do Nether
+tile.fcNetherBrickMoulding.table.name=Mesa de Tijolos do Nether
+
+tile.fcBrickSiding.name=Paredes e Cantos tile.fcBrickSiding.siding.name=Parede de Tijolos
+tile.fcBrickSiding.corner.name=Cantos de Tijolos
+tile.fcBrickSiding.bench.name=Banco de Tijolos
+tile.fcBrickSiding.fence.name=Muro de Tijolos
+tile.fcBrickMoulding.name=Moldes e Decoração
+tile.fcBrickMoulding.moulding.name=Molde de Tijolos
+tile.fcBrickMoulding.column.name=Coluna de Tijolos
+tile.fcBrickMoulding.pedestal.name=Pedestal de Tijolos
+tile.fcBrickMoulding.table.name=Mesa de Tijolos
+
+tile.fcStoneSiding.stone.name=Paredes e Cantos
+tile.fcStoneSiding.stone.siding.name=Parede de Pedra
+tile.fcStoneSiding.stone.corner.name=Canto de Pedra
+tile.fcStoneSiding.stone.bench.name=Banco de Pedra 
+tile.fcStoneSiding.stone.fence.name=Muro de Pedra
+tile.fcStoneMoulding.stone.name=Moldes e Decorações
+tile.fcStoneMoulding.stone.moulding.name=Molde de Pedra
+tile.fcStoneMoulding.stone.column.name=Coluna de Pedra
+tile.fcStoneMoulding.stone.pedestal.name=Pedestal de Pedra
+tile.fcStoneMoulding.stone.table.name=Mesa de Pedra
+
+tile.fcStoneSiding.deepslate.name=Paredes e Cantos
+tile.fcStoneSiding.deepslate.siding.name=Parede de Ardósia
+tile.fcStoneSiding.deepslate.corner.name=Canto de Ardósia
+tile.fcStoneSiding.deepslate.bench.name=Banco de Ardósia
+tile.fcStoneSiding.deepslate.fence.name=Muro de Ardósia
+tile.fcStoneMoulding.deepslate.name=Moldes e Decorações
+tile.fcStoneMoulding.deepslate.moulding.name=Molde de Ardósia
+tile.fcStoneMoulding.deepslate.column.name=Coluna de Ardósia
+tile.fcStoneMoulding.deepslate.pedestal.name=Pedestal de Ardósia
+tile.fcStoneMoulding.deepslate.table.name=Mesa de Ardósia
+
+tile.fcStoneSiding.blackstone.name=Paredes e Cantos
+tile.fcStoneSiding.blackstone.siding.name=Parede de Pedra Negra
+tile.fcStoneSiding.blackstone.corner.name=Canto de Pedra Negra
+tile.fcStoneSiding.blackstone.bench.name=Banco de Pedra Negra
+tile.fcStoneSiding.blackstone.fence.name=Muro de Pedra Negra
+tile.fcStoneMoulding.blackstone.name=Moldes e Decorações
+tile.fcStoneMoulding.blackstone.moulding.name=Molde de Pedra Negra
+tile.fcStoneMoulding.blackstone.column.name=Coluna de Pedra Negra
+tile.fcStoneMoulding.blackstone.pedestal.name=Pedestal de Pedra Negra
+tile.fcStoneMoulding.blackstone.table.name=Mesa de Pedra Negra
+
+tile.fcSandstoneSiding.name=Paredes e Cantos
+tile.fcSandstoneSiding.siding.name=Parede de Arenito
+tile.fcSandstoneSiding.corner.name=Canto de Arenito
+tile.fcSandstoneSiding.bench.name=Banco de Arenito
+tile.fcSandstoneSiding.fence.name=Muro de Arenito
+tile.fcSandstoneMoulding.name=Moldes e Decorações
+tile.fcSandstoneMoulding.moulding.name=Molde de Arenito
+tile.fcSandstoneMoulding.column.name=Coluna de Arenito
+tile.fcSandstoneMoulding.pedestal.name=Pedestal de Arenito
+tile.fcSandstoneMoulding.table.name=Mesa de Arenito
+
+tile.fcBlockAestheticOpaqueEarth.name=Terra Opaca Estética
+tile.fcBlockAestheticOpaqueEarth.blight.name=Praga
+tile.fcBlockAestheticOpaqueEarth.blight3.name=Praga Madura
+tile.fcBlockAestheticOpaqueEarth.packed.name=Terra Compactada
+tile.fcBlockAestheticOpaqueEarth.dung.name=Bloco de Esterco
+tile.fcBlockSlabDirt.name=Laje de Terra
+tile.fcBlockSlabDirt.grass.name=Laje de Terra Antigo
+tile.fcBlockSlabDirt.packed.name=Laje de Terra Compactada
+tile.fcBlockSlabFalling.name=Laje de Cascalho
+tile.fcBlockSlabFalling.sand.name=Laje de Areia
+tile.fcBlockThatch.name=Fardo de Palha
+tile.fcBlockDiamondIngot.name=Bloco de Barras de Diamantes
+
+# Vanilla Blocks Renamed
+
+tile.tnt.name=Barril de Pólvora
+tile.mushroom.name=Cogumelo Velho
+tile.anvil.intact.name=Peso Morto Intacto
+tile.anvil.slightlyDamaged.name=Peso Morto Rachado
+tile.anvil.veryDamaged.name=Peso Morto Danificado
+tile.stairsQuartz.name=Escadas de Quartzo
+tile.stoneSlab.quartz.name=Laje de Quartzo
+tile.quartzBlock.default.name=Bloco de Quartzo
+tile.quartzBlock.chiseled.name=Quartzo Talhado
+tile.quartzBlock.lines.name=Pilar de Quartzo
+tile.pumpkin.name=Abóbora Esculpida
+tile.wood.blood.name=Tábuas Sangrentas
+tile.woodSlab.blood.name=Laje de Tábuas Sangrentas
+
+tile.torch.name=Tocha Antiga
+
+tile.stone.stone.name=Pedra
+tile.stone.deepslate.name=Ardósia Bissal
+tile.stone.blackstone.name=Pedra Negra
+
+tile.stonebrick.stone.name=Pedregulho
+tile.stonebrick.deepslate.name=Pedregulho de Ardósia
+tile.stonebrick.blackstone.name=Pedregulho de Pedra Negra
+
+tile.stoneMoss.stone.name=Pedregulho Musgoso
+tile.stoneMoss.deepslate.name=Pedregulho de Ardósia Musgoso
+tile.stoneMoss.blackstone.name=Pedregulho de Pedra Negra Musgoso
+
+tile.stonebricksmooth.stone.name=Tijolos de Pedra
+tile.stonebricksmooth.stone.mossy.name=Tijolos de Pedra Musgosos
+tile.stonebricksmooth.stone.cracked.name=Tijolos de Pedra Rachada
+tile.stonebricksmooth.stone.chiseled.name=Tijolos de Pedra Talhado
+
+tile.stonebricksmooth.deepslate.name=Tijolos de Ardósia
+tile.stonebricksmooth.deepslate.mossy.name=Tijolos de Ardósia Musgosos
+tile.stonebricksmooth.deepslate.cracked.name=Tijolos de Ardósia Rachada
+tile.stonebricksmooth.deepslate.chiseled.name=Tijolos de Ardósia Talhado
+
+tile.stonebricksmooth.blackstone.name=Tijolos de Pedra Negra
+tile.stonebricksmooth.blackstone.mossy.name=Tijolos de Pedra Negra Musgosos
+tile.stonebricksmooth.blackstone.cracked.name=Tijolos de Pedra Negra Rachado
+tile.stonebricksmooth.blackstone.chiseled.name=Tijolos de Pedra Negra Talhado
+
+tile.cobblestoneSlab.stone.name=Laje de Pedregulho
+tile.cobblestoneSlab.deepslate.name=Laje de Pedregulho de Ardósia
+tile.cobblestoneSlab.blackstone.name=Laje de Pedregulho de pedra Negra
+
+tile.stoneBrickSlab.stone.name=Laje de Tijolos de Pedra
+tile.stoneBrickSlab.deepslate.name=Laje de Tijolos de Ardósia
+tile.stoneBrickSlab.blackstone.name=Laje de Tijolos de Pedra Negra
+
+tile.stoneSlab.stone.name=Laje de Pedra
+tile.stoneSlab.deepslate.name=Laje de Ardósia
+tile.stoneSlab.blackstone.name=Laje de Pedra Negra
+
+tile.sapling.oak.name=Muda de Carvalho Antiga
+tile.sapling.spruce.name=Muda de Abeto Antiga
+tile.sapling.birch.name=Muda de Bétula Antiga
+tile.sapling.jungle.name=Muda da Selva Antiga
+
+tile.sapling.oakMature.name=Muda de Carvalho Madura Antiga
+tile.sapling.spruceMature.name=Muda de Abeto Madura Antiga
+tile.sapling.birchMature.name=Muda de Bétula Madura Antiga
+tile.sapling.jungleMature.name=Muda da Selva Madura Antiga
+
+tile.netherrack.name=Netherrack
+tile.portal.name=Portal do Nether
+
+# BTW Items
+
+item.fcItemBucketCement.name=Balde de Cimento
+item.fcItemWolfChopRaw.name=Costela de Lobo Crua
+item.fcItemWolfChopCooked.name=Costela de Lobo Assada
+item.fcItemNethercoal.name=Carvão Infernal
+item.fcItemSeedsHemp.name=Sementes de Cânhamo
+item.fcItemHemp.name=Cânhamo
+item.fcItemGear.name=Engrenagem
+item.fcItemFlour.name=Farinha
+item.fcItemFibersHemp.name=Fibra de Cânhamo
+item.fcItemLeatherScoured.name=Couro Esfregado
+item.fcItemDonut.name=Rosquinha
+item.fcItemRope.name=Corda
+item.fcItemSlats.name=Valas Antigas
+item.fcItemDung.name=Estrume
+item.fcItemWaterWheel.name=Roda d’água
+item.fcItemBladeWindMill.name=Vela
+item.fcItemWindMill.name=Moinho de Vento
+item.fcItempFabric.name=Tecido
+item.fcItemGrate.name=Grades Antigas
+item.fcItemWicker.name=Painel de Vime Antigo
+item.fcItemLeatherTanned.name=Couro Curtido
+item.fcItemStrap.name=Alça
+item.fcItemBelt.name=Cinto
+item.fcItemFoulFood.name=Comida dos Tolos
+item.fcItemBladeWood.name=Aleta de Madeira
+item.fcItemGlue.name=Cola
+item.fcItemTallow.name=Gordura
+item.fcItemHaft.name=Cabo
+item.fcItemIngotSteel.name=Barra de Aço de Almas
+item.fcItemPickAxeRefined.name=Picareta Refinada
+item.fcItemShovelRefined.name=Pá Refinada
+item.fcItemHoeRefined.name=Enxada Refinada
+item.fcItemAxeBattle.name=Machado de Batalha
+item.fcItemSwordRefined.name=Espada Refinada
+item.fcItemNetherrackGround.name=Pedaços de Netherrack
+item.fcItemDustHellfire.name=Pó de Fogo Infernal
+item.fcItemConcentratedHellfire.name=Fogo Infernal Concentrado
+item.fcItemArmorPlate.name=Placa de Aço para Armadura
+item.fcItemHelmetPlate.name=Elmo de Placas de Aço
+item.fcItemChestplatePlate.name=Peitoral de Aço Placas de Aço
+item.fcItemLeggingsPlate.name=Calças de Placas de Aço
+item.fcItemBootsPlate.name=Botas de Placas
+item.fcItemBowComposite.name=Arco Composto
+item.fcItemArrowheadBroadhead.name=Ponta Larga
+item.fcItemArrowBroadhead.name=Flecha de Ponta Larga
+item.fcItemDustCoal.name=Pilha de Pó de Carvão
+item.fcItemPadding.name=Acolchoamento
+item.fcItemFilament.name=Filamento
+item.fcItemRedstoneEye.name=Olho de Redstone
+item.fcItemUrn.name=Urna
+item.fcItemUrnSoul.name=Urna de Alma
+item.fcItemEggPoached.name=Ovo Cozido
+item.fcItemPotash.name=Potasio
+item.fcItemSoap.name=Sabão
+item.fcItemDustSaw.name=Pó de Serra
+item.fcItemGimpHelm.name=Máscara Estranha
+item.fcItemGimpChest.name=Macacão de Couro
+item.fcItemGimpLeggings.name=Calças Esquisitas
+item.fcItemGimpBoots.name=Botas com Sola de Ferro
+item.fcItemDynamite.name=Dinamite
+item.fcItemHarnessBreeding.name=Arreio de Reprodução
+item.fcItemDustSoul.name=Poeira de Alma
+item.fcItemMattock.name=Pá-careta
+item.fcItemHatchetRefined.name=Machado Refinado
+item.fcItemNetherSludge.name=Escória do Nether
+item.fcItemBrickNether.name=Tijolo do Nether
+item.fcItemTuningFork.name=Diapasão
+item.fcItemScrollArcane.name=Pergaminho Arcano
+item.fcItemCandle.name=Vela
+item.fcItemSporesNetherGroth.name=Esporos da Praga do Nether
+item.fcItemMould.name=Molde
+item.fcItemCanvas.name=Tela de Pintura
+item.fcItemKibble.name=Ração de Cachorro
+item.fcItemEggRaw.name=Ovo Cru
+item.fcItemEggFried.name=Ovo Frito
+item.fcItemScrew.name=Ferrolho
+item.fcItemArrowRotten.name=Flecha Podre
+item.fcItemOcularOfEnder.name=Lente Ender
+item.fcItemEnderSpectacles.name=Óculos Ender
+item.fcItemStake.name=Estaca
+item.fcItemBrimstone.name=Enxofre
+item.fcItemNitre.name=Nitre
+item.fcItemElement.name=Elemento
+item.fcItemFuse.name=Fusivel
+item.fcItemBlastingOil.name=Óleo Instável
+item.fcItemWindMillVertical.name=Moinho de Vento Vertical
+item.fcItemPotatoBoiled.name=Batata Cozida
+item.fcItemMuttonRaw.name=Carneiro Cru
+item.fcItemMuttonCooked.name=Carneiro Assado
+item.fcItemWitchWart.name=Verruga de Bruxa
+item.fcItemCarrotCooked.name=Cenoura Assada
+item.fcItemSandwichTasty.name=Sanduíche Delicioso
+item.fcItemSteakAndPotatoes.name=Bife e Batatas
+item.fcItemHamAndEggs.name=Bacon e Ovos
+item.fcItemDinnerSteak.name=Jantar de Bife
+item.fcItemDinnerPork.name=Jantar de Porco
+item.fcItemDinnerWolf.name=Jantar de Lobo
+item.fcItemKebabRaw.name=Espetinho cru
+item.fcItemKebabCooked.name=Espetinho Grelhado
+item.fcItemSoupChicken.name=Sopa de Galinha
+item.fcItemChowder.name=Ensopado de Peixe
+item.fcItemStewHearty.name=Bufê Liberado
+item.fcItemMushroomRed.name=Cogumelo Marrom
+item.fcItemMushroomBrown.name=Cogumelo Vermelho
+item.fcItemNuggetIron.name=Pepita de Ferro
+item.fcItemMail.name=Malha de Ferro
+item.fcItemMysteryMeatRaw.name=Carne Misteriosa Crua
+item.fcItemMysteryMeatCooked.name=Carne Misteriosa Assada
+item.fcItemMushroomOmletRaw.name=Omelete de Cogumelos Cru
+item.fcItemMushroomOmletCooked.name=Omelete de Cogumelos Frita
+item.fcItemEggScrambledRaw.name=Ovos Mexidos Cru
+item.fcItemEggScrambledCooked.name=Ovos Mexidos Fritos
+item.fcItemCreeperOysters.name=Ostras de Creeper
+item.fcItemWoolHelm.name=Boné
+item.fcItemWoolChest.name=Camiseta de Lã
+item.fcItemWoolLeggings.name=Calças de Lã
+item.fcItemWoolBoots.name=Meias
+item.fcItemPaddedHelm.name=Touca Acolchoado
+item.fcItemPaddedChest.name=Jaqueta Acolchoada
+item.fcItemPaddedLeggings.name=Calças Acolchoadas
+item.fcItemPaddedBoots.name=Pantufas
+item.fcItemTannedHelm.name=Capuz de Couro Curtido
+item.fcItemTannedChest.name=Túnica de Couro Curtido
+item.fcItemTannedLeggings.name=Calças de Couro Curtido
+item.fcItemTannedBoots.name=Botas de Couro Curtido
+item.fcItemIngotDiamond.name=Barras de Diamante
+item.fcItemLeatherCut.name=Couro Cortado
+item.fcItemLeatherTannedCut.name=Couro Curtido Cortado
+item.fcItemLeatherScouredCut.name=Couro Esfregado Cortado
+item.fcItemFishingRodBaited.name=Vara de Pesca com Isca
+item.fcItemPileDirt.name=Pilha de Terra
+item.fcItemPileSand.name=Pilha de Areia
+item.fcItemPileGravel.name=Pilha de Cascalho
+item.fcItemBatWing.name=Asa de Morcego
+item.fcItemDungGolden.name=Cocô de ouro
+item.fcItemPileSoulSand.name=Pilha de Areia de Alma
+item.fcItemPileEmerald.name=Pilha de Pó de Esmeralda
+item.fcItemRedstoneLatch.name=Trava de Redstone
+item.fcItemNuggetSteel.name=Pepita de Aço
+item.fcItemWool.name=Lã
+item.fcItemCocoaBeans.name=Sementes de Cacau
+item.fcItemChocolate.name=Chocolate
+item.fcItemBucketChocolateMilk.name=Achocolatado
+item.fcItemSoulFlux.name=Fluxo de Alma
+item.fcItemEnderSlag.name=Escória de Ender
+item.fcItemPastryUncookedCake.name=Massa de Bolo
+item.fcItemPastryUncookedCookies.name=Massa de Biscoitos
+item.fcItemPastryUncookedPumpkinPie.name=Torta de Abóbora Pronta para Assar
+item.fcItemMysteriousGland.name=Glândula Misteriosa
+item.fcItemBeastLiverRaw.name=Fígado da Besta Cru
+item.fcItemBeastLiverCooked.name=Fígado Assado
+item.fcItemAncientProphecy.name=Profecia Antiga
+item.fcItemStumpRemover.name=Removedor de Tocos
+item.fcItemChiselWood.name=Graveto Pontudo
+
+item.fcItemStone.stone.name=Rocha Solta
+item.fcItemStone.deepslate.name=Rocha de Ardósia Solta
+item.fcItemStone.blackstone.name=Rocha Negra Solta
+
+item.fcItemChiselStone.name=Pedra Afiada
+item.fcItemClub.name=Porrete de Madeira
+item.fcItemFireStarterSticks.name=Arado de Fogo
+item.fcItemFireStarterBow.name=Broca-arco
+item.fcItemChunkIronOre.name=Pedaço de Minério de Ferro
+item.fcItemPileIronOre.name=Pó de Minério de Ferro
+item.fcItemChiselIron.name=Formão de Ferro
+item.fcItemChunkGoldOre.name=Pedaço de Minério de Ouro
+item.fcItemPileGoldOre.name=Pó de Minério de Ouro
+item.fcItemWickerPiece.name=Vime
+item.fcItemKnittingNeedles.name=Agulhas de Tricô
+item.fcItemKnitting.name=Tricô
+item.fcItemWoolKnit.name=Lã Tricotada
+item.fcItemClubBone.name=Porrete de Osso
+item.fcItemMeatCured.name=Carne Seca
+item.fcItemMetalFragment.name=Fragmento de Metal
+item.fcItemPileClay.name=Pilha de Argila
+item.fcItemMeatBurned.name=Carne Queimada
+item.fcItemChickenFeed.name=Comida de Galinha
+item.fcItemFishHookBone.name=Anzol de Osso
+item.fcItemCarvingBone.name=Esculpimento de Anzol de Osso
+
+item.fcItemBrickStone.stone.name=Tijolo de Pedra
+item.fcItemBrickStone.deepslate.name=Tijolo de Ardósia
+item.fcItemBrickStone.blackstone.name=Tijolo de Pedra Negra
+
+item.fcItemWickerWeaving.name=Tecimento de Vime
+item.fcItemWheat.name=Trigo 
+item.fcItemWheatSeeds.name=Sementes de Trigo
+item.fcItemBreadDough.name=Massa de Pão
+item.fcItemStraw.name=Palha
+item.fcItemBrickUnfired.name=Tijolo Molhado
+item.fcItemBrickCrudeUnfired.name=Tijolo Molhado Primitivo
+item.fcItemBrickNetherUnfired.name=Tijolo do Nether Molhado
+item.fcItemChiselDiamond.name=Formão de Diamante
+item.fcItemShearsDiamond.name=Tesouras de Diamante
+item.fcItemReedRoots.name=Raízes de Cana-de-Açúcar
+item.fcItemCarrot.name=Cenoura
+item.fcItemCarrotSeeds.name=Sementes de Cenoura
+item.fcItemDiamondPlate.name=Placa de Diamante para Armadura
+item.fcItemMelonMashed.name=Melancias Esmagadas
+item.fcItemBedroll.name=Colchonete
+item.fcItemCorpseEye.name=Olho de Cadáver
+item.fcItemTangledWeb.name=Emaranhado de Teia
+item.fcItemWebUntangling.name=Desembaraçamento da Teia
+item.fcItemSinew.name=Tendão
+item.fcItemSinewExtractingBeef.name=Extração de Tendão de Vaca
+item.fcItemSinewExtractingWolf.name=Extração de Tendão de Lobo
+item.fcItemRawCheval.name=Carne de Cavalo Crua
+item.fcItemCookedCheval.name=Carne de Cavalo Assada
+
+# BTW Complex Items
+
+item.fcItemBark.name=Casca de Árvore
+item.fcItemBark.oak.name=Casca de Carvalho
+item.fcItemBark.spruce.name=Casca de Abeto
+item.fcItemBark.birch.name=Casca de Bétula
+item.fcItemBark.jungle.name=Casca da Selva
+item.fcItemBark.bloodwood.name=Casca Sangrenta
+
+# Vanilla Items Renamed
+
+item.cauldron.name=Cisterna
+item.mushroomStew.name=Creme de Cogumelos
+item.enchantedBook.name=Manuscrito Antigo
+item.fireworks.name=Enchimento de Fogo de Artifício
+item.stick.name=Graveto
+item.fermentedSpiderEye.name=Saco de Veneno
+item.dyePowder.brown.name=Pó de Cacau
+item.skull.wither.name=Crânio Rúnico
+item.skull.infused.name=Crânio Infundido
+item.wheat.name=Trigo Velho
+item.seeds.name=Sementes Velhas
+item.carrots.name=Cenouras Antigas
+item.shears.name=Tesouras de Ferro
+
+# Colored items
+
+wool.black.name=Lã Preta
+wool.red.name=Lã Vermelha
+wool.green.name=Lã Verde
+wool.brown.name=Lã Marrom
+wool.blue.name=Lã Azul
+wool.purple.name=Lã Roxa
+wool.cyan.name=Lã Ciana
+wool.lightGray.name=Lã Cinza-Clara
+wool.gray.name=Lã Cinza
+wool.pink.name=Lã Rosa
+wool.lime.name=Lã Verde-Lima
+wool.yellow.name=Lã Amarela
+wool.lightBlue.name=Lã Azul Clara
+wool.magenta.name=Lã Magenta
+wool.orange.name=Lã Laranja
+wool.white.name=Lã Branca
+
+woolKnit.black.name=Lã Tricotada Preta
+woolKnit.red.name=Lã Tricotada Vermelha
+woolKnit.green.name=Lã Tricotada Verde
+woolKnit.brown.name=Lã Tricotada Marrom
+woolKnit.blue.name=Lã Tricotada Azul
+woolKnit.purple.name=Lã Tricotada Roxa
+woolKnit.cyan.name=Lã Tricotada Ciana
+woolKnit.lightGray.name=Lã Tricotada Cinza-Clara
+woolKnit.gray.name=Lã Tricotada Cinza
+woolKnit.pink.name=Lã Tricotada Rosa
+woolKnit.lime.name=Lã Tricotada Verde-Lima
+woolKnit.yellow.name=Lã Tricotada Amarela
+woolKnit.lightBlue.name=Lã Tricotada Azul Clara
+woolKnit.magenta.name=Lã Tricotada Magenta
+woolKnit.orange.name=Lã Tricotada Laranja
+woolKnit.white.name=Lã Tricotada Branca
+
+candle.black.name=Vela Preta
+candle.red.name=Vela Vermelha
+candle.green.name=Vela Verde
+candle.brown.name=Vela Marrom
+candle.blue.name=Vela Azul
+candle.purple.name=Vela Roxa
+candle.cyan.name=Vela Ciana
+candle.lightGray.name=Vela Cinza-Clara
+candle.gray.name=Vela Cinza
+candle.pink.name=Vela Rosa
+candle.lime.name=Vela Verde-Lima
+candle.yellow.name=Vela Amarela
+candle.lightBlue.name=Vela Azul Clara
+candle.magenta.name=Vela Magenta
+candle.orange.name=Vela Laranja
+candle.white.name=Vela Branca
+
+# Potions
+
+potion.fcFortune=Fortuna
+potion.fcLooting=Saque
+potion.fcTrueSight=Visão Acendida
+potion.hunger=Intoxicação
+
+# Container
+
+container.fcFurnaceBrick=Forno de Tijolos
+container.fcHamper=Cesto
+container.fcMillStone=Pedra de Moer
+
+# Entities
+
+entity.fcDireWolf.name=A Besta
+entity.fcJungleSpider.name=Aranha da Selva
+entity.addonVillagerFarmer.name=Fazendeiro
+entity.addonVillagerBlacksmith.name=Ferreiro
+entity.addonVillagerButcher.name=Açougueiro
+entity.addonVillagerLibrarian.name=Bibliotecário
+entity.addonVillagerPriest.name=Padre
+
+# KeyBindings
+
+key.special=Uso Alternativo
+
+# Chat Messages
+
+item.fcItemWaterWheel.placementObstructed=A Roda d’Água parece estar obstruída por algo, ou por você
+item.fcItemWaterWheel.notEnoughRoom=Não há espaço suficiente para a Roda d’Água
+message.windMill.placementObstructed=O Moinho de Vento parece estar obstruído por algo, ou por você
+message.windMill.notEnoughRoom=Não há espaço suficiente para o Moinho de Vento (isso é maior que o Cristo Redentor)
+item.fcItemWindMillVertical.tooFewAxles=Poucos eixos verticais na coluna para colocar o moinho de vento aqui
+tile.beacon.playerBound=Sua alma foi ligada a este sinalizador
+tile.beacon.invalid=Seu local de renascimento é invalido
+tile.beacon.notPresent=O sinalizador a qual você foi ligado não está mais presente
+tile.beacon.tooFar=O sinalizador a qual você foi ligado está muito longe
+tile.beacon.obstructed=O sinalizador ao qual você está vinculado foi obstruído
+tile.beacon.unknown=Seu renascimento falhou por uma razão desconhecida
+tile.bed.sleepImpossible=Você está muito ansioso para conseguir dormir aqui
+tile.fcBlockHandCrank.playerExhausted=Você está muito cansado para trabalho manual
+item.enchantedBook.languageUnfamiliar=A linguagem deste texto é desconhecida para você
+message.death.newSpawn=Você foi jogado de cabeça aqui...
+message.death.oldSpawn=Acho que estou tendo um déjà vu...
+chat.type.local=[Local] <%s> %s
+chat.type.global=[Global] <%s> %s
+commands.global.usage=/g or /global <your message ...>
+
+# Death Messages
+
+death.attack.fcSaw=%1$s descansou em pedacinhos
+death.attack.fcChoppingBlock=%1$s foi colocado num bloco de corte
+death.attack.fcGroth=%1$s se tornou um com o Nether
+death.attack.fcGrothSpores=%1$s sucumbiu para a Praga do Nether
+death.attack.fcMelon=%1$s foi esmagado por melancias
+death.attack.fcPumpkin=%1$s demorou um pouco demais para vestir uma abóbora
+death.attack.fcGloom=%1$s infartou de ansiedade ao ficar no escuro
+
+# Status effects
+
+status.invalid=Invalido
+
+status.gloom.gloom=Preocupado
+status.gloom.dread=Ansioso
+status.gloom.terror=Aterrorizado
+
+status.hunger.peckish=Fominha
+status.hunger.hungry=Fome
+status.hunger.famished=Faminto
+status.hunger.emaciated=Desnutrido
+status.hunger.starving=Morrendo de fome
+
+status.health.hurt=Dolorido
+status.health.injured=Machucado
+status.health.wounded=Ferido
+status.health.crippled=Aleijado
+status.health.dying=Morrendo
+
+status.fat.plump=Rechonchudo
+status.fat.chubby=Gordinho
+status.fat.fat=Gordo
+status.fat.obese=Obeso
+
+# Commands
+
+commands.difficulty.usage=/difficulty [new difficulty]
+commands.difficulty.unknown=Modo de dificuldade desconhecido
+commands.difficulty.current=Modo de dificuldade atual é
+commands.difficulty.set=Modo de dificuldade alterada para
+
+# Menu strings
+
+selectWorld.difficulty=Dificuldade
+selectWorld.gameMode=Modo:
+selectWorld.gameMode.survival=Sobrevivencia Hardcore
+selectWorld.gameMode.survival.line1=Renasça em uma área aleatória
+selectWorld.gameMode.survival.line2=quando morrer. Consiga uma
+selectWorld.gameMode.survival.line3=bússola para voltar ao spawn
+selectWorld.gameMode.creative.line1=Recursos infinitos, voo
+selectWorld.gameMode.creative.line2=ilimitado e destrua blocos
+selectWorld.gameMode.creative.line3=instantaneamente.
+selectWorld.gameMode.survivalClassic=Sobrevivência
+selectWorld.gameMode.survivalClassic.line1=Sobrevivência padrão do Minecraft.
+selectWorld.gameMode.survivalClassic.line2=Renasça onde o mundo começou
+selectWorld.gameMode.survivalClassic.line3=após você morrer.
+
+deathScreen.respawnRandomly=Renascer Aleatoriamente
+deathScreen.respawnNearby=Renascer Perto
+
+options.lock_difficulty=Travar Dificuldade do Mundo
+options.lock_difficulty.warning=Tem certeza de que deseja travar a dificuldade deste mundo? Você nunca mais poderá alterar isso
+
+difficulty.standard.name=Normal
+difficulty.standard.description=A experiência de sobrevivência padrão.
+difficulty.standard.description2=Você quer uma sobrevivência difícil,
+difficulty.standard.description3=mas balanceada, com foco tecnológico.
+
+difficulty.relaxed.name=Relaxado
+difficulty.relaxed.description=Uma experiência mais relaxada.
+difficulty.relaxed.description2=Uma jornada mais calma pelo mundo,
+difficulty.relaxed.description3=menos pressão, mais tecnologia.
+
+difficulty.hostile.name=Hostil
+difficulty.hostile.description=Uma experiência mais difícil.
+difficulty.hostile.description2=Você não é bem vindo neste mundo,
+difficulty.hostile.description3=e eles garantiram que você aprenda isso.
+
+difficulty.hostile_restricted.name=Hostil
+
+difficulty.classic.name=Clássico
+difficulty.classic.description=Em Busca da Casa Automática.
+difficulty.classic.description2=Retorna BTW para suas origens tecnológicas.
+difficulty.classic.description3=Você terá muito pouca pressão.
+
+# Attributes
+
+attribute.name.generic.armor=Armadura
+attribute.name.generic.armorWeight=Peso da Armadura
+attribute.name.generic.hungerCost=Custo de Fome
+
+attribute.name.generic.hungerCost.tiny=Minusculo
+attribute.name.generic.hungerCost.small=Pequeno
+attribute.name.generic.hungerCost.medium=Médio
+attribute.name.generic.hungerCost.large=Grande
+
+# Achievements
+
+achievementtab.getting_started=Nasce um Sobrevivente
+achievementtab.iron_age=Idade do Ferro
+achievementtab.automation=Automação
+achievementtab.end_game=Fim do Jogo
+
+achievement.btw.find_reeds=Corrida Doce
+achievement.btw.find_reeds.desc=Encontre cana-de-açúcar perto de rios, em pântanos ou selvas
+
+achievement.btw.craft_wicker=Teça-me em Paz
+achievement.btw.craft_wicker.desc=Junte algumas canas-de-açúcar para tecer vime
+
+achievement.btw.craft_basket=Hora do Piquenique!
+achievement.btw.craft_basket.desc=Faça uma cesta pequena usando vime
+
+achievement.btw.find_bones=Negócios Ossudos
+achievement.btw.find_bones.desc=Encontre alguns ossos
+
+achievement.btw.craft_bone_club=Esmaga-Crânios
+achievement.btw.craft_bone_club.desc=Dois ossos juntos fazem mais BONK!
+
+achievement.btw.killed_skeleton_with_club=O Que Você Fez?!
+achievement.btw.killed_skeleton_with_club.desc=Mate um esqueleto usando um porrete feito dos amigos dele
+
+achievement.btw.craft_bone_hook=Capitão Gancho
+achievement.btw.craft_bone_hook.desc=Quebre um osso, mas não o seu, okay?
+
+achievement.btw.bait_fishing_rod=O Mar Está para Peixe!
+achievement.btw.bait_fishing_rod.desc=Coloque isca numa vara de pesca
+
+achievement.btw.find_shaft=Engravetamento
+achievement.btw.find_shaft.desc=Esmurre aquela árvore até conseguir um graveto!
+
+achievement.btw.craft_wooden_club=Melhor que Nada...
+achievement.btw.craft_wooden_club.desc=Faça um porrete de madeira usando dois gravetos e faça bonk!
+
+achievement.btw.craft_fire_plough=Tá Pegando Fogo Bixo!
+achievement.btw.craft_fire_plough.desc=Faça um Arado de Fogo para iniciar incêndios.
+
+achievement.btw.craft_campfire=Vamos Acampar!
+achievement.btw.craft_campfire.desc=Junte 4 gravetos para criar uma fogueira
+
+achievement.btw.craft_pointy_stick=Não Cutuque seu Olho!
+achievement.btw.craft_pointy_stick.desc=Espete seu graveto
+
+achievement.btw.cook_meat=Churrasco de Domingo
+achievement.btw.cook_meat.desc=Asse uma carne em uma fogueira
+
+achievement.btw.craft_knitting_needles=Como Vovó Fazia
+achievement.btw.craft_knitting_needles.desc=Faça um par de agulhas de tricô usando dois gravetos pontudos
+
+achievement.btw.craft_wool_knit=É tão Macio!
+achievement.btw.craft_wool_knit.desc=Tricote algo e deixe sua avó orgulhosa!
+
+achievement.btw.equip_wool_armor=Preparado pro Inverno
+achievement.btw.equip_wool_armor.desc=Vista uma roupa que você tricotou
+
+achievement.btw.craft_sharp_stone=Afiada
+achievement.btw.craft_sharp_stone.desc=Afie uma pedra solta para coletar mais recursos
+
+achievement.btw.find_string=Mosca na teia
+achievement.btw.find_string.desc=Consiga um pedaço de linha de uma aranha
+
+achievement.btw.craft_bedroll=A Mimir
+achievement.btw.craft_bedroll.desc=Faça um colchonete para dormir a noite
+
+achievement.btw.craft_stone_shovel=Cave seu Túmulo
+achievement.btw.craft_stone_shovel.desc=Faça uma pá de pedra
+
+achievement.btw.craft_stone_axe=Machado Contundente?
+achievement.btw.craft_stone_axe.desc=Faça um machado de pedra usando pedras redondas
+
+achievement.btw.craft_bow_drill=Incendiario Treinado!
+achievement.btw.craft_bow_drill.desc=Crie um Broca-arco para criar mais fogo
+
+achievement.btw.find_logs=Pare, Hora do Machado!
+achievement.btw.find_logs.desc=Esmague uma árvore com um machado de pedra
+
+achievement.btw.dry_bricks=Direto pro Sol!
+achievement.btw.dry_bricks.desc=Molde tijolos feitos com argila e deixe eles secarem no sol
+
+achievement.btw.craft_oven=Subindo de Vida
+achievement.btw.craft_oven.desc=Faça um forno de tijolos usando lajes de tijolos
+
+achievement.btw.mine_iron_ore=Tô Ferrado!
+achievement.btw.mine_iron_ore.desc=Obtenha um pedaço de minério de ferro
+
+achievement.btw.smelt_iron=Só Isso?!
+achievement.btw.smelt_iron.desc=Derreta um minério de ferro
+
+achievement.btw.craft_iron_chisel=Mais Afiado
+achievement.btw.craft_iron_chisel.desc=Crie um Formão de Ferro
+
+achievement.btw.make_work_stump=Isso Não é Como Cortar Gelo
+achievement.btw.make_work_stump.desc=Encontre uma mesa de trabalho de um toco usando seu formão de ferro
+
+achievement.btw.find_stone_brick=Pedra Formosa
+achievement.btw.find_stone_brick.desc=Use um Formão de Ferro para extrair um tijolo da pedra
+
+achievement.btw.craft_stone_pickaxe=Picareta, Finalmente!
+achievement.btw.craft_stone_pickaxe.desc=Faça uma picareta de pedra e lembre-se de quantas tentativas isso lhe custou
+
+achievement.btw.craft_iron_ingot=Idade do Ferro
+achievement.btw.craft_iron_ingot.desc=Junte 9 pepitas de ferro em uma barra completa
+
+achievement.btw.mine_diamond_ore=DIAMANTES!
+achievement.btw.mine_diamond_ore.desc=Minere alguns diamantes
+
+achievement.btw.mine_redstone_ore=Ohh, Brilhante!
+achievement.btw.mine_redstone_ore.desc=Minere redstone
+
+achievement.btw.power_the_cake=Energize um Bolo
+achievement.btw.power_the_cake.desc=A questão que te intriga é a mesma que me intriga.
+
+achievement.btw.craft_compass=De Volta nos Trilhos
+achievement.btw.craft_compass.desc=Faça uma bússola para achar onde tudo começou
+
+#Iron Age Tab
+
+achievement.btw.iron_age=Idade do Ferro
+achievement.btw.iron_age.desc=Junte 9 pepitas de ferro em uma barra completa
+
+achievement.btw.equip_iron_armor=Quem com Ferro Fere...
+achievement.btw.equip_iron_armor.desc=Proteja-se com uma peça de armadura de ferro
+
+achievement.btw.craft_iron_pickaxe=Ferrou!
+achievement.btw.craft_iron_pickaxe.desc=Faça sua primeira picareta de ferro
+
+achievement.btw.craft_iron_axe=Brutal!
+achievement.btw.craft_iron_axe.desc=Faça um machado de ferro para cortar troncos e torsos
+
+achievement.btw.craft_iron_hoe=Vida de Fazendeiro
+achievement.btw.craft_iron_hoe.desc=Faça uma enxada de ferro
+
+achievement.btw.craft_iron_shears=Corta Fora!
+achievement.btw.craft_iron_shears.desc=Crie um par de tesouras de ferro
+
+achievement.btw.find_hemp_seeds=Eles Crescem Tão Devagar
+achievement.btw.find_hemp_seeds.desc=Encontre sementes de cânhamo escavando o chão com sua enxada
+
+achievement.btw.harvest_hemp=Industrializado
+achievement.btw.harvest_hemp.desc=Corte cânhamo com tesouras de ferro
+
+achievement.btw.craft_planks=Os 20 Segundos Mais Lentos da Minha Vida
+achievement.btw.craft_planks.desc=Corte madeira com um machado e consiga tábuas
+
+achievement.btw.craft_hamper=Maior, Melhor!
+achievement.btw.craft_hamper.desc=Desmonte seus cestos e deixe os maiores usando tábuas
+
+achievement.btw.craft_gear=Engrenado
+achievement.btw.craft_gear.desc=Crie um par de engrenagens
+
+achievement.btw.craft_millstone=Triturador
+achievement.btw.craft_millstone.desc=Junte tijolos de pedra e engrenagens para moer coisas
+
+achievement.btw.craft_hand_crank=Hora da Acadêmia!
+achievement.btw.craft_hand_crank.desc=Crie uma manivela manual
+
+achievement.btw.grind_hemp_fibers=Substituto Organico
+achievement.btw.grind_hemp_fibers.desc=Moa cânhamo numa pedra de moer
+
+achievement.btw.craft_sail=Leque Luxuoso
+achievement.btw.craft_sail.desc=Costure uma vela usando tecido, não penas de Alce-Ganso
+
+achievement.btw.craft_windmill=É a Energia Eólicaa!
+achievement.btw.craft_windmill.desc=Faça um catavento gigante usando 4 velas
+
+achievement.btw.boat_with_sail=Vamos Velejar, Marujos!
+achievement.btw.boat_with_sail.desc=Use uma vela para viajar mais rápido em barcos
+
+achievement.btw.craft_cauldron=Tem um Osso na Minha Sopa?
+achievement.btw.craft_cauldron.desc=Crie um caldeirão
+
+achievement.btw.find_dung=Sua- Nojenta!
+achievement.btw.find_dung.desc=Encontre estrume de um lobo. Do que você me chamou?
+
+achievement.btw.craft_tanned_leather=Sim, Você Precisa Disso
+achievement.btw.craft_tanned_leather.desc=Crie couro curtido usando estrume num caldeirão. Aviso: cuidado com a comida.
+
+achievement.btw.craft_saw=A Serra Serra a Serra
+achievement.btw.craft_saw.desc=Crie uma serradeira
+
+achievement.btw.craft_chest=Olha Todo Esse Espaço!
+achievement.btw.craft_chest.desc=Crie um Baú
+
+achievement.btw.findCreeperOysters=Mas Que Diabos-
+achievement.btw.findCreeperOysters.desc=Perguntas depois, castre um Creeper usando tesouras
+
+achievement.btw.find_diamonds=DIAMANTES!
+achievement.btw.find_diamonds.desc=Minere alguns diamantes
+
+achievement.btw.craft_diamond_ingot=Super Brilhante!
+achievement.btw.craft_diamond_ingot.desc=Crie uma Barra de Diamante
+
+achievement.btw.craft_diamond_pick=O Fundo do Poço
+achievement.btw.craft_diamond_pick.desc=Crie uma Picareta de Diamante para quebrar pedra negra
+
+achievement.btw.equip_diamond_armor=Cubra-me de Diamantes!
+achievement.btw.equip_diamond_armor.desc=Equipe uma bela armadura de diamante
+
+achievement.btw.find_obsidian=Entrando Numa Fria
+achievement.btw.find_obsidian.desc=Obtenha Obsidiana
+
+achievement.btw.enter_nether=O Buraco é Mais Embaixo
+achievement.btw.enter_nether.desc=Viaje para o Nether
+
+achievement.btw.craft_hopper=Já pro Funil!
+achievement.btw.craft_hopper.desc=Crie um funil
+
+achievement.btw.make_hellfire_dust=Sejam Livres!
+achievement.btw.make_hellfire_dust.desc=Filtre pedaços do Nether em um funil com areia de almas
+
+achievement.btw.find_blaze_rod=Brincando com Fogo
+achievement.btw.find_blaze_rod.desc=Ponha suas mãos na vara do Blaze
+
+achievement.btw.craft_nether_coal=Aprova D'água
+achievement.btw.craft_nether_coal.desc=Crie carvão infernal
+
+achievement.btw.craft_hibachi=Vamos Grelhar!
+achievement.btw.craft_hibachi.desc=Crie uma grelha usando elemento e fogo infernal concentrado
+
+achievement.btw.craft_turntable=Fiquei Tonto
+achievement.btw.craft_turntable.desc=Faça uma mesa giradora
+
+achievement.btw.craft_bellows=O Vento Soprou
+achievement.btw.craft_bellows.desc=Crie um fole para assoprar uma casas e fogo
+
+achievement.btw.stoke_fire=Assunto Quente!
+achievement.btw.stoke_fire.desc=Use foles e grelhas para criar fogo atiçado
+
+achievement.btw.spin_pottery=Mãos de Barro
+achievement.btw.spin_pottery.desc=Transforme blocos de argila em cerâmica numa mesa giradora
+
+achievement.btw.craft_crucible=Isso é Muito Roubado!
+achievement.btw.craft_crucible.desc=Crie um Crisol e recicle suas ferramentas de diamante
+
+achievement.btw.craft_water_wheel=Usina de Itaipu
+achievement.btw.craft_water_wheel.desc=Crie uma roda d'água
+
+achievement.btw.craft_dynamite=DINAMITE!
+achievement.btw.craft_dynamite.desc=Crie uma banana de dinamite
+
+achievement.btw.redneck_fishing=Pesca Tática!
+achievement.btw.redneck_fishing.desc=Jogue uma dinamite num lago e consiga alguns peixes
+
+achievement.btw.blew_up_with_blasting_oil=Foi um Acidente!
+achievement.btw.blew_up_with_blasting_oil.desc=Acidentalmente (ou não) se exploda com óleo instável. Opss!
+
+#Automation Tab
+
+achievement.btw.craft_soul_urn=De Volta pra Prisão.
+achievement.btw.craft_soul_urn.desc=Capture almas com uma urna
+
+achievement.btw.craft_piston=Vai um Empurrão?
+achievement.btw.craft_piston.desc=Crie um pistão
+
+achievement.btw.make_piston_packer=Embalado e Pronto
+achievement.btw.make_piston_packer.desc=Comprima itens em blocos usando um pistão
+
+achievement.btw.use_piston_shovel=Retroescavadeira
+achievement.btw.use_piston_shovel.desc=Use uma pá de pistão para pegar um bloco
+
+achievement.btw.craft_nether_plant=O Que Eu Criei?!
+achievement.btw.craft_nether_plant.desc=Crie uma nova vida... isso não é uma boa ideia
+
+achievement.btw.fertilize_nether_plant=Nutrindo Almas
+achievement.btw.fertilize_nether_plant.desc=Fertilize sua criação com uma urna de almas
+
+achievement.btw.anger_pigmen_with_plants=Isso Fede e Eles Odeiam
+achievement.btw.anger_pigmen_with_plants.desc=Irrite um homem-porco zumbi plantando Praga do Nether em Madeira Sangrenta
+
+achievement.btw.cure_villager=Zumbiólogo
+achievement.btw.cure_villager.desc=Coloque uma alma de volta naquele aldeão zumbi
+
+achievement.btw.traded_with_butcher=Aprendiz de Açougueiro
+achievement.btw.traded_with_butcher.desc=Troque algo com um açougueiro
+
+achievement.btw.max_level_butcher=Mestre Açougueiro
+achievement.btw.max_level_butcher.desc=Traga um açougueiro ao seu nível máximo
+
+achievement.btw.traded_with_priest=Aprendiz de Padre
+achievement.btw.traded_with_priest.desc=Troque com um Padre
+
+achievement.btw.max_level_priest=Mestre Padre
+achievement.btw.max_level_priest.desc=Traga um padre ao seu nível máximo
+
+achievement.btw.traded_with_librarian=Aprendiz de Bibliotecário
+achievement.btw.traded_with_librarian.desc=Troque com um bibliotecário
+
+achievement.btw.max_level_librarian=Mestre Bibliotecário
+achievement.btw.max_level_librarian.desc=Traga um bibliotecário ao seu nível máximo
+
+achievement.btw.make_companion_cube=Melhores Amigos Para Sempre!
+achievement.btw.make_companion_cube.desc=Transforme um lobo em um cubo companheiro!
+
+achievement.btw.make_companion_slab=Um Amigo Mais Compacto
+achievement.btw.make_companion_slab.desc=Transforme seu amigo em meio-amigo
+
+achievement.btw.traded_with_blacksmith=Aprendiz de Ferreiro
+achievement.btw.traded_with_blacksmith.desc=Troque com um ferreiro
+
+achievement.btw.max_level_blacksmith=Mestre Ferreiro
+achievement.btw.max_level_blacksmith.desc=Traga um ferreiro ao seu nível máximo
+
+achievement.btw.traded_with_farmer=Aprendiz de Fazendeiro
+achievement.btw.traded_with_farmer.desc=Troque com um fazendeiro
+
+achievement.btw.max_level_farmer=Fazendeiro Mestre
+achievement.btw.max_level_farmer.desc=Traga um fazendeiro ao seu nível máximo
+
+achievement.btw.toss_the_milk=Derrame o Leite
+achievement.btw.toss_the_milk.desc=Derrame o Leite
+
+achievement.btw.get_runed_skull=Esqueleto Assustador é Real?!
+achievement.btw.get_runed_skull.desc=Consiga um crânio rúnico 
+
+achievement.btw.get_infused_skull=Que Belos Olhos, Senhor
+achievement.btw.get_infused_skull.desc=Transforme um crânio rúnico em um crânio infundido
+
+achievement.btw.summon_wither=O Começo
+achievement.btw.summon_wither.desc=Traga a própria morte de volta a este mundo
+
+achievement.btw.killed_wither=Sem Tempo para Morrer.
+achievement.btw.killed_wither.desc=Derrote o Wither
+
+achievement.btw.crafted_beacon=Haja Luz
+achievement.btw.crafted_beacon.desc=Crie um Sinalizador
+
+achievement.btw.find_dormant_soulforge=Shhhh, Está Dormindo
+achievement.btw.find_dormant_soulforge.desc=Encontre e saqueie uma forja adormecida de uma fortaleza
+
+achievement.btw.convert_soulforge=Acorda Forjinha
+achievement.btw.convert_soulforge.desc=Acorde uma forja adormecida
+
+achievement.btw.convert_eyes_of_ender=O Olho que o Fim Vê
+achievement.btw.convert_eyes_of_ender.desc=Troque pérolas do ender por olhos do ender
+
+achievement.btw.enter_end=O Fim?
+achievement.btw.enter_end.desc=Entre no Fim
+
+#End Game Tab
+
+achievement.btw.killed_dragon=Então É Isso...
+achievement.btw.killed_dragon.desc=Derrube a Dragoa Ender
+
+achievement.btw.craft_steel=Nokia Tijolão
+achievement.btw.craft_steel.desc=Forje uma barra de aço de almas
+
+achievement.btw.craft_steel_combo_tool=Dois em Um
+achievement.btw.craft_steel_combo_tool.desc=Crie um machado de batalha ou uma pá-careta para poupar espaço do inventário
+
+achievement.btw.equip_steel_armor=Cubra me em Almas
+achievement.btw.equip_steel_armor.desc=Equipe uma armadura de aço de almas
+
+achievement.btw.craft_infernal_enchanter=Ritual Negro
+achievement.btw.craft_infernal_enchanter.desc=Crie um encantador infernal
+
+achievement.btw.use_infernal_enchanter=Poliglota
+achievement.btw.use_infernal_enchanter.desc=Use um pergaminho arcano em um encantador infernal
+
+achievement.btw.max_infernal_enchant=Agora Estamos Falando Sério
+achievement.btw.max_infernal_enchant.desc=Deixe seu encantador infernal com poder máximo
+
+achievement.btw.max_steel_beacon=A Morte Não me Para
+achievement.btw.max_steel_beacon.desc=Ligue sua alma a um sinalizador de aço de 4 andares
+
+achievement.btw.steel_beacon_respawn_across_dimensions=Através da Segunda Dimensão
+achievement.btw.steel_beacon_respawn_across_dimensions.desc=Renasça em um sinalizador de aço em uma dimensão diferente da atual
+
+achievement.btw.get_bootsies=Melhor Que Meias
+achievement.btw.get_bootsies.desc=Consiga um par de meias confortáveis
+
+achievement.btw.eatOysters=Azedinho
+achievement.btw.eatOysters.name=Coma algumas ostras de Creepers
+# Seja o que for, o sabor é explosivo/Melhor que Caviar
+
+# achievement.btw.powerCake=A Verdade!
+# achievement.btw.powerCake.desc=Energize um Bolo
+
+achievement.btw.cleanFarmer=Não Deixe Escorregar!
+achievement.btw.cleanFarmer.desc=Venda sabonete para um fazendeiro para que ele se limpe
+
+achievement.btw.milkBucket=Leite%
+achievement.btw.milkBucket.desc=Beba um balde de leite
+
+achievement.btw.eatMysteryMeat=Não Morra de Fome Juntos
+achievement.btw.eatMysteryMeat.desc="Eu... eu não gosto de ouvir histórias sobre pessoas em seus momentos mais desesperados...”
+
+# achievement.btw.eatStew=
+# achievement.btw.eatStew.desc=
+
+# achievement.btw.killBeast=
+# achievement.btw.killBeast.desc=
+
+# Possible secret achievements:
+# Activate a tier 4 diamond / emerald / soulforge beacon. soulforge could also be the final achievement in main line
+# get a rare sheep mutation proc
+# toss the milk
+
+
+
