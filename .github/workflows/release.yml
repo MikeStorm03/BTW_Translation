@@ -21,7 +21,7 @@ jobs:
         run: |
           set -euo pipefail
           # Always use the same JAR name
-          JAR_NAME="btw-translation.jar"
+          JAR_NAME="btw-translations.jar"
           echo "JAR_NAME=$JAR_NAME" >> $GITHUB_ENV
 
       - name: Inject version into fabric.mod.json
