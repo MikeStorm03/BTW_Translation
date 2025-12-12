@@ -31,16 +31,13 @@ jobs:
       - name: Create JAR of repository
         run: |
           set -euo pipefail
-
-          SHORT_SHA="${GITHUB_SHA:0:7}"
           JAR_NAME="repo-${SHORT_SHA}.jar"
 
+          # Build JAR safely, handling spaces in filenames
           find . -type f \
             ! -path "./.git/*" \
             ! -name "$JAR_NAME" \
-            -print | sed 's|^\./||' > filelist.txt
-
-          jar cf "$JAR_NAME" -C . -@ < filelist.txt
+            -print0 | xargs -0 jar cf "$JAR_NAME"
 
           echo "ZIP_NAME=$JAR_NAME" >> $GITHUB_ENV
 
@@ -48,11 +45,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ZIP_NAME: ${{ env.ZIP_NAME }}
+          TAG: ${{ env.INJECTED_VERSION }}
         run: |
           set -euo pipefail
-
-          SHORT_SHA="${GITHUB_SHA:0:7}"
-          TAG="v-$(date -u +%Y%m%d%H%M%S)-${SHORT_SHA}"
           TITLE="Automated release ${TAG}"
           NOTES="Automated release for commit ${GITHUB_SHA} on branch ${GITHUB_REF#refs/heads/}"
 
