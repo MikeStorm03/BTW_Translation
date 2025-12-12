@@ -1,0 +1,1456 @@
+# BTW Blocks
+
+tile.fcBlockArcaneVessel.name=용의 그릇
+tile.fcBlockScrewPump.name=나선 펌프
+tile.FCBlockFarmlandFertilized.name=경작지
+tile.fcBlockWoolSlab.name=양털 반 블록
+tile.fcBlockGroth.name=네더 성장
+tile.fcBlockInfernalEnchanter.name=지옥의 마법부여대
+tile.fcBlockSoulforgedSteel.name=영혼제련된 강철 블록
+tile.fcBlockDetectorLogicGlowing.name=빛나는 감지 로직
+tile.fcBlockBloodWoodLeaves.name=핏빛나무 잎
+tile.fcBlockBloodWood.name=핏빛나무
+tile.fcBlockMiningCharge.name=채굴용 폭약
+tile.fcBlockBuddyBlock.name=친구 블록
+tile.fcBlockKiln.name=가마
+tile.fcBlockAnvil.name=영혼제련대
+tile.fcBlockLightBlock.name=조명 블록
+tile.fcBlockHibachi.name=히바치
+tile.fcBlockHopper.name=깔때기
+tile.fcBlockSaw.name=톱
+tile.fcBlockPlatform.name=플랫폼
+tile.fcBlockCement.name=시멘트
+tile.fcBlockPulley.name=도르래
+tile.fcBlockWoodOakMoulding.name=구 몰딩
+tile.fcBlockWoodOakMoulding.moulding.name=구 몰딩
+tile.fcBlockCorner.name=구 코너
+tile.fcBlockBlockDispenser.name=블록 발사기
+tile.fcBlockCauldron.name=가마솥
+tile.fcBlockDetectorBlock.name=감지 블록
+tile.fcBlockDetectorLogic.name=감지 로직
+tile.fcBlockLens.name=렌즈
+tile.fcBlockHemp.name=대마초
+tile.fcBlockHandCrank.name=핸드 크랭크
+tile.fcBlockMillStone.name=맷돌
+tile.fcBlockAnchor.name=닻
+tile.fcBlockRope.name=밧줄
+tile.fcBlockOmniSlab.name=구 세로 반 블록
+tile.fcBlockAxle.name=축
+tile.fcBlockAxlePowerSource.name=전동 축
+tile.fcBlockGearBox.name=기어 박스
+tile.fcBlockTurntable.name=물레
+tile.fcBlockBellows.name=풀무
+tile.fcBlockStokedFire.name=솟아오른 불
+tile.fcBlockUnfiredPottery.name=굽지 않은 도기
+tile.fcBlockUnfiredPottery.crucible.name=굽지 않은 도가니
+tile.fcBlockUnfiredPottery.planter.name=굽지 않은 플랜터
+tile.fcBlockUnfiredPottery.vase.name=굽지 않은 꽃병
+tile.fcBlockUnfiredPottery.urn.name=굽지 않은 단지
+tile.fcBlockUnfiredPottery.mould.name=굽지 않은 몰드
+tile.fcBlockCrucible.name=도가니
+tile.fcBlockPlanter.name=플랜터
+tile.fcBlockVase.name=꽃병
+tile.fcBlockDetectorRailWood.name=감지 레일
+tile.fcBlockDetectorRailSoulforgedSteel.name=감지 레일
+tile.fcBlockRottenFlesh.name=살점 블록
+tile.fcBlockSoulforgeDormant.name=잠자는 영혼제련대
+
+tile.fcBlockSmoothstoneStairs.stone.name=돌 계단
+tile.fcBlockSmoothstoneStairs.deepslate.name=심층암 계단
+tile.fcBlockSmoothstoneStairs.blackstone.name=흑암 계단
+
+tile.fcBlockRottenFleshSlab.name=살점 반 블록
+tile.fcBlockBoneSlab.name=뼈 반 블록
+tile.fcBlockPumpkinFresh.name=호박
+tile.fcBlockWoodBloodStairs.name=핏빛나무 계단
+tile.fcBlockLogDamaged.name=뜯긴 원목
+tile.fcBlockGrassSparseLoose.name=드문드문한 느슨한 잔디 블록
+tile.fcBlockDirtLoose.name=느슨한 흙
+tile.fcBlockDirtLooseSlab.name=느슨한 흙 반 블록
+tile.fcBlockCampfire.name=모닥불
+tile.fcBlockUnfiredBrick.name=굽지 않은 벽돌
+tile.fcBlockCookedBrick.name=벽돌
+tile.fcBlockBrickLoose.name=느슨한 벽돌
+tile.fcBlockBrickLooseSlab.name=느슨한 벽돌 반 블록
+
+tile.fcBlockCobblestoneLoose.stone.name=느슨한 조약돌
+tile.fcBlockCobblestoneLoose.deepslate.name=느슨한 심층암 조약돌
+tile.fcBlockCobblestoneLoose.blackstone.name=느슨한 흑암 조약돌
+
+tile.fcBlockCobblestoneLooseSlab.stone.name=느슨한 조약돌 반 블록
+tile.fcBlockCobblestoneLooseSlab.deepslate.name=느슨한 심층암 조약돌 반 블록
+tile.fcBlockCobblestoneLooseSlab.blackstone.name=느슨한 흑암 조약돌 반 블록
+
+tile.fcBlockLooseFurnaceBrick.name=느슨한 벽돌 오븐
+tile.fcBlockFurnaceBrick.name=벽돌 오븐
+tile.fcBlockTorchFiniteIdle.name=조잡한 횃불
+tile.fcBlockTorchFiniteBurning.name=불타는 조잡한 횃불
+tile.fcBlockStoneRough.name=거친 돌
+tile.fcBlockWorkStump.name=작업 그루터기
+tile.fcBlockBasketWicker.name=고리버들 바구니
+tile.fcBlockLogSpike.name=원목 가시
+tile.fcBlockTorchIdle.name=꺼진 횃불
+tile.fcBlockUnfiredClay.name=점토 블록
+tile.fcBlockNetherSludge.name=네더 슬러지 블록
+tile.fcBlockMyceliumSlab.name=균사체 반 블록
+tile.fcBlockBrickLooseStairs.name=느슨한 벽돌 계단
+tile.fcBlockBoxBark.name=나무 껍질 박스
+
+tile.fcBlockCobblestoneLooseStairs.stone.name=느슨한 조약돌 계단
+tile.fcBlockCobblestoneLooseStairs.deepslate.name=느슨한 심층암 조약돌 계단
+tile.fcBlockCobblestoneLooseStairs.blackstone.name=느슨한 흑암 조약돌 계단
+
+tile.fcBlockCobblestoneStairs.stone.name=조약돌 계단
+tile.fcBlockCobblestoneStairs.deepslate.name=심층암 조약돌 계단
+tile.fcBlockCobblestoneStairs.blackstone.name=흑암 조약돌 계단
+
+tile.fcBlockLogSmouldering.name=연기나는 원목
+tile.fcBlockWoodCinders.name=재
+tile.fcBlockStumpCharred.name=검게 탄 그루터기
+tile.fcBlockAshGroundCover.name=잿가루
+tile.fcBlockSnowLoose.name=느슨한 눈 블록
+tile.fcBlockSnowLooseSlab.name=느슨한 눈 반 블록
+tile.fcBlockSnowSolid.name=눈
+tile.fcBlockSnowSolidSlab.name=눈 반 블록
+tile.fcBlockLadder.name=사다리
+tile.fcBlockLadderOnFire.name=불붙은 사다리
+tile.fcBlockShovel.name=피스톤 삽
+tile.fcBlockHamper.name=광주리
+tile.fcBlockCreeperOysters.name=오이스터 블록
+tile.fcBlockCreeperOystersSlab.name=오이스터 반 블록
+tile.fcBlockTorchNetherBurning.name=불타는 횃불
+tile.fcBlockRedstoneClutch.name=레드스톤 클러치
+tile.fcBlockSpikeIron.name=철 가시
+tile.fcBlockLightningRod.name=피뢰침
+
+tile.fcBlockStoneBrickLoose.stone.name=느슨한 돌 벽돌
+tile.fcBlockStoneBrickLoose.deepslate.name=느슨한 심층암 벽돌
+tile.fcBlockStoneBrickLoose.blackstone.name=느슨한 흑암 벽돌
+
+tile.fcBlockStoneBrickLooseSlab.stone.name=느슨한 돌 벽돌 반 블록
+tile.fcBlockStoneBrickLooseSlab.deepslate.name=느슨한 심층암 벽돌 반 블록
+tile.fcBlockStoneBrickLooseSlab.blackstone.name=느슨한 흑암 벽돌 반 블록
+
+tile.fcBlockStoneBrickLooseStairs.stone.name=느슨한 돌 벽돌 계단
+tile.fcBlockStoneBrickLooseStairs.deepslate.name=느슨한 심층암 벽돌 계단
+tile.fcBlockStoneBrickLooseStairs.blackstone.name=느슨한 흑암 벽돌 계단
+
+tile.fcBlockStoneBrickStairs.stone.name=돌 벽돌 계단
+tile.fcBlockStoneBrickStairs.deepslate.name=심층암 벽돌 계단
+tile.fcBlockStoneBrickStairs.blackstone.name=흑암 벽돌 계단
+
+tile.fcBlockNetherBrickLoose.name=느슨한 네더 벽돌
+tile.fcBlockNetherBrickLooseSlab.name=느슨한 네더 벽돌 반 블록
+tile.fcBlockNetherBrickLooseStairs.name=느슨한 네더 벽돌 계단
+tile.fcBlockNetherrackFalling.name=떨어지는 네더랙
+tile.fcBlockLavaPillow.name=용암 베개
+tile.fcBlockChunkOreStorageIron.name=철 광석 블록
+tile.fcBlockChunkOreStorageGold.name=금 광석 블록
+tile.fcBlockChunkOreGold.name= 금 광석 덩어리
+tile.fcBlockChunkOreIron.name=철 광석 덩어리
+tile.fcBlockWicker.name=고리버들 블록
+tile.fcBlockWickerSlab.name=고리버들 반 블록
+tile.fcBlockWickerPane.name=고리버들 판
+tile.fcBlockGrate.name=격자창
+tile.fcBlockSlats.name=널빤지살
+tile.fcBlockFarmlandNew.name=경작지
+tile.fcBlockPlanterSoil.name=토양 든 플랜터
+
+tile.fcBlockSilverfishStone.stone.name=벌레먹은 돌
+tile.fcBlockSilverfishCobblestone.stone.name=벌레먹은 조약돌
+tile.fcBlockSilverfishStoneBrick.stone.name=벌레먹은 돌 벽돌
+tile.fcBlockSilverfishStoneBrickMossy.stone.name=벌레먹은 이끼낀 돌 벽돌
+tile.fcBlockSilverfishStoneCracked.stone.name=벌레먹은 금간 돌 벽돌
+tile.fcBlockSilverfishStoneChiseled.stone.name=벌레먹은 조각된 돌 벽돌
+
+tile.fcBlockSilverfishStone.deepslate.name=벌레먹은 심층암
+tile.fcBlockSilverfishCobblestone.deepslate.name=벌레먹은 심층암 조약돌
+tile.fcBlockSilverfishStoneBrick.deepslate.name=벌레먹은 심층암 벽돌
+tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=벌레먹은 이끼낀 심층암 벽돌
+tile.fcBlockSilverfishStoneCracked.deepslate.name=벌레먹은 금간 심층암 벽돌
+tile.fcBlockSilverfishStoneChiseled.deepslate.name=벌레먹은 조각된 심층암 벽돌
+
+tile.fcBlockSilverfishStone.blackstone.name=벌레먹은 흑암
+tile.fcBlockSilverfishCobblestone.blackstone.name=벌레먹은 흑암 조약돌
+tile.fcBlockSilverfishStoneBrick.blackstone.name=벌레먹은 흑암 벽돌
+tile.fcBlockSilverfishStoneBrickMossy.blackstone.name=벌레먹은 이끼낀 흑암 벽돌
+tile.fcBlockSilverfishStoneCracked.blackstone.name=벌레먹은 금간 흑암 벽돌
+tile.fcBlockSilverfishStoneChiseled.blackstone.name=벌레먹은 조각된 흑암 벽돌
+
+tile.fcBlockClay.name=점토 광석
+tile.fcBlockGrassSlab.name=잔디 반 블록
+tile.fcBlockBedroll.name=침낭
+tile.fcBlockBedrollOld.name=구 침낭
+tile.fcBlockBed.name=침대
+tile.fcBlockSpiderEye.name=거미 눈 블록
+tile.fcBlockSpiderEyeSlab.name=거미 눈 반 블록
+tile.fcBlockSaplingOak.name=참나무 묘목
+tile.fcBlockSaplingOak.mature.name=성숙한 참나무 묘목
+tile.fcBlockSaplingSpruce.name=가문비나무 묘목
+tile.fcBlockSaplingSpruce.mature.name=성숙한 가문비나무 묘목
+tile.fcBlockSaplingBirch.name=자작나무 묘목
+tile.fcBlockSaplingBirch.mature.name=성숙한 자작나무 묘목
+tile.fcBlockSaplingJungle.name=정글 나무 묘목
+tile.fcBlockSaplingJungle.mature.name=성숙한 정글 나무 묘목
+tile.fcBlockMushroomCap.name=버섯 블록
+tile.fcBlockLoom.name=베틀
+tile.fcBlockCharcoal.name=숯 블록
+tile.fcBlockNethercoal.name=네더석탄 블록
+
+# BTW Complex Blocks
+
+tile.fcBlockCompanionCube.cube.name=동행 큐브
+tile.fcBlockCompanionCube.slab.name=동행 반 블록
+tile.fcBlockAestheticOpaque.name=미학적 불투명성
+tile.fcBlockAestheticOpaque.wicker.name=구 고리버들 블록
+tile.fcBlockAestheticOpaque.dung.name=구 똥
+tile.fcBlockAestheticOpaque.steel.name=영혼제련된 강철 블록
+tile.fcBlockAestheticOpaque.hellfire.name=응축된 헬파이어 블록
+tile.fcBlockAestheticOpaque.padding.name=패딩 블록
+tile.fcBlockAestheticOpaque.soap.name=비누 블록
+tile.fcBlockAestheticOpaque.rope.name=로프 코일
+tile.fcBlockAestheticOpaque.flint.name=부싯돌 블록
+tile.fcBlockAestheticOpaque.whitestone.name=하얀 돌
+tile.fcBlockAestheticOpaque.whitecobble.name=하얀 조약돌
+tile.fcBlockAestheticOpaque.barrel.name=통
+tile.fcBlockAestheticOpaque.choppingblockbloody.name=피묻은 절단 블록
+tile.fcBlockAestheticOpaque.choppingblock.name=절단 블록
+tile.fcBlockAestheticOpaque.enderblock.name=엔더 블록
+tile.fcBlockAestheticOpaque.bone.name=뼈 블록
+tile.fcBlockAestheticNonOpaque.name=미학적 투명성
+tile.fcBlockAestheticNonOpaque.urn.name=단지
+tile.fcBlockAestheticNonOpaque.column.name=구 기둥
+tile.fcBlockAestheticNonOpaque.pedestal.name=구 받침대
+tile.fcBlockAestheticNonOpaque.table.name=구 책상
+tile.fcBlockAestheticNonOpaque.wickerslab.name=구 고리버들 반 블록
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=하얀 조약돌 반 블록
+tile.fcBlockAestheticNonOpaque.lightningrod.name=구 영혼제련된 로드
+tile.fcBlockAestheticVegetation.name=미학적 식물
+tile.fcBlockAestheticVegetation.vinetrap.name=덩굴 함정
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=핏빛나무 묘목
+tile.fcBlockAestheticVegetation.bloodleaves.name=핏빛나무 잎
+
+tile.fcWoodSpruceSiding.oak.name=참나무 세로 반 블록
+tile.fcWoodSpruceSiding.spruce.name=가문비나무 세로 반 블록
+tile.fcWoodSpruceSiding.birch.name=자작나무 세로 반 블록
+tile.fcWoodSpruceSiding.jungle.name=정글 나무 세로 반 블록
+tile.fcWoodSpruceSiding.blood.name=핏빛나무 세로 반 블록
+
+tile.fcWoodSpruceMoulding.oak.name=참나무 마감재
+tile.fcWoodSpruceMoulding.spruce.name=가문비나무 마감재
+tile.fcWoodSpruceMoulding.birch.name=자작나무 마감재
+tile.fcWoodSpruceMoulding.jungle.name=정글 나무 마감재
+tile.fcWoodSpruceMoulding.blood.name=핏빛나무 마감재
+
+tile.fcWoodBirchSiding.oak.name=참나무 코너
+tile.fcWoodBirchSiding.spruce.name=가문비나무 코너
+tile.fcWoodBirchSiding.birch.name=자작나무 코너
+tile.fcWoodBirchSiding.jungle.name=정글 나무 코너
+tile.fcWoodBirchSiding.blood.name=핏빛나무 코너
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=참나무 받침대
+tile.fcWoodBirchMoulding.spruce.pedestal.name=가문비나무 받침대
+tile.fcWoodBirchMoulding.birch.pedestal.name=자작나무 받침대
+tile.fcWoodBirchMoulding.jungle.pedestal.name=정글 나무 받침대
+tile.fcWoodBirchMoulding.blood.pedestal.name=핏빛나무 받침대
+
+tile.fcWoodBirchMoulding.oak.column.name=참나무 기둥
+tile.fcWoodBirchMoulding.spruce.column.name=가문비나무 기둥
+tile.fcWoodBirchMoulding.birch.column.name=자작나무 기둥
+tile.fcWoodBirchMoulding.jungle.column.name=정글 나무 기둥
+tile.fcWoodBirchMoulding.blood.column.name=핏빛나무 기둥
+
+tile.fcWoodBirchMoulding.oak.table.name=참나무 책상
+tile.fcWoodBirchMoulding.spruce.table.name=가문비나무 책상
+tile.fcWoodBirchMoulding.birch.table.name=자작나무 책상
+tile.fcWoodBirchMoulding.jungle.table.name=정글 나무 책상
+tile.fcWoodBirchMoulding.blood.table.name=핏빛나무 책상
+
+tile.fcWoodJungleSiding.oak.bench.name=참나무 벤치
+tile.fcWoodJungleSiding.spruce.bench.name=가문비나무 벤치
+tile.fcWoodJungleSiding.birch.bench.name=자작나무 벤치
+tile.fcWoodJungleSiding.jungle.bench.name=정글 나무 벤치
+tile.fcWoodJungleSiding.blood.bench.name=핏빛나무 벤치
+
+tile.fcWoodJungleSiding.oak.fence.name=참나무 울타리
+tile.fcWoodJungleSiding.spruce.fence.name=가문비나무 울타리
+tile.fcWoodJungleSiding.birch.fence.name=자작나무 울타리
+tile.fcWoodJungleSiding.jungle.fence.name=정글 나무 울타리
+tile.fcWoodJungleSiding.blood.fence.name=핏빛나무 울타리
+
+tile.fcBlockSidingQuartz.name=세로 반 블록 그리고 코너
+tile.fcBlockSidingQuartz.siding.name=석영 세로 반 블록
+tile.fcBlockSidingQuartz.corner.name=석영 코너
+tile.fcBlockSidingQuartz.bench.name=석영 벤치
+tile.fcBlockSidingQuartz.fence.name=석영 담장
+tile.fcBlockMouldingQuartz.name=마감재 그리고 장식
+tile.fcBlockMouldingQuartz.moulding.name=석영 마감재
+tile.fcBlockMouldingQuartz.column.name=석영 기둥
+tile.fcBlockMouldingQuartz.pedestal.name=석영 받침대
+tile.fcBlockMouldingQuartz.table.name=석영 책상
+
+tile.fcStoneBrickSiding.name=세로 반 블록 그리고 코너
+tile.fcStoneBrickSiding.siding.name=돌 벽돌 세로 반 블록
+tile.fcStoneBrickSiding.corner.name=돌 벽돌 코너
+tile.fcStoneBrickSiding.bench.name=돌 벽돌 벤치
+tile.fcStoneBrickSiding.fence.name=돌 벽돌 담장
+tile.fcStoneBrickMoulding.name=마감재 그리고 장식
+tile.fcStoneBrickMoulding.moulding.name=돌 벽돌 마감재
+tile.fcStoneBrickMoulding.column.name=돌 벽돌 기둥
+tile.fcStoneBrickMoulding.pedestal.name=돌 벽돌 받침대
+tile.fcStoneBrickMoulding.table.name=돌 벽돌 책상
+
+tile.fcDeepslateBrickSiding.name=세로 반 블록 그리고 코너
+tile.fcDeepslateBrickSiding.siding.name=심층암 벽돌 세로 반 블록
+tile.fcDeepslateBrickSiding.corner.name=심층암 벽돌 코너
+tile.fcDeepslateBrickSiding.bench.name=심층암 벽돌 벤치
+tile.fcDeepslateBrickSiding.fence.name=심층암 벽돌 담장
+tile.fcDeepslateBrickMoulding.name=마감재 그리고 장식
+tile.fcDeepslateBrickMoulding.moulding.name=심층암 벽돌 마감재
+tile.fcDeepslateBrickMoulding.column.name=심층암 벽돌 기둥
+tile.fcDeepslateBrickMoulding.pedestal.name=심층암 벽돌 받침대
+tile.fcDeepslateBrickMoulding.table.name=심층암 벽돌 책상
+
+tile.fcBlackstoneBrickSiding.name=세로 반 블록 그리고 코너
+tile.fcBlackstoneBrickSiding.siding.name=흑암 벽돌 세로 반 블록
+tile.fcBlackstoneBrickSiding.corner.name=흑암 벽돌 코너
+tile.fcBlackstoneBrickSiding.bench.name=흑암 벽돌 벤치
+tile.fcBlackstoneBrickSiding.fence.name=흑암 벽돌 담장
+tile.fcBlackstoneBrickMoulding.name=마감재 그리고 장식
+tile.fcBlackstoneBrickMoulding.moulding.name=흑암 벽돌 마감재
+tile.fcBlackstoneBrickMoulding.column.name=흑암 벽돌 기둥
+tile.fcBlackstoneBrickMoulding.pedestal.name=흑암 벽돌 받침대
+tile.fcBlackstoneBrickMoulding.table.name=흑암 벽돌 책상
+
+tile.fcWhiteStoneSiding.name=세로 반 블록 그리고 코너
+tile.fcWhiteStoneSiding.siding.name=하얀 돌 세로 반 블록
+tile.fcWhiteStoneSiding.corner.name=하얀 돌 코너
+tile.fcWhiteStoneSiding.bench.name=하얀 돌 벤치
+tile.fcWhiteStoneSiding.fence.name=하얀 돌 담장
+tile.fcWhiteStoneMoulding.name=마감재 그리고 장식
+tile.fcWhiteStoneMoulding.moulding.name=하얀 돌 마감재
+tile.fcWhiteStoneMoulding.column.name=하얀 돌 기둥
+tile.fcWhiteStoneMoulding.pedestal.name=하얀 돌 받침대
+tile.fcWhiteStoneMoulding.table.name=하얀 돌 책상
+
+tile.fcBlockWhiteStoneStairs.smooth.name=하얀 돌 계단
+tile.fcBlockWhiteStoneStairs.cobble.name=하얀 조약돌 계단
+
+tile.fcNetherBrickSiding.name=세로 반 블록 그리고 코너
+tile.fcNetherBrickSiding.siding.name=네더 벽돌 세로 반 블록
+tile.fcNetherBrickSiding.corner.name=네더 벽돌 코너
+tile.fcNetherBrickSiding.bench.name=네더 벽돌 벤치
+tile.fcNetherBrickSiding.fence.name=네더 벽돌 담장
+tile.fcNetherBrickMoulding.name=마감재 그리고 장식
+tile.fcNetherBrickMoulding.moulding.name=네더 벽돌 마감재
+tile.fcNetherBrickMoulding.column.name=네더 벽돌 기둥
+tile.fcNetherBrickMoulding.pedestal.name=네더 벽돌 받침대
+tile.fcNetherBrickMoulding.table.name=네더 벽돌 책상
+
+tile.fcBrickSiding.name=세로 반 블록 그리고 코너
+tile.fcBrickSiding.siding.name=벽돌 세로 반 블록
+tile.fcBrickSiding.corner.name=벽돌 코너
+tile.fcBrickSiding.bench.name=벽돌 벤치
+tile.fcBrickSiding.fence.name=벽돌 담장
+tile.fcBrickMoulding.name=마감재 그리고 장식
+tile.fcBrickMoulding.moulding.name=벽돌 마감재
+tile.fcBrickMoulding.column.name=벽돌 기둥
+tile.fcBrickMoulding.pedestal.name=벽돌 받침대
+tile.fcBrickMoulding.table.name=벽돌 책상
+
+tile.fcStoneSiding.stone.name=세로 반 블록 그리고 코너
+tile.fcStoneSiding.stone.siding.name=돌 세로 반 블록
+tile.fcStoneSiding.stone.corner.name=돌 코너
+tile.fcStoneSiding.stone.bench.name=돌 벤치
+tile.fcStoneSiding.stone.fence.name=돌 담장
+tile.fcStoneMoulding.stone.name=마감재 그리고 장식
+tile.fcStoneMoulding.stone.moulding.name=돌 마감재
+tile.fcStoneMoulding.stone.column.name=돌 기둥
+tile.fcStoneMoulding.stone.pedestal.name=돌 받침대
+tile.fcStoneMoulding.stone.table.name=돌 책상
+
+tile.fcStoneSiding.deepslate.name=세로 반 블록 그리고 코너
+tile.fcStoneSiding.deepslate.siding.name=심층암 세로 반 블록
+tile.fcStoneSiding.deepslate.corner.name=심층암 코너
+tile.fcStoneSiding.deepslate.bench.name=심층암 벤치
+tile.fcStoneSiding.deepslate.fence.name=심층암 담장
+tile.fcStoneMoulding.deepslate.name=마감재 그리고 장식
+tile.fcStoneMoulding.deepslate.moulding.name=심층암 마감재
+tile.fcStoneMoulding.deepslate.column.name=심층암 기둥
+tile.fcStoneMoulding.deepslate.pedestal.name=심층암 받침대
+tile.fcStoneMoulding.deepslate.table.name=심층암 책상
+
+tile.fcStoneSiding.blackstone.name=세로 반 블록 그리고 코너
+tile.fcStoneSiding.blackstone.siding.name=흑암 세로 반 블록
+tile.fcStoneSiding.blackstone.corner.name=흑암 코너
+tile.fcStoneSiding.blackstone.bench.name=흑암 벤치
+tile.fcStoneSiding.blackstone.fence.name=흑암 담장
+tile.fcStoneMoulding.blackstone.name=마감재 그리고 장식
+tile.fcStoneMoulding.blackstone.moulding.name=흑암 마감재
+tile.fcStoneMoulding.blackstone.column.name=흑암 기둥
+tile.fcStoneMoulding.blackstone.pedestal.name=흑암 받침대
+tile.fcStoneMoulding.blackstone.table.name=흑암 책상
+
+tile.fcSandstoneSiding.name=세로 반 블록 그리고 코너
+tile.fcSandstoneSiding.siding.name=사암 세로 반 블록
+tile.fcSandstoneSiding.corner.name=사암 코너
+tile.fcSandstoneSiding.bench.name=사암 벤치
+tile.fcSandstoneSiding.fence.name=사암 담장
+tile.fcSandstoneMoulding.name=마감재 그리고 장식
+tile.fcSandstoneMoulding.moulding.name=사암 마감재
+tile.fcSandstoneMoulding.column.name=사암 기둥
+tile.fcSandstoneMoulding.pedestal.name=사암 받침대
+tile.fcSandstoneMoulding.table.name=사암 책상
+
+tile.fcBlockAestheticOpaqueEarth.name=미학적 불투명성 대지
+tile.fcBlockAestheticOpaqueEarth.blight.name=마름병
+tile.fcBlockAestheticOpaqueEarth.blight3.name=성숙한 마름병
+tile.fcBlockAestheticOpaqueEarth.packed.name=단단한 흙
+tile.fcBlockAestheticOpaqueEarth.dung.name=똥 블록
+tile.fcBlockSlabDirt.name=흙 반 블록
+tile.fcBlockSlabDirt.grass.name=구 잔디 반 블록
+tile.fcBlockSlabDirt.packed.name=단단한 흙 반 블록
+tile.fcBlockSlabFalling.name=자갈 반 블록
+tile.fcBlockSlabFalling.sand.name=모래 반 블록
+tile.fcBlockThatch.name=초가지붕
+tile.fcBlockDiamondIngot.name=다이아몬드 주괴 블록
+tile.fcBlockCarvedPumpkin.name=조각된 호박
+tile.fcBlockJackOLantern.name=잭오랜턴
+
+# Vanilla Blocks Renamed
+
+tile.dirt.name=흙
+tile.sand.name=모래
+tile.rose.name=양귀비
+tile.flower.name=민들레
+tile.fence.name=구 참나무 울타리
+tile.tnt.name=화약통
+tile.mushroom.name=구 버섯
+tile.anvil.intact.name=사하중
+tile.anvil.slightlyDamaged.name=사하중
+tile.anvil.veryDamaged.name=사하중
+tile.stairsQuartz.name=석영 계단
+tile.stoneSlab.quartz.name=석영 반 블록
+tile.quartzBlock.default.name=석영 블록
+tile.quartzBlock.chiseled.name=조각된 석영
+tile.quartzBlock.lines.name=석영 기둥
+tile.pumpkin.name=구 조각된 호박
+tile.wood.blood.name=핏빛나무 판자
+tile.woodSlab.blood.name=핏빛나무 반 블록
+tile.bed.name=구 침대
+
+tile.litpumpkin.name=구 잭오랜턴
+
+tile.torch.name=구 횃불
+
+tile.stone.stone.name=돌
+tile.stone.deepslate.name=심층암
+tile.stone.blackstone.name=흑암
+
+tile.stonebrick.stone.name=조약돌
+tile.stonebrick.deepslate.name=심층암 조약돌
+tile.stonebrick.blackstone.name=흑암 조약돌
+
+tile.stoneMoss.stone.name=이끼낀 조약돌
+tile.stoneMoss.deepslate.name=이끼낀 심층암 조약돌
+tile.stoneMoss.blackstone.name=이끼낀 흑암 조약돌
+
+tile.stonebricksmooth.stone.name=돌 벽돌
+tile.stonebricksmooth.stone.mossy.name=이끼낀 돌 벽돌
+tile.stonebricksmooth.stone.cracked.name=금간 돌 벽돌
+tile.stonebricksmooth.stone.chiseled.name=조각된 돌 벽돌
+
+tile.stonebricksmooth.deepslate.name=심층암 벽돌
+tile.stonebricksmooth.deepslate.mossy.name=이끼낀 심층암 벽돌
+tile.stonebricksmooth.deepslate.cracked.name=금간 심층암 벽돌
+tile.stonebricksmooth.deepslate.chiseled.name=조각된 심층암 벽돌
+
+tile.stonebricksmooth.blackstone.name=흑암 벽돌
+tile.stonebricksmooth.blackstone.mossy.name=이끼낀 흑암 벽돌
+tile.stonebricksmooth.blackstone.cracked.name=금간 흑암 벽돌
+tile.stonebricksmooth.blackstone.chiseled.name=조각된 흑암 벽돌
+
+tile.cobblestoneSlab.stone.name=조약돌 반 블록
+tile.cobblestoneSlab.deepslate.name=심층암 조약돌 반 블록
+tile.cobblestoneSlab.blackstone.name=흑암 조약돌 반 블록
+
+tile.stoneBrickSlab.stone.name=돌 벽돌 반 블록
+tile.stoneBrickSlab.deepslate.name=심층암 벽돌 반 블록
+tile.stoneBrickSlab.blackstone.name=흑암 벽돌 반 블록
+
+tile.stoneSlab.stone.name=돌 반 블록
+tile.stoneSlab.deepslate.name=심층암 반 블록
+tile.stoneSlab.blackstone.name=흑암 반 블록
+
+tile.sapling.oak.name=구 참나무 묘목
+tile.sapling.spruce.name=구 가문비나무 묘목
+tile.sapling.birch.name=구 자작나무 묘목
+tile.sapling.jungle.name=구 정글 나무 묘목
+
+tile.sapling.oakMature.name=구 성숙한 참나무 묘목
+tile.sapling.spruceMature.name=구 성숙한 가문비나무 묘목
+tile.sapling.birchMature.name=구 성숙한 자작나무 묘목
+tile.sapling.jungleMature.name=구 성숙한 정글 나무 묘목
+
+tile.netherrack.name=네더랙
+tile.portal.name=네더 차원문
+
+tile.ice.natural.name=자연 얼음
+tile.ice.artificial.name=얼음
+
+# BTW Items
+
+item.fcItemBucketCement.name=시멘트 양동이
+item.fcItemWolfChopRaw.name=익히지 않은 늑대고기
+item.fcItemWolfChopCooked.name=익힌 늑대고기
+item.fcItemNethercoal.name=네더석탄
+item.fcItemSeedsHemp.name=대마 씨앗
+item.fcItemHemp.name=대마
+item.fcItemGear.name=기어
+item.fcItemFlour.name=밀가루
+item.fcItemFibersHemp.name=대마 섬유
+item.fcItemLeatherScoured.name=매끄러운 가죽
+item.fcItemDonut.name=도넛
+item.fcItemRope.name=로프
+item.fcItemSlats.name=구 널빤지살
+item.fcItemDung.name=똥
+item.fcItemWaterWheel.name=물레방아
+item.fcItemBladeWindMill.name=돛
+item.fcItemWindMill.name=풍차
+item.fcItempFabric.name=천
+item.fcItemGrate.name=구 격자창
+item.fcItemWicker.name=구 고리버들 판
+item.fcItemLeatherTanned.name=무두질한 가죽
+item.fcItemStrap.name=가죽 끈
+item.fcItemBelt.name=가죽 띠
+item.fcItemFoulFood.name=역한 음식
+item.fcItemBladeWood.name=나무 물갈퀴
+item.fcItemGlue.name=아교
+item.fcItemTallow.name=동물 지방
+item.fcItemHaft.name=손잡이
+item.fcItemIngotSteel.name=영혼제련된 강철 주괴
+item.fcItemPickAxeRefined.name=정교한 곡괭이
+item.fcItemShovelRefined.name=정교한 삽
+item.fcItemHoeRefined.name=정교한 괭이
+item.fcItemAxeBattle.name=전투 도끼
+item.fcItemSwordRefined.name=정교한 검
+item.fcItemNetherrackGround.name=간 네더랙
+item.fcItemDustHellfire.name=헬파이어 가루
+item.fcItemConcentratedHellfire.name=응축된 헬파이어
+item.fcItemArmorPlate.name=강철 갑옷 플레이트
+item.fcItemHelmetPlate.name=판금 투구
+item.fcItemChestplatePlate.name=판금 흉갑
+item.fcItemLeggingsPlate.name=판금 레깅스
+item.fcItemBootsPlate.name=판금 부츠
+item.fcItemBowComposite.name=합성궁
+item.fcItemArrowheadBroadhead.name=화살촉
+item.fcItemArrowBroadhead.name=강화 화살
+item.fcItemDustCoal.name=석탄 가루 더미
+item.fcItemPadding.name=패딩
+item.fcItemFilament.name=필라멘트
+item.fcItemRedstoneEye.name=레드스톤 안구
+item.fcItemUrn.name=단지
+item.fcItemUrnSoul.name=영혼 단지
+item.fcItemEggPoached.name=수란
+item.fcItemPotash.name=칼륨
+item.fcItemSoap.name=비누
+item.fcItemDustSaw.name=톱밥
+item.fcItemGimpHelm.name=김프 마스크
+item.fcItemGimpChest.name=가죽 재킷
+item.fcItemGimpLeggings.name=가죽 덧바지
+item.fcItemGimpBoots.name=바이커 부츠
+item.fcItemDynamite.name=다이너마이트
+item.fcItemHarnessBreeding.name=번식용 하네스
+item.fcItemDustSoul.name=영혼 가루
+item.fcItemMattock.name=매톡
+item.fcItemHatchetRefined.name=정교한 도끼
+item.fcItemNetherSludge.name=네더 슬러지
+item.fcItemBrickNether.name=네더 벽돌
+item.fcItemTuningFork.name=소리굽쇠
+item.fcItemScrollArcane.name=아케인 스크롤
+item.fcItemCandle.name=양초
+item.fcItemSporesNetherGroth.name=네더 성장 포자
+item.fcItemMould.name=몰드
+item.fcItemCanvas.name=캔버스
+item.fcItemKibble.name=건조 사료
+item.fcItemEggRaw.name=날달걀
+item.fcItemEggFried.name=계란 후라이
+item.fcItemScrew.name=나사
+item.fcItemArrowRotten.name=썩은 화살
+item.fcItemOcularOfEnder.name=엔더 렌즈
+item.fcItemEnderSpectacles.name=엔더 안경
+item.fcItemStake.name=말뚝
+item.fcItemBrimstone.name=유황
+item.fcItemNitre.name=질산 칼륨
+item.fcItemElement.name=엘리먼트
+item.fcItemFuse.name=도화선
+item.fcItemBlastingOil.name=폭발성 기름
+item.fcItemWindMillVertical.name=풍차
+item.fcItemPotatoBoiled.name=삶은 감자
+item.fcItemMuttonRaw.name=익히지 않은 양고기
+item.fcItemMuttonCooked.name=익힌 양고기
+item.fcItemWitchWart.name=마녀 사마귀
+item.fcItemCarrotCooked.name=익힌 당근
+item.fcItemSandwichTasty.name=맛있는 샌드위치
+item.fcItemSteakAndPotatoes.name=스테이크와 감자
+item.fcItemHamAndEggs.name=햄과 에그
+item.fcItemDinnerSteak.name=스테이크 정식
+item.fcItemDinnerPork.name=돼지고기 정식
+item.fcItemDinnerWolf.name=늑대고기 정식
+item.fcItemKebabRaw.name=익히지 않은 케밥
+item.fcItemKebabCooked.name=익힌 케밥
+item.fcItemSoupChicken.name=치킨 수프
+item.fcItemChowder.name=차우더
+item.fcItemStewHearty.name=푸짐한 스튜
+item.fcItemMushroomRed.name=버섯
+item.fcItemMushroomBrown.name=버섯
+item.fcItemNuggetIron.name=철 조각
+item.fcItemMail.name=사슬 갑옷
+item.fcItemMysteryMeatRaw.name=익히지 않은 수수께끼 고기
+item.fcItemMysteryMeatCooked.name=익힌 수수께끼 고기
+item.fcItemMushroomOmletRaw.name=익히지 않은 버섯 오믈렛
+item.fcItemMushroomOmletCooked.name=익힌 버섯 오믈렛
+item.fcItemEggScrambledRaw.name=익히지 않은 스크램블드 에그
+item.fcItemEggScrambledCooked.name=익힌 스크램블드 에그
+item.fcItemCreeperOysters.name=크리퍼 오이스터
+item.fcItemWoolHelm.name=비니
+item.fcItemWoolChest.name=양털 조끼
+item.fcItemWoolLeggings.name=양털 바지
+item.fcItemWoolBoots.name=꼬까신
+item.fcItemPaddedHelm.name=덧댄 모자
+item.fcItemPaddedChest.name=덧댄 튜닉
+item.fcItemPaddedLeggings.name=덧댄 바지
+item.fcItemPaddedBoots.name=덧댄 장화
+item.fcItemTannedHelm.name=무두질한 가죽 모자
+item.fcItemTannedChest.name=무두질한 가죽 튜닉
+item.fcItemTannedLeggings.name=무두질한 가죽 바지
+item.fcItemTannedBoots.name=무두질한 가죽 장화
+item.fcItemIngotDiamond.name=다이아몬드 주괴
+item.fcItemLeatherCut.name=재단된 가죽
+item.fcItemLeatherTannedCut.name=재단된 무두질한 가죽
+item.fcItemLeatherScouredCut.name=재단된 매끄러운 가죽
+item.fcItemFishingRodBaited.name=미끼 끼운 낚싯대
+item.fcItemPileDirt.name=흙 더미
+item.fcItemPileSand.name=모래 더미
+item.fcItemPileGravel.name=자갈 더미
+item.fcItemBatWing.name=박쥐 날개
+item.fcItemDungGolden.name=황금 똥
+item.fcItemPileSoulSand.name=소울 샌드 더미
+item.fcItemPileEmerald.name=에메랄드 가루 더미
+item.fcItemRedstoneLatch.name=레드스톤 걸쇠
+item.fcItemNuggetSteel.name=영혼제련된 강철 조각
+item.fcItemWool.name=양털
+item.fcItemCocoaBeans.name=코코아 콩
+item.fcItemChocolate.name=초콜릿
+item.fcItemBucketChocolateMilk.name=초콜릿 우유
+item.fcItemSoulFlux.name=영혼 플럭스
+item.fcItemEnderSlag.name=엔더 슬래그
+item.fcItemPastryUncookedCake.name=케이크 반죽
+item.fcItemPastryUncookedCookies.name=쿠키 도우
+item.fcItemPastryUncookedPumpkinPie.name=조리 준비된 호박 파이
+item.fcItemMysteriousGland.name=신비로운 분비샘
+item.fcItemBeastLiverRaw.name=야수의 간
+item.fcItemBeastLiverCooked.name=익힌 간
+item.fcItemAncientProphecy.name=예언의 조각
+item.fcItemStumpRemover.name=그루터기 제거제
+item.fcItemChiselWood.name=뾰족한 막대기
+
+item.fcItemStone.stone.name=느슨한 돌
+item.fcItemStone.deepslate.name=느슨한 심층암 돌
+item.fcItemStone.blackstone.name=느슨한 흑암 돌
+
+item.fcItemChiselStone.name=날카로운 돌
+item.fcItemClub.name=나무 몽둥이
+item.fcItemFireStarterSticks.name=불 쟁기
+item.fcItemFireStarterBow.name=활비비
+item.fcItemChunkIronOre.name=철 광석 덩어리
+item.fcItemPileIronOre.name=철 광석 더미
+item.fcItemChiselIron.name=철 끌
+item.fcItemChunkGoldOre.name=금 광석 덩어리
+item.fcItemPileGoldOre.name=금 광석 더미
+item.fcItemWickerPiece.name=고리버들
+item.fcItemKnittingNeedles.name=뜨개바늘
+item.fcItemKnitting.name=뜨고 있는 양털
+item.fcItemWoolKnit.name=양털 편물
+item.fcItemClubBone.name=뼈 몽둥이
+item.fcItemMeatCured.name=절인 고기
+item.fcItemMetalFragment.name=금속 조각
+item.fcItemPileClay.name=점토 더미
+item.fcItemMeatBurned.name=탄 고기
+item.fcItemChickenFeed.name=닭 모이
+item.fcItemFishHookBone.name=뼈 낚시 바늘
+item.fcItemCarvingBone.name=미완성된 낚시 바늘
+
+item.fcItemBrickStone.stone.name=돌 벽돌
+item.fcItemBrickStone.deepslate.name=심층암 벽돌
+item.fcItemBrickStone.blackstone.name=흑암 벽돌
+
+item.fcItemWickerWeaving.name=엮고 있는 고리버들
+item.fcItemWheat.name=밀
+item.fcItemWheatSeeds.name=밀 씨앗
+item.fcItemBreadDough.name=빵 반죽
+item.fcItemStraw.name=밀짚
+item.fcItemBrickUnfired.name=젖은 벽돌
+item.fcItemBrickCrudeUnfired.name=젖은 조잡한 벽돌
+item.fcItemBrickNetherUnfired.name=젖은 네더 벽돌
+item.fcItemChiselDiamond.name=다이아몬드 끌
+item.fcItemShearsDiamond.name=다이아몬드 가위
+item.fcItemReedRoots.name=사탕수수 뿌리
+item.fcItemCarrot.name=당근
+item.fcItemCarrotSeeds.name=당근 씨앗
+item.fcItemDiamondPlate.name=다이아몬드 갑옷 플레이트
+item.fcItemMelonMashed.name=으깨진 수박
+item.fcItemBedroll.name=침낭
+item.fcItemCorpseEye.name=시체의 눈
+item.fcItemTangledWeb.name=엉킨 거미줄
+item.fcItemWebUntangling.name=풀고 있는 거미줄
+item.fcItemSinew.name=힘줄
+item.fcItemSinewExtractingBeef.name=뽑고 있는 힘줄
+item.fcItemSinewExtractingWolf.name=뽑고 있는 힘줄
+item.fcItemRawCheval.name=익히지 않은 말고기
+item.fcItemCookedCheval.name=익힌 말고기
+
+# BTW Complex Items
+
+item.fcItemBark.name=나무 껍질
+item.fcItemBark.oak.name=참나무 껍질
+item.fcItemBark.spruce.name=가문비나무 껍질
+item.fcItemBark.birch.name=자작나무 껍질
+item.fcItemBark.jungle.name=정글 나무 껍질
+item.fcItemBark.bloodwood.name=핏빛나무 껍질
+
+# Vanilla Items Renamed
+
+item.cauldron.name=저수조
+item.mushroomStew.name=버섯 크림
+item.enchantedBook.name=고대의 필사본
+item.fireworks.name=눅눅한 폭죽
+item.stick.name=자루
+item.fermentedSpiderEye.name=맹독 주머니
+item.dyePowder.brown.name=코코아 가루
+item.skull.wither.name=룬 새긴 해골
+item.skull.infused.name=주입된 해골
+item.wheat.name=구 밀
+item.seeds.name=구 씨앗
+item.carrots.name=구 당근
+item.fishRaw.name=익히지 않은 생선
+item.fishCooked.name=익힌 생선
+item.shears.name=철 가위
+
+# Colored items
+
+wool.black.name=검은색 양털
+wool.red.name=빨간색 양털
+wool.green.name=초록색 양털
+wool.brown.name=갈색 양털
+wool.blue.name=파란색 양털
+wool.purple.name=보라색 양털
+wool.cyan.name=청록색 양털
+wool.lightGray.name=회백색 양털
+wool.gray.name=회색 양털
+wool.pink.name=분홍색 양털
+wool.lime.name=연두색 양털
+wool.yellow.name=노란색 양털
+wool.lightBlue.name=하늘색 양털
+wool.magenta.name=자홍색 양털
+wool.orange.name=주황색 양털
+wool.white.name=하얀색 양털
+
+woolSlab.black.name=검은색 양털 반 블록
+woolSlab.red.name=빨간색 양털 반 블록
+woolSlab.green.name=초록색 양털 반 블록
+woolSlab.brown.name=갈색 양털 반 블록
+woolSlab.blue.name=파란색 양털 반 블록
+woolSlab.purple.name=보라색 양털 반 블록
+woolSlab.cyan.name=청록색 양털 반 블록
+woolSlab.lightGray.name=회백색 양털 반 블록
+woolSlab.gray.name=회색 양털 반 블록
+woolSlab.pink.name=분홍색 양털 반 블록
+woolSlab.lime.name=연두색 양털 반 블록
+woolSlab.yellow.name=노란색 양털 반 블록
+woolSlab.lightBlue.name=하늘색 양털 반 블록
+woolSlab.magenta.name=자홍색 양털 반 블록
+woolSlab.orange.name=주황색 양털 반 블록
+woolSlab.white.name=하얀색 양털 반 블록
+
+woolKnit.black.name=검은색 양털 편물
+woolKnit.red.name=빨간색 양털 편물
+woolKnit.green.name=초록색 양털 편물
+woolKnit.brown.name=갈색 양털 편물
+woolKnit.blue.name=파란색 양털 편물
+woolKnit.purple.name=보라색 양털 편물
+woolKnit.cyan.name=청록색 양털 편물
+woolKnit.lightGray.name=회백색 양털 편물
+woolKnit.gray.name=회색 양털 편물
+woolKnit.pink.name=분홍색 양털 편물
+woolKnit.lime.name=연두색 양털 편물
+woolKnit.yellow.name=노란색 양털 편물
+woolKnit.lightBlue.name=하늘색 양털 편물
+woolKnit.magenta.name=자홍색 양털 편물
+woolKnit.orange.name=주황색 양털 편물
+woolKnit.white.name=하얀색 양털 편물
+
+candle.black.name=검은색 양초
+candle.red.name=빨간색 양초
+candle.green.name=초록색 양초
+candle.brown.name=갈색 양초
+candle.blue.name=파란색 양초
+candle.purple.name=보라색 양초
+candle.cyan.name=청록색 양초
+candle.lightGray.name=회백색 양초
+candle.gray.name=회색 양초
+candle.pink.name=분홍색 양초
+candle.lime.name=연두색 양초
+candle.yellow.name=노란색 양초
+candle.lightBlue.name=하늘색 양초
+candle.magenta.name=자홍색 양초
+candle.orange.name=주황색 양초
+candle.white.name=하얀색 양초
+
+vase.black.name=검은색 꽃병
+vase.red.name=빨간색 꽃병
+vase.green.name=초록색 꽃병
+vase.brown.name=갈색 꽃병
+vase.blue.name=파란색 꽃병
+vase.purple.name=보라색 꽃병
+vase.cyan.name=청록색 꽃병
+vase.lightGray.name=회백색 꽃병
+vase.gray.name=회색 꽃병
+vase.pink.name=분홍색 꽃병
+vase.lime.name=연두색 꽃병
+vase.yellow.name=노란색 꽃병
+vase.lightBlue.name=하늘색 꽃병
+vase.magenta.name=자홍색 꽃병
+vase.orange.name=주황색 꽃병
+vase.white.name=하얀색 꽃병
+
+# Potions
+
+potion.fcFortune=행운
+potion.fcLooting=약탈
+potion.fcTrueSight=절대 시야
+potion.hunger=식중독
+
+# Container
+
+container.fcFurnaceBrick=벽돌 오븐
+container.fcHamper=광주리
+container.fcMillStone=맷돌
+
+# Entities
+
+entity.fcDireWolf.name=야수
+entity.fcJungleSpider.name=정글 거미
+entity.WitherSkeleton.name=위더 스켈레톤
+entity.addonVillagerFarmer.name=농부
+entity.addonVillagerBlacksmith.name=대장장이
+entity.addonVillagerButcher.name=도축업자
+entity.addonVillagerLibrarian.name=사서
+entity.addonVillagerPriest.name=성직자
+
+# KeyBindings
+
+key.special=대체 용도
+
+# Chat Messages
+
+message.warning=[경고]: %1$s
+item.fcItemWaterWheel.placementObstructed=물레방아 설치가 무언가, 혹은 당신에 의해 방해받고 있습니다
+item.fcItemWaterWheel.notEnoughRoom=물레방아를 놓을 공간이 부족합니다
+message.windMill.placementObstructed=풍차 설치가 무언가, 혹은 당신에 의해 방해받고 있습니다
+message.windMill.notEnoughRoom=풍차를 놓을 공간이 부족합니다 (풍차는 엄청 거대해요!!)
+item.fcItemWindMillVertical.tooFewAxles=풍차를 설치하기엔 기둥을 이루는 세로 축이 너무 적습니다
+tile.beacon.playerBound=당신은 이 신호등에 귀속 되었습니다
+tile.beacon.invalid=당신의 리스폰 위치가 유효하지 않습니다
+tile.beacon.notPresent=당신이 귀속된 신호등이 더 이상 존재하지 않습니다
+tile.beacon.tooFar=당신이 귀속된 신호등이 너무 멀리 떨어져 있습니다
+tile.beacon.obstructed=당신이 귀속된 신호등이 가로막혀 있습니다
+tile.beacon.unknown=당신의 리스폰이 알 수 없는 이유로 실패했습니다
+tile.bed.sleepImpossible=당신은 여기서 쉬기엔 너무 괴롭습니다
+tile.fcBlockHandCrank.playerExhausted=당신은 노동일을 하기엔 너무 지쳤습니다
+item.enchantedBook.languageUnfamiliar=이 글의 언어는 당신에게 낯설게 느껴집니다
+message.death.newSpawn=당신은 바람에 날려 버려졌다...
+message.death.newSpawnNearPlayers=당신은 바람에 날려 버려졌지만, 누군가 근처에 있는 것 같다...
+message.death.oldSpawn=이곳은 낯이 익다...
+message.worldSpawn.failed=해당 시드는 올바른 월드 생성 위치를 만들지 못했습니다. 이 세계를 플레이하여 생기는 문제는 전적으로 본인의 책임입니다.
+chat.type.local=[로컬] <%s> %s
+chat.type.global=[글로벌] <%s> %s
+
+# Death Messages
+
+death.attack.fcSaw=%1$s이(가) 편히 조각났습니다
+death.attack.fcChoppingBlock=%1$s이(가) 절단 블록에 밀어 넣어졌습니다
+death.attack.fcGroth=%1$s이(가) 곰팡이와 하나가 되었습니다
+death.attack.fcGrothSpores=%1$s이(가) 곰팡이의 위협에 굴복했습니다
+death.attack.fcMelon=%1$s이(가) 수박에 파묻혔습니다
+death.attack.fcPumpkin=%1$s은(는) 호박을 쓰는 법을 잘못 알았습니다
+death.attack.fcGloom=%1$s이(가) 어둠에 집어 삼켜졌습니다
+
+# Status effects
+
+status.invalid=무효함
+
+status.gloom.gloom=우울
+status.gloom.dread=불안
+status.gloom.terror=공포
+
+status.hunger.peckish=약간 배고픔
+status.hunger.hungry=배고픔
+status.hunger.famished=굶주림
+status.hunger.emaciated=야윔
+status.hunger.starving=굶어 죽어감
+
+status.health.hurt=다침
+status.health.injured=상처 입음
+status.health.wounded=심하게 다침
+status.health.crippled=불구
+status.health.dying=죽어감
+
+status.fat.plump=통통함
+status.fat.chubby=살이 찜
+status.fat.fat=뚱뚱함
+status.fat.obese=비만
+
+# Commands
+
+commands.difficulty.usage=/difficulty [새 난이도]
+commands.difficulty.unknown=알 수 없는 난이도 모드
+commands.difficulty.current=현재 난이도:
+commands.difficulty.set=다음 난이도로 설정됨:
+
+commands.global.usage=/g 또는 /global <당신의 메시지 ...>
+
+command.serverLoc.current=현재 위치
+command.serverLoc.usage=/loc
+
+command.time.currentWorldTime=현재 오버월드 시간
+command.time.totalWorldTime=총 오버월드 시간
+
+# Menu strings
+
+selectWorld.difficulty=난이도
+selectWorld.gameMode=게임 모드:
+selectWorld.gameMode.survival=하드코어 서바이벌
+selectWorld.gameMode.survival.line1=무작위 장소에 리스폰합니다
+selectWorld.gameMode.survival.line2=죽게 되면, 나침반을 만들어서
+selectWorld.gameMode.survival.line3=스폰으로 돌아올 수 있습니다.
+selectWorld.gameMode.creative.line1=무한한 자원이 있고, 날 수
+selectWorld.gameMode.creative.line2=있고, 블럭을 즉시 부술
+selectWorld.gameMode.creative.line3=수 있습니다.
+selectWorld.gameMode.survivalClassic=서바이벌
+selectWorld.gameMode.survivalClassic.line1=일반적인 바닐라 서바이벌.
+selectWorld.gameMode.survivalClassic.line2=죽게 되면 월드 스폰
+selectWorld.gameMode.survivalClassic.line3=지점에서 리스폰합니다.
+
+deathScreen.respawnRandomly=무작위로 리스폰
+deathScreen.respawnNearby=주변에 리스폰
+
+options.lock_difficulty=세계 난이도 고정
+options.lock_difficulty.warning=정말 난이도를 고정하시겠습니까? 다시는 변경할 수 없게 됩니다.
+
+options.borderlessFullscreen=테두리없는 창 모드
+
+difficulty.btw.standard.name=보통
+difficulty.btw.standard.description=가장 표준적인 경험입니다.
+difficulty.btw.standard.description2=적당한 수준의 도전을 원하는
+difficulty.btw.standard.description3=분들에게 추천합니다.
+
+difficulty.btw.relaxed.name=여유로움
+difficulty.btw.relaxed.description=더 여유로운 경험입니다.
+difficulty.btw.relaxed.description2=생존에 대한 압박이 덜한 플레이를
+difficulty.btw.relaxed.description3=원하는 분들에게 추천합니다.
+
+difficulty.btw.hostile.name=적대적
+difficulty.btw.hostile.description=훨씬 더 어려운 경험입니다.
+difficulty.btw.hostile.description2=최고 수준의 도전을 원하는
+difficulty.btw.hostile.description3=분들에게 추천합니다.
+
+difficulty.btw.hostile_restricted.name=적대적
+
+difficulty.btw.classic.name=클래식
+difficulty.btw.classic.description=구식 BTW의 경험입니다.
+difficulty.btw.classic.description2=초창기 기술 중심의 BTW로 돌아갑니다.
+difficulty.btw.classic.description3=생존 난이도는 거의 없습니다.
+
+# Attributes
+
+attribute.name.generic.armor=방어
+attribute.name.generic.armorWeight=갑옷 무게
+attribute.name.generic.hungerCost=배고픔 소모값
+
+attribute.name.generic.hungerCost.tiny=약간의
+attribute.name.generic.hungerCost.small=적은
+attribute.name.generic.hungerCost.medium=중간의
+attribute.name.generic.hungerCost.large=많은
+
+# Achievements
+
+achievementtab.getting_started=첫걸음
+achievementtab.iron_age=철기 시대
+achievementtab.automation=자동화
+achievementtab.end_game=최종장
+achievementtab.extras=번외
+
+achievement.btw.question_mark=숨겨진 도전과제
+achievement.btw.question_mark.desc=이 업적을 해금하는 방법에 대한 세부 사항은 미스터리입니다
+
+achievement.btw.find_reeds=슈가 크러쉬
+achievement.btw.find_reeds.desc=늪이나 정글에서 사탕수수를 찾으세요
+
+achievement.btw.craft_wicker=너랑 엮이기 싫어
+achievement.btw.craft_wicker.desc=사탕수수를 엮어서 고리버들을 만드세요
+
+achievement.btw.craft_basket=소풍 갈 시간!
+achievement.btw.craft_basket.desc=고리버들로 바구니를 만드세요
+
+achievement.btw.find_bones=뼈맞았어
+achievement.btw.find_bones.desc=뼈를 찾으세요
+
+achievement.btw.craft_bone_club=몽둥이 찜질 시간!
+achievement.btw.craft_bone_club.desc=3번 불러도 대답 안하면 찾아갈거에요
+
+achievement.btw.killed_skeleton_with_club=그거 내 친구였다고!
+achievement.btw.killed_skeleton_with_club.desc=뼈 몽둥이로 스켈레톤을 잡으세요
+
+achievement.btw.craft_bone_hook=후크 선장님
+achievement.btw.craft_bone_hook.desc=뼈를 깎아내세요
+
+achievement.btw.bait_fishing_rod=강태공이 세월을 낚듯
+achievement.btw.bait_fishing_rod.desc=미끼를 핫바에 둔 채로 낚싯대를 사용해서 즉시 미끼를 끼우세요
+
+achievement.btw.find_shaft=축 쳐지네
+achievement.btw.find_shaft.desc=그냥 계속 나무만 치세요!
+
+achievement.btw.craft_wooden_club=내 첫 무기
+achievement.btw.craft_wooden_club.desc=나무 몽둥이를 얻으세요
+
+achievement.btw.craft_fire_plough=더 세게, 더 빠르게
+achievement.btw.craft_fire_plough.desc=불 쟁기를 사용해서 불을 지피세요
+
+achievement.btw.craft_campfire=바베큐 시간
+achievement.btw.craft_campfire.desc=고기를 구울 모닥불을 얻으세요
+
+achievement.btw.craft_pointy_stick=눈 가까이에 대지 마세요!
+achievement.btw.craft_pointy_stick.desc=자루를 뾰족하게 만드세요
+
+achievement.btw.cook_meat=밥도둑
+achievement.btw.cook_meat.desc=모닥불이나 오븐에 고기를 구우세요
+
+achievement.btw.craft_knitting_needles=그래니 모드 잠금 해제됨
+achievement.btw.craft_knitting_needles.desc=뾰족한 막대기를 사용하여 한 쌍의 뜨개바늘을 만드세요
+
+achievement.btw.craft_wool_knit=부드럽고 따뜻해
+achievement.btw.craft_wool_knit.desc=이 뜨개바늘을 쓸 시간!
+
+achievement.btw.equip_wool_armor=푹신하게 날 감싸줘
+achievement.btw.equip_wool_armor.desc=양털 편물로 옷을 만드세요
+
+achievement.btw.craft_sharp_stone=땐석기 시대
+achievement.btw.craft_sharp_stone.desc=날카로운 돌을 얻으세요
+
+achievement.btw.find_string=끈적해요
+achievement.btw.find_string.desc=거미로부터 실을 얻으세요
+
+achievement.btw.craft_bedroll=잘자요 굿나잇
+achievement.btw.craft_bedroll.desc=밤을 보내기 위해 침낭을 구하세요
+
+achievement.btw.craft_stone_shovel=난 매일 삽질해
+achievement.btw.craft_stone_shovel.desc=돌 삽을 얻으세요
+
+achievement.btw.craft_wet_bricks=미래를 빛어갑니다
+achievement.btw.craft_wet_bricks.desc=점토 덩이를 조잡한 점토 벽돌로 빛으세요
+
+achievement.btw.craft_stone_axe=도끼 능력 평가
+achievement.btw.craft_stone_axe.desc=돌 도끼를 얻으세요
+
+achievement.btw.craft_bow_drill=오른손으로 비비고
+achievement.btw.craft_bow_drill.desc=활비비를 얻어서 불을 더 빨리 지피세요
+
+achievement.btw.craft_bark_box=사과 상자
+achievement.btw.craft_bark_box.desc=나무 껍질 박스를 얻어서 귀중품을 보관하세요
+
+achievement.btw.craft_stone_hoe=괭장히 힘든 일
+achievement.btw.craft_stone_hoe.desc=돌 괭이를 만들어서 농경 시대를 여세요
+
+achievement.btw.find_logs=주먹질은 이제 그만
+achievement.btw.find_logs.desc=도끼를 써서 나무를 베세요
+
+achievement.btw.dry_bricks=태양이 구워준 점토 쿠키
+achievement.btw.dry_bricks.desc=점토를 벽돌 모양으로 만들고, 햇빛에 두고 말리세요
+
+achievement.btw.craft_oven=오븐브레이크
+achievement.btw.craft_oven.desc=벽돌 반 블록으로 벽돌 오븐을 만드세요
+
+achievement.btw.mine_iron_ore=큰 덩어리
+achievement.btw.mine_iron_ore.desc=철 광석 덩어리를 얻으세요
+
+achievement.btw.smelt_iron=이게 전부야?
+achievement.btw.smelt_iron.desc=철 덩어리를 녹이세요
+
+achievement.btw.craft_iron_chisel=나의 첫 철 도구
+achievement.btw.craft_iron_chisel.desc=철 끌을 얻으세요
+
+achievement.btw.make_work_stump=작업 걸기
+achievement.btw.make_work_stump.desc=나무 그루터기에 철 끌을 사용하여 작업 그루터기를 만드세요
+
+achievement.btw.find_stone_brick=네모난거
+achievement.btw.find_stone_brick.desc=철 끌로 돌을 조각하세요
+
+achievement.btw.craft_stone_pickaxe=채굴 개시
+achievement.btw.craft_stone_pickaxe.desc=돌 곡괭이를 얻으세요
+
+achievement.btw.craft_iron_ingot=철이 철철 넘쳐
+achievement.btw.craft_iron_ingot.desc=철 주괴를 얻으세요
+
+achievement.btw.mine_diamond_ore=다이아몬드다!
+achievement.btw.mine_diamond_ore.desc=다이아몬드를 캐세요
+
+achievement.btw.mine_redstone_ore=반짝여!
+achievement.btw.mine_redstone_ore.desc=레드스톤을 캐세요
+
+achievement.btw.power_the_cake=당신도 하고 싶다는걸 알잖아요
+achievement.btw.power_the_cake.desc=케이크에 전력을 공급하세요
+
+achievement.btw.craft_compass=복구 모드
+achievement.btw.craft_compass.desc=나침반을 얻어서 원래 스폰 위치를 찾으세요
+
+#Iron Age Tab
+
+achievement.btw.iron_age=철기 시대
+achievement.btw.iron_age.desc=철 주괴를 얻으세요
+
+achievement.btw.equip_iron_armor=차려입기
+achievement.btw.equip_iron_armor.desc=철 갑옷으로 자신을 보호하세요
+
+achievement.btw.craft_iron_pickaxe=이제 철 좀 들어라
+achievement.btw.craft_iron_pickaxe.desc=철 곡괭이를 얻으세요
+
+achievement.btw.craft_iron_axe=아마추어 목수
+achievement.btw.craft_iron_axe.desc=철과 자루를 사용해 도끼를 만드세요
+
+achievement.btw.craft_iron_hoe=농사 개시
+achievement.btw.craft_iron_hoe.desc=철 괭이를 얻으세요
+
+achievement.btw.craft_iron_shears=싹둑 싹둑!
+achievement.btw.craft_iron_shears.desc=철 가위 한 쌍을 얻으세요. 가위는 대마, 그리고.. 다른 초록색의 것을 자르는데 탁월합니다.
+
+achievement.btw.find_hemp_seeds=씨앗이 자라나는 곳
+achievement.btw.find_hemp_seeds.desc=잔디를 갈아서 대마 씨앗을 얻으세요
+
+achievement.btw.harvest_hemp=산업의 첫걸음
+achievement.btw.harvest_hemp.desc=대마 식물의 윗 부분을 수확하세요
+
+achievement.btw.craft_planks=나무 고맙습니다
+achievement.btw.craft_planks.desc=판자를 얻으세요
+
+achievement.btw.craft_hamper=더 큰 바구니
+achievement.btw.craft_hamper.desc=광주리를 얻으세요
+
+achievement.btw.craft_gear=기어이 여기까지
+achievement.btw.craft_gear.desc=기어를 얻으세요
+
+achievement.btw.craft_millstone=맷돌 돌리기
+achievement.btw.craft_millstone.desc=맷돌을 얻으세요
+
+achievement.btw.craft_hand_crank=블리츠-핸드-크랭크
+achievement.btw.craft_hand_crank.desc=핸드 크랭크를 얻으세요
+
+achievement.btw.grind_hemp_fibers=섬유질이 풍부해요
+achievement.btw.grind_hemp_fibers.desc=맷돌에 대마를 갈으세요
+
+achievement.btw.craft_sail=바람을 쫒다
+achievement.btw.craft_sail.desc=천으로 돛을 만드세요
+
+achievement.btw.craft_windmill=풍차돌리기
+achievement.btw.craft_windmill.desc=풍차를 얻으세요
+
+achievement.btw.boat_with_sail=원피스를 찾아서
+achievement.btw.boat_with_sail.desc=돛을 이용해서 보트로 더 빨리 이동하세요
+
+achievement.btw.craft_cauldron=수프에 뼈는 신경 쓰지 마세요
+achievement.btw.craft_cauldron.desc=가마솥을 얻으세요
+
+achievement.btw.find_dung=더러워!
+achievement.btw.find_dung.desc=늑대의 똥 조각을 찾으세요
+
+achievement.btw.craft_tanned_leather=여름 선탠하러 가요
+achievement.btw.craft_tanned_leather.desc=무두질한 가죽을 만드세요
+
+achievement.btw.craft_saw=전문 목수
+achievement.btw.craft_saw.desc=톱을 얻으세요
+
+achievement.btw.craft_chest=저 넓은 공간 좀 봐
+achievement.btw.craft_chest.desc=상자를 얻으세요
+
+achievement.btw.find_creeper_oysters=영 좋지 않은 곳에 닿았어요
+achievement.btw.find_creeper_oysters.desc=크리퍼에게서 오이스터를 잘라내세요
+
+achievement.btw.find_diamonds=다이아몬드다!
+achievement.btw.find_diamonds.desc=다이아몬드를 캐세요
+
+achievement.btw.craft_diamond_ingot=눈부셔!
+achievement.btw.craft_diamond_ingot.desc=다이아몬드 주괴를 얻으세요
+
+achievement.btw.listen_to_music=막춤 출 시간
+achievement.btw.listen_to_music.desc=음반을 들어보세요
+
+achievement.btw.craft_diamond_pick=깊이 파고들기
+achievement.btw.craft_diamond_pick.desc=다이아몬드 곡괭이를 얻으세요
+
+achievement.btw.equip_diamond_armor=다이아몬드로 날 감싸줘
+achievement.btw.equip_diamond_armor.desc=다이아몬드 갑옷을 착용하세요
+
+achievement.btw.find_obsidian=아이스 버킷 챌린지
+achievement.btw.find_obsidian.desc=흑요석을 얻으세요
+
+achievement.btw.enter_nether=더 깊은 곳으로
+achievement.btw.enter_nether.desc=네더로 이동하세요
+
+achievement.btw.craft_hopper=거르고 줍고
+achievement.btw.craft_hopper.desc=깔때기를 얻으세요
+
+achievement.btw.make_hellfire_dust=자유로운 영혼들
+achievement.btw.make_hellfire_dust.desc=간 네더랙에서 헬파이어 가루를 걸러내세요
+
+achievement.btw.find_blaze_rod=포화 속으로
+achievement.btw.find_blaze_rod.desc=블레이즈한테서 막대기를 해방 시켜주세요
+
+achievement.btw.locate_fortress_with_pile=요새의 속삭임
+achievement.btw.locate_fortress_with_pile.desc=지옥에서 소울 샌드 더미를 사용하여 근처의 요새를 찾아가세요
+
+achievement.btw.use_emerald_pile=반짝이는 나침반
+achievement.btw.use_emerald_pile.desc=오버월드에서 에메랄드 가루 더미를 사용하여 근처의 마을을 찾아가세요
+
+achievement.btw.craft_nether_coal=더 나은 횃불
+achievement.btw.craft_nether_coal.desc=네더 석탄을 얻으세요
+
+achievement.btw.craft_hibachi=원할때 언제든지 불을
+achievement.btw.craft_hibachi.desc=히바치를 얻으세요
+
+achievement.btw.craft_turntable=빙빙돈다
+achievement.btw.craft_turntable.desc=물레를 얻으세요
+
+achievement.btw.craft_bellows=날 날려줘
+achievement.btw.craft_bellows.desc=풀무를 얻으세요
+
+achievement.btw.stoke_fire=불길 돋우기
+achievement.btw.stoke_fire.desc=풀무를 사용하여 히바치의 불을 솟아오르게 하세요
+
+achievement.btw.spin_pottery=도기의 능력
+achievement.btw.spin_pottery.desc=물레에 점토를 두고 돌려 도기를 만드세요
+
+achievement.btw.craft_crucible=재활용 시간!
+achievement.btw.craft_crucible.desc=굽지 않은 도가니를 가마에서 구우세요
+
+achievement.btw.craft_urn=보관 준비 완료
+achievement.btw.craft_urn.desc=굽지 않은 단지를 가마에서 구우세요
+
+achievement.btw.craft_soul_urn=봉인 완료!
+achievement.btw.craft_soul_urn.desc=전기 공급중인 깔때기 밑에 단지를 놓아서 걸러진 영혼을 포획하세요
+
+achievement.btw.craft_water_wheel=물의 힘
+achievement.btw.craft_water_wheel.desc=물레방아를 얻으세요
+
+achievement.btw.craft_dynamite=..와 레이저 빔처럼!
+achievement.btw.craft_dynamite.desc=다이너마이트를 얻으세요
+
+achievement.btw.redneck_fishing=이히히히!
+achievement.btw.redneck_fishing.desc=다이너마이트를 웅덩이에 던져 물고기를 얻으세요
+
+achievement.btw.blew_up_with_blasting_oil=터져버렸어
+achievement.btw.blew_up_with_blasting_oil.desc=폭발성 기름으로 자폭하세요. 어이쿠!
+
+#Automation Tab
+
+achievement.btw.craft_piston=떠밀기
+achievement.btw.craft_piston.desc=피스톤을 얻으세요
+
+achievement.btw.make_piston_packer=압축하기
+achievement.btw.make_piston_packer.desc=피스톤을 사용해서 아이템을 블록으로 압축하세요
+
+achievement.btw.use_piston_shovel=마구 파내기
+achievement.btw.use_piston_shovel.desc=피스톤 삽을 사용해서 블록을 파내세요
+
+achievement.btw.craft_nether_plant=이거.. 살아있잖아!
+achievement.btw.craft_nether_plant.desc=새 생명을 창조하세요
+
+achievement.btw.fertilize_nether_plant=영혼에 영양 주기
+achievement.btw.fertilize_nether_plant.desc=영혼 단지로 당신의 새 창조물에 영양분을 주세요
+
+achievement.btw.anger_pigmen_with_plants=악취가 나서 싫대요
+achievement.btw.anger_pigmen_with_plants.desc=네더 성장이나 핏빛나무를 심어서 좀비 피그맨을 화나게 하세요
+
+achievement.btw.cure_villager=좀비 의사
+achievement.btw.cure_villager.desc=좀비 주민에게 영혼을 다시 넣어주세요
+
+achievement.btw.traded_with_butcher=도축업 견습생
+achievement.btw.traded_with_butcher.desc=도축업자와 거래하세요
+
+achievement.btw.max_level_butcher=도축업 전문가
+achievement.btw.max_level_butcher.desc=도축업자를 최대 레벨로 올리세요.
+
+achievement.btw.traded_with_priest=수습 사제
+achievement.btw.traded_with_priest.desc=성직자와 거래하세요
+
+achievement.btw.max_level_priest=사제장
+achievement.btw.max_level_priest.desc=성직자를 최대 레벨로 올리세요
+
+achievement.btw.traded_with_librarian=사서 견습생
+achievement.btw.traded_with_librarian.desc=사서와 거래하세요
+
+achievement.btw.max_level_librarian=수석 사서
+achievement.btw.max_level_librarian.desc=사서를 최대 레벨로 올리세요
+
+achievement.btw.make_companion_cube=인생의 동반자
+achievement.btw.make_companion_cube.desc=늑대를 동행 큐브로 바꿔버리세요
+
+achievement.btw.make_companion_slab=보다 콤팩트한 동반자
+achievement.btw.make_companion_slab.desc=당신의 친구를 반 블록으로 바꿔버리세요
+
+achievement.btw.traded_with_blacksmith=수습 대장장이
+achievement.btw.traded_with_blacksmith.desc=대장장이와 거래하세요
+
+achievement.btw.max_level_blacksmith=장인 대장장이
+achievement.btw.max_level_blacksmith.desc=대장장이를 최대 레벨로 올리세요
+
+achievement.btw.traded_with_farmer=농업 견습생
+achievement.btw.traded_with_farmer.desc=농부와 거래하세요
+
+achievement.btw.max_level_farmer=농업 전문가
+achievement.btw.max_level_farmer.desc=농부를 최대 레벨로 올리세요
+
+achievement.btw.toss_the_milk=우유를 던지기
+achievement.btw.toss_the_milk.desc=우유를 던져주세요
+
+achievement.btw.get_runed_skull=으스스한 스켈레톤
+achievement.btw.get_runed_skull.desc=룬 새긴 해골을 얻으세요
+
+achievement.btw.get_infused_skull=빛나는 눈까지!
+achievement.btw.get_infused_skull.desc=룬 새긴 해골을 주입된 해골로 바꾸세요
+
+achievement.btw.summon_wither=시들어 버린 언덕
+achievement.btw.summon_wither.desc=위더를 소환하세요
+
+achievement.btw.killed_wither=사그라지다
+achievement.btw.killed_wither.desc=위더를 쓰러뜨리세요
+
+achievement.btw.crafted_beacon=신호기 꾸리기
+achievement.btw.crafted_beacon.desc=신호기를 얻으세요
+
+achievement.btw.find_dormant_soulforge=쉬이이잇 자고 있다고
+achievement.btw.find_dormant_soulforge.desc=잠자는 영혼제련대를 찾으세요
+
+achievement.btw.convert_soulforge=제련대를 깨우다
+achievement.btw.convert_soulforge.desc=잠자는 영혼제련대를 깨우세요
+
+achievement.btw.convert_eyes_of_ender=섭리의 눈
+achievement.btw.convert_eyes_of_ender.desc=엔더 진주를 엔더의 눈으로 교환하세요
+
+achievement.btw.enter_end=끝이야?
+achievement.btw.enter_end.desc=엔드에 진입하세요
+
+#End Game Tab
+
+achievement.btw.killed_dragon=엔드 해방
+achievement.btw.killed_dragon.desc=엔더 드래곤을 쓰러뜨리세요
+
+achievement.btw.craft_steel=다이아몬드보다 단단해
+achievement.btw.craft_steel.desc=영혼제련된 강철 주괴를 얻으세요
+
+achievement.btw.craft_steel_combo_tool=정교한 도구들!
+achievement.btw.craft_steel_combo_tool.desc=매톡이나 전투 도끼를 얻어서 인벤토리 공간을 절약하세요
+
+achievement.btw.equip_steel_armor=영혼으로 날 감싸줘
+achievement.btw.equip_steel_armor.desc=판금 갑옷을 착용하세요
+
+achievement.btw.craft_infernal_enchanter=어둠의 의식
+achievement.btw.craft_infernal_enchanter.desc=지옥의 마법부여대를 얻으세요
+
+achievement.btw.use_infernal_enchanter=스크롤 견습생
+achievement.btw.use_infernal_enchanter.desc=지옥의 마법부여대에서 아케인 스크롤을 사용하세요
+
+achievement.btw.max_infernal_enchant=스크롤 전문가
+achievement.btw.max_infernal_enchant.desc=지옥의 마법부여대를 사용하여 아이템을 최대 능력치로 마법 부여하세요
+
+achievement.btw.max_steel_beacon=최종장
+achievement.btw.max_steel_beacon.desc=4단계 강철 신호기를 구축하세요
+
+achievement.btw.steel_beacon_respawn_across_dimensions=2차원을 가로질러
+achievement.btw.steel_beacon_respawn_across_dimensions.desc=죽은 차원과 다른 차원에 있는 강철 신호기에서 리스폰하세요
+
+achievement.btw.get_bootsies=Better Than Socks
+achievement.btw.get_bootsies.desc=한 쌍의 꼬까신을 얻으세요
+
+achievement.btw.eatOysters=매콤한 간식
+achievement.btw.eatOysters.name=크리퍼 오이스퍼를 먹으세요
+# Whatever it is, the taste is explosive / Better than Caviar
+
+achievement.btw.cleanFarmer=떨어뜨리지 마세요!
+achievement.btw.cleanFarmer.desc=더러운 농부에게 비누를 팔아 그를 깨끗하게 하세요
+
+achievement.btw.milkBucket=우유 양동이%
+achievement.btw.milkBucket.desc=우유 한 양동이를 마시세요
+
+achievement.btw.eatMysteryMeat=소일렌트 그린
+achievement.btw.eatMysteryMeat.desc="모두에게 말해. 잘 들어, 해처. 저들에게 말해야 한다고!"
+
+# achievement.btw.eatStew=
+# achievement.btw.eatStew.desc=
+
+# Extras Tab
+
+achievement.btw.possess_entity=영혼들은 집을 원해요
+achievement.btw.possess_entity.desc=동물(혹은 마을 주민, 취향은 존중해 드립니다)에게 저주받은 영혼이 깃들게 하세요
+
+achievement.btw.possess_entity_with_death=숙주 변경
+achievement.btw.possess_entity_with_death.desc=영혼 깃든 동물을 죽이고 그 속의 영혼이 새 숙주를 찾게 하세요
+
+achievement.btw.possess_chicken=기다려보세요...
+achievement.btw.possess_chicken.desc=닭을 빙의시키세요
+
+achievement.btw.possessed_chicken_explodes=펑!
+achievement.btw.possessed_chicken_explodes.desc=닭이 수많은 깃털로 터지게 하세요
+
+achievement.btw.possess_cow=이 우유 맛이 신기한데...
+achievement.btw.possess_cow.desc=소을 빙의시키세요
+
+achievement.btw.cow_mutant_birth=러브크래프트가 자랑스러워 할 겁니다
+achievement.btw.cow_mutant_birth.desc=빙의된 소가 돌연변이를 낳게 하세요
+
+achievement.btw.possess_wolf=쟤 머리 원래 저러는거야?
+achievement.btw.possess_wolf.desc=늑대를 빙의시키세요
+
+achievement.btw.possess_squid_with_wolf=이제 영혼을 통해 생각하시는군요
+achievement.btw.possess_squid_with_wolf.desc=늑대를 통해 오징어를 빙의시키세요... 의도한거길 바래요!
+
+achievement.btw.squid_transforms_into_ghast=기분이 좋지 않아보이네요
+achievement.btw.squid_transforms_into_ghast.desc=오징어를 빙의시켜서 가스트로 변신 시키세요
+
+achievement.btw.possess_sheep=공기보다 가벼워
+achievement.btw.possess_sheep.desc=양을 빙의시키세요
+
+achievement.btw.shear_possessed_sheep_with_block_dispenser=기계식 양털 깎기의 기적
+achievement.btw.shear_possessed_sheep_with_block_dispenser.desc=빙의된 양이 떠오를때 블록 발사기로 털을 깎으세요
+
+achievement.btw.lead_possessed_sheep=풍선 아저씨
+achievement.btw.lead_possessed_sheep.desc=떠오르는 양을 끈으로 묶으세요
+
+achievement.btw.sheep_dive_bomb=자연이 치유되고 있습니다
+achievement.btw.sheep_dive_bomb.desc=양이 영혼을 기부하는 현장을 목격하세요
+
+achievement.btw.possess_pig=그만 꿀꿀대
+achievement.btw.possess_pig.desc=돼지를 빙의시키세요
+
+achievement.btw.possess_horse=접착제 공장 견학
+achievement.btw.possess_horse.desc=말을 빙의시키세요
+
+achievement.btw.possess_villager=악마도 한 수 접겠네요
+achievement.btw.possess_villager.desc=주민을 빙의시키세요
+
+# achievement.btw.killBeast=
+# achievement.btw.killBeast.desc=
+
+# Possible secret achievements:
+# Activate a tier 4 diamond / emerald / soulforge beacon. soulforge could also be the final achievement in main line
+# get a rare sheep mutation proc
+# toss the milk
