@@ -26,7 +26,8 @@ jobs:
           VERSION="v-$(date -u +%Y%m%d%H%M%S)-${SHORT_SHA}"
           echo "INJECTED_VERSION=$VERSION" >> $GITHUB_ENV
           
-          JAR_NAME="repo-${SHORT_SHA}.jar"
+          # Update JAR name to include the version
+          JAR_NAME="btw-translations-$VERSION.jar"
           echo "JAR_NAME=$JAR_NAME" >> $GITHUB_ENV
 
       - name: Inject version into fabric.mod.json
